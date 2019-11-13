@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 def process():
+
     relationships=pd.read_csv('datasets/relationships/relationships.tsv',sep='\t').fillna('')
     clinical_ann=pd.read_csv('datasets/annotations/clinical_ann.tsv',sep='\t').fillna('')
     clinical_ann_metadata=pd.read_csv('datasets/annotations/clinical_ann_metadata.tsv',sep='\t').fillna('')
