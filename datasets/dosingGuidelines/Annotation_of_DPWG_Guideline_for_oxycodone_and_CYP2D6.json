@@ -1,0 +1,1278 @@
+{
+  "citations" : [ {
+    "@id" : "https://pharmgkb.org/literature/7283333",
+    "@context" : "https://api.pharmgkb.org/jsonld/literature.jsonld",
+    "id" : 7283333,
+    "resourceId" : "21412232",
+    "title" : "Pharmacogenetics: from bench to byte--an update of guidelines.",
+    "authors" : [ "Swen J J", "Nijenhuis M", "de Boer A", "Grandia L", "Maitland-van der Zee A H", "Mulder H", "Rongen G A P J M", "van Schaik R H N", "Schalekamp T", "Touw D J", "van der Weide J", "Wilffert B", "Deneer V H M", "Guchelaar H-J" ],
+    "hasKeyword" : true,
+    "journal" : "Clinical pharmacology and therapeutics",
+    "meshDiseases" : [ ],
+    "meshTerms" : [ "Animals", "Aryl Hydrocarbon Hydroxylases", "Cytochrome P-450 CYP2C9", "Drug Administration Schedule", "Drug-Related Side Effects and Adverse Reactions", "Humans", "Pharmaceutical Preparations", "Pharmacogenetics", "Practice Guidelines as Topic" ],
+    "month" : 5,
+    "nonHuman" : false,
+    "page" : "662-73",
+    "pgkbPublication" : false,
+    "pubDate" : "2011-05-01T00:00:00-07:00",
+    "sameAs" : "https://www.ncbi.nlm.nih.gov/pubmed/21412232",
+    "sentences" : [ {
+      "id" : 7283334,
+      "location" : "Title",
+      "sentenceIndex" : 0,
+      "text" : "Pharmacogenetics: From Bench to Byte- An Update of Guidelines"
+    }, {
+      "id" : 7283335,
+      "location" : "Abstract",
+      "sentenceIndex" : 1,
+      "text" : "Currently, there are very few guidelines linking the results of pharmacogenetic tests to specific therapeutic recommendations."
+    }, {
+      "id" : 7283336,
+      "location" : "Abstract",
+      "sentenceIndex" : 2,
+      "text" : "Therefore, the Royal Dutch Association for the Advancement of Pharmacy established the Pharmacogenetics Working Group with the objective of developing pharmacogenetics-based therapeutic (dose) recommendations."
+    }, {
+      "id" : 7283337,
+      "location" : "Abstract",
+      "sentenceIndex" : 3,
+      "text" : "After systematic review of the literature, recommendations were developed for 53 drugs associated with genes coding for CYP2D6, CYP2C19, CYP2C9, thiopurine-S-methyltransferase (TPMT), dihydropyrimidine dehydrogenase (DPD), vitamin K epoxide reductase (VKORC1), uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1), HLA-B44, HLA-B*5701, CYP3A5, and factor V Leiden (FVL)."
+    }, {
+      "id" : 7283356,
+      "location" : "Full Text",
+      "sentenceIndex" : 4,
+      "text" : "CLINICAL PHARMACOLOGY & THERAPEUTICS 1 REPORTSnature publishing group Currently, there are very few guidelines linking the results of pharmacogenetic tests to specific therapeutic recommendations."
+    }, {
+      "id" : 7283357,
+      "location" : "Full Text",
+      "sentenceIndex" : 5,
+      "text" : "Therefore, the Royal Dutch Association for the Advancement of Pharmacy established the Pharmacogenetics Working Group with the objective of developing pharmacogenetics-based therapeutic (dose) recommendations."
+    }, {
+      "id" : 7283358,
+      "location" : "Full Text",
+      "sentenceIndex" : 6,
+      "text" : "After systematic review of the literature, recommendations were developed for 53 drugs associated with genes coding for CYP2D6, CYP2C19, CYP2C9, thiopurine-S-methyltransferase (TPMT), dihydropyrimidine dehydrogenase (DPD), vitamin K epoxide reductase (VKORC1), uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1), HLA-B44, HLA-B*5701, CYP3A5, and factor V Leiden (FVL)."
+    }, {
+      "id" : 7283377,
+      "location" : "Full Text",
+      "sentenceIndex" : 7,
+      "text" : "In recent years, there has been substantial progress in the field of pharmacogenetics."
+    }, {
+      "id" : 7283378,
+      "location" : "Full Text",
+      "sentenceIndex" : 8,
+      "text" : "The number of publications on the subject has risen sharply, and the results of the \u001Frst randomized clinical trial showing that pharmacogenetics can be used to prevent adverse drug events have been published."
+    }, {
+      "id" : 7283379,
+      "location" : "Full Text",
+      "sentenceIndex" : 9,
+      "text" : "Meanwhile, an increasing number of pharmacogenetic tests are becoming available."
+    }, {
+      "id" : 7283380,
+      "location" : "Full Text",
+      "sentenceIndex" : 10,
+      "text" : "However, despite US Food and Drug Administration-approved modi\u001Fcations to more than 30 drug labels to include pharmacogenetic information, guidelines that link the result of a pharmacogenetic test to speci\u001Fc dose recommendations are sparse. \u001Eerefore, the Royal Dutch Association for the Advancement of Pharmacy established the Pharmacogenetics Working Group with the objectives of developing pharmacogenetics-based therapeutic (dose) recommendations based on systematic review of the literature and assisting physicians and pharmacists by integrating the recommendations into computerized systems for drug prescription, dispensing, and automated medication surveillance. \u001Ee initial results for 85 genotype/phenotypedrug combinations, comprising 26 drugs, were published in this journal."
+    }, {
+      "id" : 7283381,
+      "location" : "Full Text",
+      "sentenceIndex" : 11,
+      "text" : "Here we present recommendations for 27 newly assessed drugs and updates of the existing monographs."
+    }, {
+      "id" : 7283382,
+      "location" : "Full Text",
+      "sentenceIndex" : 12,
+      "text" : "RESULTS To date, we have compiled therapeutic (dose) recommendations for 163 genotype/phenotype-drug combinations comprising 53 drugs and 11 genes (Table 1 ; the table's references are provided in the Supplementary References online). \u001Ee drugs were associated with genes coding for CYP2D6 (n = 25), CYP2C19 (n = 11), CYP2C9 (n = 7), thiopurine-S-methyltransferase (TPMT) (n = 3), dihydropyrimidine dehydrogenase (DPD) (n = 3), vitamin K epoxide reductase (VKORC1) (n = 2), uridine diphosphate glucuronosyltransferase-1A1 (UGT1A1), HLA-B44, HLA-B*5701, CYP3A5, and factor V Leiden (FVL) (all n = 1). \u001Eerapeutic (dose) recommendations were formulated for 39 (73.6%) of the drugs."
+    }, {
+      "id" : 7283400,
+      "location" : "Full Text",
+      "sentenceIndex" : 13,
+      "text" : "For clozapine, \u001Dupenthixol, and olanzapine, a gene-drug interaction with CYP2D6 was considered, but no evidence was found in the literature, and hence no recommendations were required."
+    }, {
+      "id" : 7283404,
+      "location" : "Full Text",
+      "sentenceIndex" : 14,
+      "text" : "For 11 of the drugs (20.8%), a gene-drug interaction was present, but no therapeutic (dose) recommendation was deemed necessary. \u001Ee quality of the retrieved data was scored as category 4 (published controlled studies of \"good\" quality; see Supplementary Table S1 online for quality criteria) for 49.1% of the data and category 3 (published controlled studies of \"moderate\" quality) for 37.4%."
+    }, {
+      "id" : 7283405,
+      "location" : "Full Text",
+      "sentenceIndex" : 15,
+      "text" : "For 59 (36.2%) of the genotype/phenotype-drug combinations, the clinical relevance of the interaction was Pharmacogenetics: From Bench to Byte- An Update of Guidelines JJ Swen , M Nijenhuis , A de Boer , L Grandia , AH Maitland-van der Zee , H Mulder , GAPJM Rongen 5,6,7 , RHN van Schaik , T Schalekamp , DJ Touw , J van der Weide , B Wilffert , VHM Deneer and H-J Guchelaar Department of Clinical Pharmacy and Toxicology, Leiden University Medical Center, Leiden, The Netherlands; Division Drug Information Centre, KNMP, The Hague, The Netherlands; Division of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Faculty of Science, Utrecht University, Utrecht, The Netherlands; Department of Clinical Pharmacy, Wilhelmina Hospital Assen, Assen, The Netherlands; Department of Pharmacology - Toxicology, Radboud University Nijmegen Medical Centre, Nijmegen, The Netherlands; Department of General Internal Medicine, Radboud University Nijmegen Medical Centre, Nijmegen, The Netherlands; Nijmegen Centre for Evidence Based Practice, Radboud University Nijmegen Medical Centre, Nijmegen, The Netherlands; Department of Clinical Chemistry, Erasmus University Medical Centre, Rotterdam, The Netherlands; Central Hospital Pharmacy, The Hague, The Netherlands; Department of Clinical Chemistry, St Jansdal Hospital, Harderwijk, The Netherlands; Department of Quality and Patient Safety, Zorggroep Noorderbreedte, Leeuwarden, The Netherlands; Department of Clinical Pharmacy, St Antonius Hospital, Nieuwegein, The Netherlands."
+    }, {
+      "id" : 7283406,
+      "location" : "Full Text",
+      "sentenceIndex" : 16,
+      "text" : "Correspondence: H-J Guchelaar (h.j.guchelaar@lumc.nl) Received 7 December 2010; accepted 31 January 2011; advance online publication 16 March 2011."
+    }, {
+      "id" : 7283407,
+      "location" : "Full Text",
+      "sentenceIndex" : 17,
+      "text" : "doi:10.1038/clpt.2011.34 2 www.nature.com/cpt REPORTS Table 1 Results for CYP2D6, CYP2C9, CYP2C19, UGT1A1, TPMT, HLA-B44, HLA-B*5701, CYP3A5, VKORC1, factor V Leiden, and DPYD Drug Subjects Genotype or phenotype Level of evidence Clinical relevance Gene-drug interaction Therapeutic (dose) recommendation References CYP2D6 Amitriptyline 459 PM 3 A Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283420,
+      "location" : "Full Text",
+      "sentenceIndex" : 18,
+      "text" : "Select alternative drug (e.g., citalopram, sertraline) or monitor amitriptyline and nortriptyline plasma concentration IM 3 C Yes Reduce dose by 25% and monitor plasma concentration or select alternative drug (e.g., citalopram, sertraline) UM 3 C Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283425,
+      "location" : "Full Text",
+      "sentenceIndex" : 19,
+      "text" : "Select alternative drug (e.g., citalopram, sertraline) or monitor (E-10-hydroxy)amitriptyline plasma concentration 3, 7, 8 Aripiprazole 124 PM 4 C Yes Reduce maximum dose to 10 mg/day (67% of the maximum recommended daily dose) 9-12 IM 4 A Yes No 10, 13-15 UM - - Yes No - Atomoxetine 10,081 PM 3 B Yes Standard dose."
+    }, {
+      "id" : 7283431,
+      "location" : "Full Text",
+      "sentenceIndex" : 20,
+      "text" : "Dose increase probably not necessary; be alert to ADEs 16-21 IM 4 A Yes No 22 UM - - Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283432,
+      "location" : "Full Text",
+      "sentenceIndex" : 21,
+      "text" : "Be alert to reduced efficacy or select alternative drug (e.g., methylphenidate, clonidine) Carvedilol 135 PM 4 B Yes No 23, 24 IM 4 A Yes No 25-29 UM - - Yes No - Clomipramine 272 PM 4 C Yes Reduce dose by 50% and monitor (desmethyl) clomipramine plasma concentration 30-35 IM 4 C Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283438,
+      "location" : "Full Text",
+      "sentenceIndex" : 22,
+      "text" : "Monitor (desmethyl)clomipramine plasma concentration 32, 36, 37 UM 2 C Yes Select alternative drug (e.g., citalopram, sertralin) or monitor (desmethyl)clomipramine plasma concentration 38, 39 Clozapine 297 PM 4 AA No No 40-44 IM 4 AA No No 41, 44 UM 4 AA No No 43, 44 Codeine 453 PM 4 B Yes Analgesia: select alternative drug (e.g., acetaminophen, NSAID, morphine-not tramadol or oxycodone) or be alert to symptoms of insufficient pain relief Cough: no 45-55 IM 3 A Yes Analgesia: select alternative drug (e.g., acetaminophen, NSAID, morphine-not tramadol or oxycodone) or be alert to symptoms of insufficient pain relief Cough: no 46, 56 UM 3 F Yes Analgesia: select alternative drug (e.g., acetaminophen, NSAID, morphine-not tramadol or oxycodone) or be alert to ADE Cough: be extra alert to ADEs due to increased morphine plasma concentration 45, 57-60 Doxepin 76 PM 3 F Yes Reduce dose by 60%."
+    }, {
+      "id" : 7283450,
+      "location" : "Full Text",
+      "sentenceIndex" : 23,
+      "text" : "Adjust maintenance dose in response to (nor)doxepin plasma concentration 7, 61-64 IM 3 A Yes Reduce dose by 20%."
+    }, {
+      "id" : 7283452,
+      "location" : "Full Text",
+      "sentenceIndex" : 24,
+      "text" : "Adjust maintenance dose in response to (nor)doxepin plasma concentration UM 3 A Yes Select alternative drug (citalopram, sertraline) or increase dose by 100%."
+    }, {
+      "id" : 7283456,
+      "location" : "Full Text",
+      "sentenceIndex" : 25,
+      "text" : "Adjust maintenance dose in response to (nor)doxepin plasma concentration Table 1 Continued on next page CLINICAL PHARMACOLOGY & THERAPEUTICS 3 REPORTS Table 1 (Continued) Drug Subjects Genotype or phenotype Level of evidence Clinical relevance Gene-drug interaction Therapeutic (dose) recommendation References Duloxetine 0 PM 0 AA Yes No 65 IM - - Yes No - UM - - Yes No - Flecainide 145 PM 4 A Yes Reduce dose by 50%, record ECG, monitor plasma concentration 66-70 IM 3 A Yes Reduce dose by 25%, record ECG, monitor plasma concentration 71, 72 UM - - Yes Record ECG and monitor plasma concentration or select alternative drug (e.g., sotalol, disopyramide, quinidine, amiodarone) Flupenthixol 0 PM - - No No - IM - - No No - UM - - No No - Haloperidol 1,411 PM 4 C Yes Reduce dose by 50% or select alternative drug (e.g., pimozide, flupenthixol, fluphenazine, quetiapine, olanzapine, clozapine) 73-80 IM 4 A Yes No 73-77, 81-89 UM 4 C Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283472,
+      "location" : "Full Text",
+      "sentenceIndex" : 26,
+      "text" : "Be alert to decreased haloperidol plasma concentration and adjust maintenance dose in response to haloperidol plasma concentration or select alternative drug (e.g., pimozide, flupenthixol, fluphenazine, quetiapine, olanzapine, clozapine) 73, 74 Imipramine 268 PM 4 C Yes Reduce dose by 70% and monitor imipramine and desipramine plasma concentrations 32, 90-94 IM 4 A Yes Reduce dose by 30% and monitor imipramine and desipramine plasma concentrations 90, 92, 94 UM 4 A Yes Select alternative drug (e.g., citalopram, sertraline) or increase dose by 70% and monitor imipramine and desipramine plasma concentration 92, 94 Metoprolol 1,966 PM 4 C Yes Heart failure: select alternative drug (e.g., bisoprolol, carvedilol) or reduce dose by 75% Other indications: be alert to ADEs (e.g., bradycardia, cold extremities) or select alternative drug (e.g., atenolol, bisoprolol) 95-110 IM 4 B Yes Heart failure: select alternative drug (e.g., bisoprolol, carvedilol) or reduce dose by 50% Other indications: be alert to ADEs (e.g., bradycardia, cold extremities) or select alternative drug (e.g., atenolol, bisoprolol) 96-100,102, 107, 108, 110-115 UM 4 D Yes Heart failure: select alternative drug (e.g., bisoprolol, carvedilol) or titrate dose to a maximum of 250% of the normal dose in response to efficacy and ADE Other indications: select alternative drug (e.g., atenolol, bisoprolol) or titrate dose to a maximum of 250% of the normal dose in response to efficacy and ADE 98, 100-103 Mirtazapine 333 PM 3 B Yes No 7, 30, 116-120 IM 3 A Yes No 119, 121 UM 3 A Yes No 7, 116, Table 1 Continued on next page 4 www.nature.com/cpt REPORTS Table 1 (Continued) Drug Subjects Genotype or phenotype Level of evidence Clinical relevance Gene-drug interaction Therapeutic (dose) recommendation References Nortriptyline 270 PM 3 C Yes Reduce dose by 60% and monitor nortriptyline + 10-hydroxynortriptyline plasma concentrations 122-127 IM 4 C Yes Reduce dose by 40% and monitor nortriptyline + 10-hydroxynortriptyline plasma concentrations 122-124, 126, 128-132 UM 3 C Yes Select alternative drug (e.g., citalopram, sertraline) or increase dose by 60% and monitor nortriptyline + 10-hydroxynortriptyline plasma concentrations 39, 123, 124, 128 Olanzapine 201 PM 3 AA No No 133-135 IM 3 AA No No 134, 136, UM - - No No - Oxycodone 78 PM 3 B Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283497,
+      "location" : "Full Text",
+      "sentenceIndex" : 27,
+      "text" : "Select alternative drug-not tramadol or codeine-or be alert to symptoms of insufficient pain relief 138-142 IM 3 AA Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283501,
+      "location" : "Full Text",
+      "sentenceIndex" : 28,
+      "text" : "Select alternative drug-not tramadol or codeine-or be alert to symptoms of insufficient pain relief UM 1 A Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283505,
+      "location" : "Full Text",
+      "sentenceIndex" : 29,
+      "text" : "Select alternative drug (NOT tramadol or codeine) or be alert to ADEs (e.g., nausea, vomiting, constipation, respiratory depression, confusion, urinary retention) Paroxetine 633 PM 4 A Yes No 119, 144-151 IM 4 A Yes No 119, 145, 148-154 UM 4 C Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283517,
+      "location" : "Full Text",
+      "sentenceIndex" : 30,
+      "text" : "Select alternative drug (e.g., citalopram, sertraline) 144,148, 150, 151, 155 Propafenone 257 PM 4 C Yes Reduce dose by 70%, record ECG, monitor plasma concentration 156-165 IM 3 A Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283521,
+      "location" : "Full Text",
+      "sentenceIndex" : 31,
+      "text" : "Adjust dose in response to plasma concentration and record ECG or select alternative drug (e.g., sotalol, disopyramide, quinidine, amiodarone) 165-168 UM 3 D Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283526,
+      "location" : "Full Text",
+      "sentenceIndex" : 32,
+      "text" : "Adjust dose in response to plasma concentration and record ECG or select alternative drug (e.g., sotalol, disopyramide, quinidine, amiodarone) 159, 165 Risperidone 1,721 PM 4 D Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283532,
+      "location" : "Full Text",
+      "sentenceIndex" : 33,
+      "text" : "Select alternative drug (e.g., quetiapine, olanzapine, clozapine) or be extra alert to ADEs and adjust dose to clinical response 169-175 IM 4 C Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283536,
+      "location" : "Full Text",
+      "sentenceIndex" : 34,
+      "text" : "Select alternative drug (e.g., quetiapine, olanzapine, clozapine) or be extra alert to ADEs and adjust dose to clinical response 173, 174, 176-184 UM 4 C Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283540,
+      "location" : "Full Text",
+      "sentenceIndex" : 35,
+      "text" : "Select alternative drug (e.g., quetiapine, olanzapine, clozapine) or be extra alert to decreased response and titrate dose in response to clinical effect and ADE 173-175, Tamoxifen 5,020 PM 4 E Yes Increased risk for relapse of breast cancer."
+    }, {
+      "id" : 7283548,
+      "location" : "Full Text",
+      "sentenceIndex" : 36,
+      "text" : "Consider aromatase inhibitor for postmenopausal women 186-196 IM 4 E Yes Increased risk for relapse of breast cancer."
+    }, {
+      "id" : 7283553,
+      "location" : "Full Text",
+      "sentenceIndex" : 37,
+      "text" : "Avoid concomitant use of CYP2D6 inhibitors."
+    }, {
+      "id" : 7283555,
+      "location" : "Full Text",
+      "sentenceIndex" : 38,
+      "text" : "Consider aromatase inhibitor for postmenopausal women 187, 189-197 UM 4 A Yes No 192, 197 Table 1 Continued on next page CLINICAL PHARMACOLOGY & THERAPEUTICS 5 REPORTS Table 1 (Continued) Drug Subjects Genotype or phenotype Level of evidence Clinical relevance Gene-drug interaction Therapeutic (dose) recommendation References Tramadol 968 PM 4 B Yes Select alternative drug-not oxycodone or codeineor be alert to symptoms of insufficient pain relief 198-211 IM 4 B Yes Be alert to decreased efficacy."
+    }, {
+      "id" : 7283560,
+      "location" : "Full Text",
+      "sentenceIndex" : 39,
+      "text" : "Consider dose increase."
+    }, {
+      "id" : 7283561,
+      "location" : "Full Text",
+      "sentenceIndex" : 40,
+      "text" : "If response is still inadequate, select alternative drugnot oxycodone or codeine-or be alert to symptoms of insufficient pain relief 198-200, 208, 211- UM 3 C Yes Reduce dose by 30% and be alert to ADEs (e.g., nausea, vomiting, constipation, respiratory depression, confusion, urinary retention) or select alternative drug (e.g., acetaminophen, NSAID, morphine-not oxycodone or codeine) 199, 206, 211, 214, Venlafaxine 251 PM 4 C Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283576,
+      "location" : "Full Text",
+      "sentenceIndex" : 41,
+      "text" : "Select alternative drug (e.g., citalopram, sertraline) or adjust dose to clinical response and monitor (O-desmethyl)venlafaxine plasma concentration 216-222 IM 4 C Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283580,
+      "location" : "Full Text",
+      "sentenceIndex" : 42,
+      "text" : "Select alternative drug (e.g., citalopram, sertraline) or adjust dose to clinical response and monitor (O-desmethyl)venlafaxine plasma concentration 218-221, 223-225 UM 4 A Yes Be alert to decreased venlafaxine and increased (O-desmethyl)venlafaxine plasma concentration."
+    }, {
+      "id" : 7283584,
+      "location" : "Full Text",
+      "sentenceIndex" : 43,
+      "text" : "Titrate dose to a maximum of 150% of the normal dose or select alternative drug (e.g., citalopram, sertraline) 218, 220 Zuclopenthixol 231 PM 4 A Yes Reduce dose by 50% or select alternative drug (e.g., flupenthixol, quetiapine, olanzapine, clozapine) 226-230 IM 4 A Yes Reduce dose by 25% or select alternative drug (flupenthixol, quetiapine, olanzapine, clozapine) 227-229 UM - - Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283592,
+      "location" : "Full Text",
+      "sentenceIndex" : 44,
+      "text" : "Be alert to low zuclopenthixol plasma concentrations or select alternative drug (flupenthixol, quetiapine, olanzapine, clozapine) CYP2C9 Acenocoumarol 6,811 *1/*2 4 F Yes Check INR more frequently after initiating or discontinuing NSAIDs 231-249 *2/*2 4 F Yes Check INR more frequently after initiating or discontinuing NSAIDs 231-236, 238-249 *1/*3 4 F Yes Check INR more frequently after initiating or discontinuing NSAIDs 231-250 *2/*3 4 F Yes Check INR more frequently after initiating or discontinuing NSAIDs 232-250 *3/*3 4 F Yes Check INR more frequently during dose titration and after initiating or discontinuing NSAIDs 231-234, 238, 242-245, 247, 250, 251 Glibenclamide 86 *1/*2 3 AA Yes No 252-254 *2/*2 3 AA Yes No 252, 254 *1/*3 3 B Yes No 252-255 *2/*3 3 AA Yes No 252, 254, 256 *3/*3 3 A Yes No 254, 256 Gliclazide 912 *1/*2 3 AA# Yes No 257-259 *2/*2 3 AA# Yes No 257, 259 *1/*3 3 AA# Yes No 257-260 *2/*3 3 AA# Yes No 257 *3/*3 3 AA# Yes No 257 Table 1 Continued on next page 6 www.nature.com/cpt REPORTS Table 1 (Continued) Drug Subjects Genotype or phenotype Level of evidence Clinical relevance Gene-drug interaction Therapeutic (dose) recommendation References Glimepiride 442 *1/*2 3 AA Yes No 252, 253, 256, 258 *2/*2 4 AA Yes No 252 *1/*3 4 AA# Yes No 252, 253, 256, 258, 261, 262 *2/*3 3 D Yes No 252, 253, 256 *3/*3 3 D Yes No 256, 262 Phenprocoumon 1,802 *1/*2 4 F Yes No 239-242, 263-271 *2/*2 4 F Yes Check INR more frequently 239-242, 264-269, 271 *1/*3 4 F Yes No 239-242, 263-269, 271 *2/*3 4 F Yes Check INR more frequently 239-242, 263-267, 269, 271 *3/*3 4 D Yes Check INR more frequently 264-267, Phenytoin 1,354 *1/*2 4 A Yes Standard loading dose."
+    }, {
+      "id" : 7283606,
+      "location" : "Full Text",
+      "sentenceIndex" : 45,
+      "text" : "Reduce maintenance dose by 25%."
+    }, {
+      "id" : 7283607,
+      "location" : "Full Text",
+      "sentenceIndex" : 46,
+      "text" : "Evaluate response and serum concentration after 7-10 days."
+    }, {
+      "id" : 7283608,
+      "location" : "Full Text",
+      "sentenceIndex" : 47,
+      "text" : "Be alert to ADEs (e.g., ataxia, nystagmus, dysarthria, sedation) 272-278 *2/*2 4 A Yes Standard loading dose."
+    }, {
+      "id" : 7283612,
+      "location" : "Full Text",
+      "sentenceIndex" : 48,
+      "text" : "Reduce maintenance dose by 50%."
+    }, {
+      "id" : 7283613,
+      "location" : "Full Text",
+      "sentenceIndex" : 49,
+      "text" : "Evaluate response and serum concentration after 7-10 days."
+    }, {
+      "id" : 7283614,
+      "location" : "Full Text",
+      "sentenceIndex" : 50,
+      "text" : "Be alert to ADEs (e.g., ataxia, nystagmus, dysarthria, sedation) 272-274, 276-278 *1/*3 4 D Yes Standard loading dose."
+    }, {
+      "id" : 7283618,
+      "location" : "Full Text",
+      "sentenceIndex" : 51,
+      "text" : "Reduce maintenance dose by 25%."
+    }, {
+      "id" : 7283619,
+      "location" : "Full Text",
+      "sentenceIndex" : 52,
+      "text" : "Evaluate response and serum concentration after 7-10 days."
+    }, {
+      "id" : 7283620,
+      "location" : "Full Text",
+      "sentenceIndex" : 53,
+      "text" : "Be alert to ADEs (e.g., ataxia, nystagmus, dysarthria, sedation) 272-275, 278-286 *2/*3 4 A Yes Standard loading dose."
+    }, {
+      "id" : 7283624,
+      "location" : "Full Text",
+      "sentenceIndex" : 54,
+      "text" : "Reduce maintenance dose by 50%."
+    }, {
+      "id" : 7283625,
+      "location" : "Full Text",
+      "sentenceIndex" : 55,
+      "text" : "Evaluate response and serum concentration after 7-10 days."
+    }, {
+      "id" : 7283626,
+      "location" : "Full Text",
+      "sentenceIndex" : 56,
+      "text" : "Be alert to ADEs (e.g., ataxia, nystagmus, dysarthria, sedation) 273, 277 *3/*3 4 D Yes Standard loading dose."
+    }, {
+      "id" : 7283630,
+      "location" : "Full Text",
+      "sentenceIndex" : 57,
+      "text" : "Reduce maintenance dose by 50%."
+    }, {
+      "id" : 7283631,
+      "location" : "Full Text",
+      "sentenceIndex" : 58,
+      "text" : "Evaluate response and serum concentration after 7-10 days."
+    }, {
+      "id" : 7283632,
+      "location" : "Full Text",
+      "sentenceIndex" : 59,
+      "text" : "Be alert to ADEs (e.g., ataxia, nystagmus, dysarthria, sedation) 272, 274-276, 286-290 Tolbutamide 544 *1/*2 3 A Yes No 252, 291-295 *2/*2 3 A Yes No 252, 291, 293, 294 *1/*3 3 B Yes No 252, 291-297 *2/*3 3 A Yes No 252, 294, 295 *3/*3 3 A Yes No 294-296 CYP2C19 Citalopram/ Escitalopram 2,396 PM 4 A Yes No 298-305 IM 4 A Yes No 298-300, 302, 305, 306 UM 4 A Yes Monitor plasma concentration and titrate dose to a maximum of 150% in response to efficacy and ADE or select alternative drug (e.g., fluoxetine, paroxetine) 299, 307 Table 1 Continued on next page CLINICAL PHARMACOLOGY & THERAPEUTICS 7 REPORTS Table 1 (Continued) Drug Subjects Genotype or phenotype Level of evidence Clinical relevance Gene-drug interaction Therapeutic (dose) recommendation References Clopidogrel 11,785 PM 4 F Yes Increased risk for reduced response to clopidogrel."
+    }, {
+      "id" : 7283644,
+      "location" : "Full Text",
+      "sentenceIndex" : 60,
+      "text" : "Consider alternative drug."
+    }, {
+      "id" : 7283645,
+      "location" : "Full Text",
+      "sentenceIndex" : 61,
+      "text" : "Prasugrel is not or to a much smaller extent metabolized by CYP2C19 but is associated with an increased bleeding risk compared to clopidogrel 308-326 IM 4 F Yes Increased risk for reduced response to clopidogrel."
+    }, {
+      "id" : 7283650,
+      "location" : "Full Text",
+      "sentenceIndex" : 62,
+      "text" : "Consider alternative drug."
+    }, {
+      "id" : 7283651,
+      "location" : "Full Text",
+      "sentenceIndex" : 63,
+      "text" : "Prasugrel is not or to a much smaller extent metabolized by CYP2C19 but is associated with an increased bleeding risk compared to clopidogrel 308-328 UM 3 A Yes No 308, 315-317, 329 Esomeprazole 975 PM 4 AA# Yes No 330, 330-339 IM 4 AA# Yes No 330-338, 340 UM - - Yes Helicobacter pylori eradication: increase dose by 50-100%."
+    }, {
+      "id" : 7283657,
+      "location" : "Full Text",
+      "sentenceIndex" : 64,
+      "text" : "Be extra alert to insufficient response Other: be extra alert to insufficient response."
+    }, {
+      "id" : 7283658,
+      "location" : "Full Text",
+      "sentenceIndex" : 65,
+      "text" : "Consider dose increase by 50-100% Imipramine 541 PM 3 A Yes Reduce dose by 30% and monitor plasma concentration of imipramine and desipramine or select alternative drug (e.g., fluvoxamine, mirtazapine) 93, 341-346 IM 3 A Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283664,
+      "location" : "Full Text",
+      "sentenceIndex" : 66,
+      "text" : "Select alternative drug (e.g., fluvoxamine, mirtazapine) 93, 342-345 UM - - Yes No - Lansoprazole 2,304 PM 4 AA# Yes No 347-369 IM 4 AA# Yes No 347-368, 370, 371 UM - - Yes H. pylori eradication: increase dose by 200%."
+    }, {
+      "id" : 7283668,
+      "location" : "Full Text",
+      "sentenceIndex" : 67,
+      "text" : "Be extra alert to insufficient response Other: be extra alert to insufficient response."
+    }, {
+      "id" : 7283669,
+      "location" : "Full Text",
+      "sentenceIndex" : 68,
+      "text" : "Consider dose increase by 200% Moclobemide 31 PM 3 A Yes No 372-374 IM - - Yes No - UM - - Yes No - Omeprazole 2,522 PM 4 AA# Yes No 331, 353, 355, 358, 359, 361, 364, 375-389 IM 4 AA# Yes No 331, 353, 355, 358, 359, 361, 364, 371, 375-379, 381-385, 387-390 UM 3 A Yes H. pylori eradication: increase dose by 100-200%."
+    }, {
+      "id" : 7283672,
+      "location" : "Full Text",
+      "sentenceIndex" : 69,
+      "text" : "Be extra alert to insufficient response Other: be extra alert to insufficient response."
+    }, {
+      "id" : 7283673,
+      "location" : "Full Text",
+      "sentenceIndex" : 70,
+      "text" : "Consider dose increase by 100-200% 391-393 Pantoprazole 829 PM 3 AA# Yes No 336, 394-398 IM 3 AA# Yes No 336, 340, 390, 395-398 UM 3 AA Yes H. pylori eradication: increase dose by 400%."
+    }, {
+      "id" : 7283675,
+      "location" : "Full Text",
+      "sentenceIndex" : 71,
+      "text" : "Be extra alert to insufficient response Other: be extra alert to insufficient response."
+    }, {
+      "id" : 7283676,
+      "location" : "Full Text",
+      "sentenceIndex" : 72,
+      "text" : "Consider dose increase by 400% Table 1 Continued on next page 8 www.nature.com/cpt REPORTS Table 1 (Continued) Drug Subjects Genotype or phenotype Level of evidence Clinical relevance Gene-drug interaction Therapeutic (dose) recommendation References Rabeprazole 2,239 PM 4 AA# Yes No 334, 352, 357, 359, 361, 364, 376, 380, 381, 385, 388, 394, 399-410 IM 4 AA Yes No 334, 352, 357, 359, 361, 364, 376, 381, 385, 388, 399-403, 405-409 UM - - Yes No - Sertraline 26 PM 3 C Yes Reduce dose by 50% 7, 411 IM 3 A Yes Insufficient data to allow calculation of dose adjustment."
+    }, {
+      "id" : 7283679,
+      "location" : "Full Text",
+      "sentenceIndex" : 73,
+      "text" : "Be extra alert to ADEs (e.g., nausea, vomiting, diarrhea) UM - - Yes No - Voriconazole 314 PM 3 A Yes Monitor serum concentration 412-421 IM 3 A Yes Monitor serum concentration 412, 413, 416, 419-421 UM 3 A Yes No 418, 420 UGT1A1 Irinotecan 3,883 *1/*28 3 F Yes No 422-448 *28/*28 3 E Yes Dose >250 mg/m : reduce initial dose by 30%."
+    }, {
+      "id" : 7283687,
+      "location" : "Full Text",
+      "sentenceIndex" : 74,
+      "text" : "Increase dose in response to neutrophil count Dose ¿250 mg/m : no dose adjustment 422, 423, 425-435, 437, 439-445, 447-454 TPMT Azathioprine/ Mercaptopurine 2,853 PM 4 F Yes Select alternative drug or reduce dose by 90%."
+    }, {
+      "id" : 7283691,
+      "location" : "Full Text",
+      "sentenceIndex" : 75,
+      "text" : "Increase dose in response of hematologic monitoring and efficacy 455-467 IM 4 E Yes Select alternative drug or reduce dose by 50%."
+    }, {
+      "id" : 7283692,
+      "location" : "Full Text",
+      "sentenceIndex" : 76,
+      "text" : "Increase dose in response of hematologic monitoring and efficacy 455, 456, 458, 459, 461, 462, 464-466, 468-477 Thioguanine 792 PM 2 F Yes Select alternative drug."
+    }, {
+      "id" : 7283694,
+      "location" : "Full Text",
+      "sentenceIndex" : 77,
+      "text" : "Insufficient data to allow calculation of dose adjustment 478, 479 IM 3 D Yes Select alternative drug."
+    }, {
+      "id" : 7283695,
+      "location" : "Full Text",
+      "sentenceIndex" : 78,
+      "text" : "Insufficient data to allow calculation of dose adjustment 480-483 HLA-B44 Ribavirine 130 HLA-B44 negative 4 C Yes No 484 HLA-B*5701 Abacavir 3,791 HLA-B*5701 positive 4 E Yes Select alternative drug 485-498 CYP3A5 Tacrolimus 1,302 *1/*1 4 B Yes No 499-511 *1/*3 4 D Yes No 499-512 VKORC1 Acenocoumarol 776 CT 4 A Yes No 233, 250, 513-515 TT 4 A Yes Check INR more frequently 233, 250, 513-515 Table 1 Continued on next page CLINICAL PHARMACOLOGY & THERAPEUTICS 9 REPORTS classi\u001Fed as category C (long-standing discomfort (48-168 h) without permanent injury) or higher (see Supplementary Table S2 online for details)."
+    }, {
+      "id" : 7283704,
+      "location" : "Full Text",
+      "sentenceIndex" : 79,
+      "text" : "CYP2D6 For CYP2D6 poor metabolizers (PMs), de\u001Fned as patients carrying two defective alleles, dose reductions are recommended for clomipramine, \u001Decainide, haloperidol, zuclopenthixol (all 50%); doxepin, nortriptyline (both 60%); imipramine, propafenone (both 70%); and metoprolol (75%). \u001Eere were insu\u001Ccient data to calculate dose adjustments for amitriptyline, oxycodone, risperidone, and venlafaxine."
+    }, {
+      "id" : 7283718,
+      "location" : "Full Text",
+      "sentenceIndex" : 80,
+      "text" : "With respect to tamoxifen, an increased risk for breast cancer relapse is present, and it is advised that an aromatase inhibitor be considered for treating postmenopausal women with breast cancer."
+    }, {
+      "id" : 7283724,
+      "location" : "Full Text",
+      "sentenceIndex" : 81,
+      "text" : "Other recommendations included the selection of an alternative drug, therapeutic drug monitoring, increased alertness to adverse drug events and to reduced e\u001Ccacy, and the recording of an electrocardiogram."
+    }, {
+      "id" : 7283725,
+      "location" : "Full Text",
+      "sentenceIndex" : 82,
+      "text" : "For CYP2D6 intermediate metabolizers (IMs), defined as patients carrying two decreased-activity alleles or one active/ decreased-activity allele and one inactive allele, dose reductions ranging from 20 to 50% are advised for doxepin, amitriptyline, zuclopenthixol, imipramine, nortriptyline, and metoprolol. \u001Eere were insu\u001Ccient data to calculate dose adjustments for clomipramine, oxycodone, propafenone, risperidone, and venlafaxine."
+    }, {
+      "id" : 7283738,
+      "location" : "Full Text",
+      "sentenceIndex" : 83,
+      "text" : "For tamoxifen, the use of an aromatase inhibitor for treating Table 1 (Continued) Drug Subjects Genotype or phenotype Level of evidence Clinical relevance Gene-drug interaction Therapeutic (dose) recommendation References Phenprocoumon 391 CT 4 D Yes No 269, 514 TT 4 D Yes Check INR more frequently 269, 514 Factor V Leiden Estrogen- containing OC 7,441 FVL homozygous 3 D Yes Positive (family) history of thrombotic events: avoid estrogen-containing OC and select alternative (e.g., copper intrauterine device, progestin-only contraceptive) Negative (family) history of thrombotic events: avoid additional risk factors (e.g., obesity, smoking) 516-523 FVL heterozygous 4 D Yes Positive (family) history of thrombotic events: avoid estrogen-containing OC and select alternative (e.g., copper intrauterine device, progestin-only contraceptive) Negative (family) history of thrombotic events: avoid additional risk factors (e.g., obesity, smoking) 516-520, 522-535 DPYD Fluorouracil/ Capecitabine 3,733 PM 3 F Yes Select alternative drug."
+    }, {
+      "id" : 7283752,
+      "location" : "Full Text",
+      "sentenceIndex" : 84,
+      "text" : "Tegafur is not a suitable alternative because this drug is also metabolized by 536-544 IM 3 F Yes Reduce dose by 50% or select alternative drug."
+    }, {
+      "id" : 7283754,
+      "location" : "Full Text",
+      "sentenceIndex" : 85,
+      "text" : "Tegafur is not a suitable alternative because this drug is also a substrate for DPD."
+    }, {
+      "id" : 7283757,
+      "location" : "Full Text",
+      "sentenceIndex" : 86,
+      "text" : "Increase dose in response to toxicity and efficacy 536-542, 544-555 Tegafur/uracil Combination PM 3 AA Yes Select alternative drug."
+    }, {
+      "id" : 7283760,
+      "location" : "Full Text",
+      "sentenceIndex" : 87,
+      "text" : "Fluorouracil or capecitabine are not suitable alternatives because both are also metabolized by DPD IM 3 AA Yes No 556 Level of evidence: assigned level of evidence (0-4) for the gene-drug interaction."
+    }, {
+      "id" : 7283764,
+      "location" : "Full Text",
+      "sentenceIndex" : 88,
+      "text" : "If scored \"-\" no data was retrieved with the literature search."
+    }, {
+      "id" : 7283765,
+      "location" : "Full Text",
+      "sentenceIndex" : 89,
+      "text" : "Clinical relevance: assigned level of clinical relevance (AA-F) for the gene-drug interaction."
+    }, {
+      "id" : 7283766,
+      "location" : "Full Text",
+      "sentenceIndex" : 90,
+      "text" : "If scored \"-\" no data were retrieved with the literature search."
+    }, {
+      "id" : 7283767,
+      "location" : "Full Text",
+      "sentenceIndex" : 91,
+      "text" : "Positive clinical effects were scored as AA#."
+    }, {
+      "id" : 7283768,
+      "location" : "Full Text",
+      "sentenceIndex" : 92,
+      "text" : "A complete list of references can be found in the Supplementary References online."
+    }, {
+      "id" : 7283769,
+      "location" : "Full Text",
+      "sentenceIndex" : 93,
+      "text" : "ADE, adverse drug event; ECG, electrocardiogram; FVL, factor V Leiden; IM, intermediate metabolizer; INR, international normalized ratio; NSAID, nonsteroidal anti-inflammatory drug; OC, oral contraceptive; PM, poor metabolizer; UM, ultrarapid metabolizer."
+    }, {
+      "id" : 7283772,
+      "location" : "Full Text",
+      "sentenceIndex" : 94,
+      "text" : "CYP2C19 IM, *1/*2, *1/*3, *17/*2, *17/*3; CYP2C19 PM, *2/*2, *2/*3, *3/*3; CYP2C19 UM, *17/*17; CYP2D6 IM, patients carrying two decreased-activity (*9, *10, *17, *29, *36, *41) alleles or carrying one active (*1, *2, *33, *35) and one inactive (*3-*8, *11-*16, *19-*21, *38, *40, *42) allele, or carrying one decreased-activity (*9, *10, *17, *29, *36, *41) allele and one inactive (*3-*8, *11-*16, *19-*21, *38, *40, *42) allele; CYP2D6 PM, patients carrying two inactive (*3-*8, *11-*16, *19-*21, *38, *40, *42) alleles; CYP2D6 UM, patients carrying a gene duplication in absence of inactive (*3-*8, *11-*16, *19-*21, *38, *40, *42) or decreased-activity (*9, *10, *17, *29, *36, *41) alleles; DPD PM, patients carrying two inactive (*2A, *3, *7, *8, *10, *11, *12, *13, 496A>G, IVS10-15T>C, 1156G>T, 1845G>T) alleles, two decreased-activity (*9B, *10) alleles, or one inactive (*2A, *3, *7, *8, *10, *11, *12, *13, 496A>G, IVS10-15T>C, 1156G>T, 1845G>T) and one decreased-activity (*9B, *10) allele; DPD IM, patients carrying one active (*1, *4, *5, *6, *9A) allele and one inactive (*2A, *3, *7, *8, *10, *11, *12, *13, 496A>G, IVS10-15T>C, 1156G>T, 1845G>T) or decreased-activity (*9B, *10) allele."
+    }, {
+      "id" : 7283780,
+      "location" : "Full Text",
+      "sentenceIndex" : 95,
+      "text" : "For the inactive DPYD alleles *3, *7, *8, *11, *12, *13, 1156G>T, 1845G>T and decreased-activity DPYD alleles *9B, *10, toxicity has been described in case reports but has not been confirmed in independent studies or pharmacokinetic analyses."
+    }, {
+      "id" : 7283785,
+      "location" : "Full Text",
+      "sentenceIndex" : 96,
+      "text" : "TPMT IM, patients carrying one active (*1, *1S, *1A) and one inactive (*2, *3A-*3D, *4-*18) allele; TPMT PM, patients carrying two inactive (*2, *3A-*3D, *4-*18) alleles."
+    }, {
+      "id" : 7283789,
+      "location" : "Full Text",
+      "sentenceIndex" : 97,
+      "text" : "Therapeutic (dose) recommendations for acenocoumarol and phenprocoumon solely based on CYP2C9 genotype without knowledge of VKORC1 status."
+    }, {
+      "id" : 7283794,
+      "location" : "Full Text",
+      "sentenceIndex" : 98,
+      "text" : "Advice based on situation in the Netherlands."
+    }, {
+      "id" : 7283795,
+      "location" : "Full Text",
+      "sentenceIndex" : 99,
+      "text" : "Therapeutic (dose) recommendation based on information from the Summary of Product Characteristics."
+    }, {
+      "id" : 7283796,
+      "location" : "Full Text",
+      "sentenceIndex" : 100,
+      "text" : "10 www.nature.com/cpt REPORTS postmenopausal women with breast cancer and the avoidance of concomitant use of a CYP2D6 inhibitor are advised."
+    }, {
+      "id" : 7283800,
+      "location" : "Full Text",
+      "sentenceIndex" : 101,
+      "text" : "Other recommendations are comparable to the recommendations for PMs."
+    }, {
+      "id" : 7283801,
+      "location" : "Full Text",
+      "sentenceIndex" : 102,
+      "text" : "For CYP2D6 ultrarapid metabolizers (UMs), defined as patients carrying a gene duplication in the absence of inactive or decreased-activity alleles, dose adjustments ranging from 30 to 150% are recommended for doxepin, imipramine, metoprolol, nortriptyline, tramadol, and venlafaxine."
+    }, {
+      "id" : 7283809,
+      "location" : "Full Text",
+      "sentenceIndex" : 103,
+      "text" : "For eight of the assessed gene-drug combinations, there were insu\u001Ccient data to calculate dose adjustments. \u001Ee metabolic capacity of UMs shows a considerable variability due to the range of gene copy numbers possible within the de\u001Fnition of UM."
+    }, {
+      "id" : 7283810,
+      "location" : "Full Text",
+      "sentenceIndex" : 104,
+      "text" : "Also, the impact of the increased concentrations of drug metabolites to which UMs are exposed is o\u001Ben unknown. \u001Eerefore, the selection of an alternative drug is frequently advised."
+    }, {
+      "id" : 7283811,
+      "location" : "Full Text",
+      "sentenceIndex" : 105,
+      "text" : "CYP2C9 Seven CYP2C9 substrates were assessed."
+    }, {
+      "id" : 7283813,
+      "location" : "Full Text",
+      "sentenceIndex" : 106,
+      "text" : "For phenytoin, dose reductions of 25% (*1/*2, *1/*3) and 50% (*2/*2, *2/*3, *3/*3) are recommended."
+    }, {
+      "id" : 7283815,
+      "location" : "Full Text",
+      "sentenceIndex" : 107,
+      "text" : "For acenocoumarol and phenprocoumon, although clinically relevant gene-drug interactions are present, no dose adjustment is recommended because of strict international normalized ratio monitoring by the Dutch \u001Erombosis Service. \u001Ee need for adjustment of the initial dose is currently under investigation."
+    }, {
+      "id" : 7283818,
+      "location" : "Full Text",
+      "sentenceIndex" : 108,
+      "text" : "In addition to the CYP2C9 genotype, the VKORC1 genotype is an important determinant of coumarin response. \u001Eerefore, the status of both CYP2C9 and VKORC1 should be considered when identifying candidates for intensi- \u001Fed international normalized ratio monitoring."
+    }, {
+      "id" : 7283822,
+      "location" : "Full Text",
+      "sentenceIndex" : 109,
+      "text" : "Despite a clear pharmacokinetic e\u001Aect of the gene-drug interaction, no recommendations were formulated for any of the sulfonylureas; the absolute risk for hypoglycemia is low, and the dose is titrated in response to plasma levels of glucose/glycosylated hemoglobin."
+    }, {
+      "id" : 7283826,
+      "location" : "Full Text",
+      "sentenceIndex" : 110,
+      "text" : "CYP2C19 \u001Ee number of CYP2C19 substrates assessed increased from 1 to 12, and the CYP2C19*17 allele (resulting in UMs) was added."
+    }, {
+      "id" : 7283828,
+      "location" : "Full Text",
+      "sentenceIndex" : 111,
+      "text" : "Recommendations have been made with respect to all drugs except moclobemide and rabeprazole."
+    }, {
+      "id" : 7283831,
+      "location" : "Full Text",
+      "sentenceIndex" : 112,
+      "text" : "Several articles have reported that the use of proton pump inhibitors results in better clinical e\u001Ccacy in PMs and IMs as compared to extensive metabolizers. \u001Eese results were scored as clinical relevance category AA# (AA: no statistically signi\u001Fcant kinetic or clinical e\u001Aect; \"#\" indicates a positive e\u001Aect)."
+    }, {
+      "id" : 7283834,
+      "location" : "Full Text",
+      "sentenceIndex" : 113,
+      "text" : "Because of the risk of undertreatment, dose increases ranging from 50 to 400% are advised for UMs who are receiving treatment with proton pump inhibitors."
+    }, {
+      "id" : 7283837,
+      "location" : "Full Text",
+      "sentenceIndex" : 114,
+      "text" : "In the case of voriconazole, because of its nonlinear pharmacokinetics, no dose adjustment is recommended."
+    }, {
+      "id" : 7283839,
+      "location" : "Full Text",
+      "sentenceIndex" : 115,
+      "text" : "UGT1A1 The UGT1A1*28 allele is associated with irinotecan toxicity."
+    }, {
+      "id" : 7283844,
+      "location" : "Full Text",
+      "sentenceIndex" : 116,
+      "text" : "Although results are not consistent, there is su\u001Ccient evidence that a reduction in the initial dose by 30% is required for regimens containing >250 mg/m of irinotecan prescribed to homozygous carriers of the UGT1A1*28 allele. \u001Eis is in agreement with the Food and Drug Administration-mandated label change."
+    }, {
+      "id" : 7283848,
+      "location" : "Full Text",
+      "sentenceIndex" : 117,
+      "text" : "No dose reduction is recommended for heterozygous carriers of the UGT1A1*28 allele because dose reduction might result in undertreatment."
+    }, {
+      "id" : 7283851,
+      "location" : "Full Text",
+      "sentenceIndex" : 118,
+      "text" : "TPMT TPMT catalyzes the S-methylation of the thiopurine drugs 6-mercaptopurine, azathioprine, and thioguanine."
+    }, {
+      "id" : 7283857,
+      "location" : "Full Text",
+      "sentenceIndex" : 119,
+      "text" : "Selection of an alternative drug is advised for IMs and PMs."
+    }, {
+      "id" : 7283858,
+      "location" : "Full Text",
+      "sentenceIndex" : 120,
+      "text" : "If this is not possible, the dose should be reduced by 50 and 90%, respectively. \u001Ee data for thioguanine were insu\u001Ccient for calculating dose adjustments."
+    }, {
+      "id" : 7283860,
+      "location" : "Full Text",
+      "sentenceIndex" : 121,
+      "text" : "HLA-B44 \u001Eere was some evidence that HLA-B44-negative patients show less response to treatment with ribavirine."
+    }, {
+      "id" : 7283861,
+      "location" : "Full Text",
+      "sentenceIndex" : 122,
+      "text" : "However, given that ~90% of the population is HLA-B44-negative and that no alternative treatment is available, no action is advised."
+    }, {
+      "id" : 7283862,
+      "location" : "Full Text",
+      "sentenceIndex" : 123,
+      "text" : "HLA-B*5701 To date, the association between HLA-B*5701 genotype and the hypersensitivity reaction to abacavir remains the only example of a randomized clinical trial of pharmacogenetics. \u001Ee advice regarding selection of an alternative drug for treating HLAB*5701-positive patients is in agreement with the recommendations of the Food and Drug Administration and the European Medicines Agency."
+    }, {
+      "id" : 7283867,
+      "location" : "Full Text",
+      "sentenceIndex" : 124,
+      "text" : "CYP3A5 Because of the large number of publications, studies limited to healthy volunteers, pharmacokinetic end points, or liver transplantations were excluded."
+    }, {
+      "id" : 7283869,
+      "location" : "Full Text",
+      "sentenceIndex" : 125,
+      "text" : "Although an interaction between CYP3A5 genotype and tacrolimus metabolism exists, no action is advised because in Dutch transplantation hospitals the tacrolimus dose is titrated in response to therapeutic drug monitoring."
+    }, {
+      "id" : 7283873,
+      "location" : "Full Text",
+      "sentenceIndex" : 126,
+      "text" : "VKORC1 \u001Ee VKORC1 genotype appears to contribute more to the variability in coumarin dose requirements than the CYP2C9 genotype does. \u001Ee presence of the VKORC1 C1173T polymorphism results in a decrease in dose requirements of acenocoumarol and phenprocoumon."
+    }, {
+      "id" : 7283880,
+      "location" : "Full Text",
+      "sentenceIndex" : 127,
+      "text" : "However, for reasons identical to those related to the coumarin-CYP2C9 interaction, it was decided not to advise a dose reduction."
+    }, {
+      "id" : 7283882,
+      "location" : "Full Text",
+      "sentenceIndex" : 128,
+      "text" : "Patients with a positive (family) history of thrombotic events, and who are also carriers of the FVL allele, are advised to avoid the use of estrogen-containing oral contraceptives."
+    }, {
+      "id" : 7283884,
+      "location" : "Full Text",
+      "sentenceIndex" : 129,
+      "text" : "DPYD \u001Eree DPD substrates were evaluated: 5-\u001Duorouracil, its oral prodrug capecitabine, and tegafur."
+    }, {
+      "id" : 7283889,
+      "location" : "Full Text",
+      "sentenceIndex" : 130,
+      "text" : "Selection of an alternative drug is advised for PMs, de\u001Fned as homozygous carriers of a nonfunctional allele."
+    }, {
+      "id" : 7283890,
+      "location" : "Full Text",
+      "sentenceIndex" : 131,
+      "text" : "For IMs, de\u001Fned as heterozygous carriers of a nonfunctional allele, a dose reduction of 50% is advised for 5-\u001Duorouracil and capecitabine."
+    }, {
+      "id" : 7283892,
+      "location" : "Full Text",
+      "sentenceIndex" : 132,
+      "text" : "CLINICAL PHARMACOLOGY & THERAPEUTICS 11 REPORTS DISCUSSION We have developed pharmacogenetics-based therapeutic (dose) recommendations for 163 genotype/phenotype-drug combinations comprising 53 drugs and 11 genes. \u001Eese recommendations include updates on the 26 existing therapeutic (dose) recommendations as well as recommendations for 27 new gene-drug combinations. \u001Ee recommendations issued since October 2006 are available through most automated drug prescription, dispensing, and medication surveillance systems in the Netherlands. \u001Ee Pharmacogenetics Working Group initiative is not the \u001Frst to develop guidelines with pharmacogenetics-based dose recommendations."
+    }, {
+      "id" : 7283893,
+      "location" : "Full Text",
+      "sentenceIndex" : 133,
+      "text" : "A 2001 paper on CYP2D6 phenotype-based dose recommendations for antidepressants represents an early step."
+    }, {
+      "id" : 7283896,
+      "location" : "Full Text",
+      "sentenceIndex" : 134,
+      "text" : "A more recent example is the inclusion of pharmacogenetic information in coumarin dosing algorithms."
+    }, {
+      "id" : 7283898,
+      "location" : "Full Text",
+      "sentenceIndex" : 135,
+      "text" : "Furthermore, several groups have developed databases that are devoted to disseminating knowledge in the area of pharmacogenetics, e.g., PharmGKB (http://www.pharmgkb.org/)."
+    }, {
+      "id" : 7283899,
+      "location" : "Full Text",
+      "sentenceIndex" : 136,
+      "text" : "However, our recommendations are the \u001Frst to be available nationwide during the process of drug prescribing and dispensing."
+    }, {
+      "id" : 7283900,
+      "location" : "Full Text",
+      "sentenceIndex" : 137,
+      "text" : "Our approach has some limitations, though."
+    }, {
+      "id" : 7283901,
+      "location" : "Full Text",
+      "sentenceIndex" : 138,
+      "text" : "First, pharmacogenetics was not the primary objective for most of the studies we assessed; therefore, many of the studies were underpowered, with insu\u001Ccient sample size per genotype or phenotype."
+    }, {
+      "id" : 7283902,
+      "location" : "Full Text",
+      "sentenceIndex" : 139,
+      "text" : "Second, the end points assessed were o\u001Ben pharmacokinetic ones and the result of single-dose experiments in healthy volunteersnot representative of the conditions in daily clinical practice."
+    }, {
+      "id" : 7283903,
+      "location" : "Full Text",
+      "sentenceIndex" : 140,
+      "text" : "However, since our previous report, the number of studies with pharmacogenetics as the primary objective has increased signi\u001Fcantly."
+    }, {
+      "id" : 7283904,
+      "location" : "Full Text",
+      "sentenceIndex" : 141,
+      "text" : "In our opinion, there is currently only limited evidence to justify population-wide prospective pharmacogenetic screening."
+    }, {
+      "id" : 7283905,
+      "location" : "Full Text",
+      "sentenceIndex" : 142,
+      "text" : "A pharmacogenetic test prior to drug prescription is obligatory only for trastuzumab."
+    }, {
+      "id" : 7283907,
+      "location" : "Full Text",
+      "sentenceIndex" : 143,
+      "text" : "Yet there are indications that patients with a non-wild-type genotype may be at increased risk for an aberrant drug response. \u001Eerefore, we formulated recommendations for patients with a previously determined genotype."
+    }, {
+      "id" : 7283908,
+      "location" : "Full Text",
+      "sentenceIndex" : 144,
+      "text" : "In current clinical practice, the number of such patients is limited and consists mainly of subjects who were genotyped a\u001Ber unexplained adverse drug events or lack of response to \"normal\" drug dose."
+    }, {
+      "id" : 7283909,
+      "location" : "Full Text",
+      "sentenceIndex" : 145,
+      "text" : "However, with the continuous decline in the costs of pharmacogenetic tests and the increasing number of laboratories with genotyping infrastructure, this number is bound to increase. \u001Ee recommendations of the Pharmacogenetics Working Group focus on the combination of a single gene with a single drug."
+    }, {
+      "id" : 7283910,
+      "location" : "Full Text",
+      "sentenceIndex" : 146,
+      "text" : "However, the predictive value of a single genetic variant with regard to drug response is o\u001Ben limited, and combinations of multiple genetic variants may be involved."
+    }, {
+      "id" : 7283911,
+      "location" : "Full Text",
+      "sentenceIndex" : 147,
+      "text" : "For example, only 5-18% and 15-37% of the variation in warfarin dose requirements are explained by CYP2C9 and VKORC1 genotypes, respectively."
+    }, {
+      "id" : 7283915,
+      "location" : "Full Text",
+      "sentenceIndex" : 148,
+      "text" : "9-13 Models that combine information on both genetic and nongenetic factors are able to explain up to 50% of the variation in warfarin dose requirements. \u001Ee formulation of recommendations that consider combinations of multiple genes presents a signi\u001Fcant challenge for the future, given that very large study populations will be required to gather signi\u001Fcant numbers of patients with combinations of rare genotypes."
+    }, {
+      "id" : 7283917,
+      "location" : "Full Text",
+      "sentenceIndex" : 149,
+      "text" : "A second challenge is the integration of gene-drug and drug-drug interactions."
+    }, {
+      "id" : 7283918,
+      "location" : "Full Text",
+      "sentenceIndex" : 150,
+      "text" : "To date, drug-drug interactions have been considered characteristic only of the drugs involved."
+    }, {
+      "id" : 7283919,
+      "location" : "Full Text",
+      "sentenceIndex" : 151,
+      "text" : "However, in the light of current knowledge of pharmacogenetics, this might no longer be valid."
+    }, {
+      "id" : 7283920,
+      "location" : "Full Text",
+      "sentenceIndex" : 152,
+      "text" : "For example, the interaction between a CYP2D6 inhibitor and a CYP2D6 substrate requires di\u001Aerent management for CYP2D6 IMs than for CYP2D6 PMs. \u001Eerefore, the combination of gene-drug and drug-drug interactions may have major implications for drug prescribing and dispensing."
+    }, {
+      "id" : 7283922,
+      "location" : "Full Text",
+      "sentenceIndex" : 153,
+      "text" : "Research in this \u001Feld is only starting to evolve."
+    }, {
+      "id" : 7283923,
+      "location" : "Full Text",
+      "sentenceIndex" : 154,
+      "text" : "In conclusion, we have developed pharmacogenetics-based therapeutic (dose) recommendations for 53 drugs. \u001Ee recommendations are available nationwide during the process of drug prescribing and dispensing."
+    }, {
+      "id" : 7283924,
+      "location" : "Full Text",
+      "sentenceIndex" : 155,
+      "text" : "We believe that the availability of the therapeutic (dose) recommendations during the process of therapeutic decision making represents an important step in the clinical use of pharmacogenetic information."
+    }, {
+      "id" : 7283925,
+      "location" : "Full Text",
+      "sentenceIndex" : 156,
+      "text" : "METHODS A detailed description of the methods used for data collection, data assessment, and preparation of gene-drug monographs has previously been provided in this journal."
+    }, {
+      "id" : 7283926,
+      "location" : "Full Text",
+      "sentenceIndex" : 157,
+      "text" : "In brief, a list of genetic polymorphisms affecting pharmacokinetics and pharmacodynamics, including an overview of drug substrates, was compiled."
+    }, {
+      "id" : 7283927,
+      "location" : "Full Text",
+      "sentenceIndex" : 158,
+      "text" : "For each drug, a systematic search of the literature was performed."
+    }, {
+      "id" : 7283928,
+      "location" : "Full Text",
+      "sentenceIndex" : 159,
+      "text" : "Review articles and studies involving nonhuman subjects and in vitro experiments were excluded."
+    }, {
+      "id" : 7283929,
+      "location" : "Full Text",
+      "sentenceIndex" : 160,
+      "text" : "Each gene-drug interaction was scored on two parameters."
+    }, {
+      "id" : 7283930,
+      "location" : "Full Text",
+      "sentenceIndex" : 161,
+      "text" : "First, the quality of evidence for the gene-drug interaction was scored on a \u001Fve-point scale ranging from 0 (lowest evidence) to 4 (highest evidence) (Supplementary Table S1)."
+    }, {
+      "id" : 7283931,
+      "location" : "Full Text",
+      "sentenceIndex" : 162,
+      "text" : "Population size was not included as a parameter for assessing the quality of evidence, but dose adjustments were calculated as the population size-weighted mean."
+    }, {
+      "id" : 7283932,
+      "location" : "Full Text",
+      "sentenceIndex" : 163,
+      "text" : "Second, the clinical relevance of the potential gene-drug interaction was scored on a seven-point scale ranging from AA (lowest impact) to F (highest impact) (Supplementary Table S2)."
+    }, {
+      "id" : 7283933,
+      "location" : "Full Text",
+      "sentenceIndex" : 164,
+      "text" : "For each gene-drug interaction, a risk analysis containing a review of the selected articles, their assigned levels of evidence and clinical relevance, and a therapeutic (dose) recommendation were compiled."
+    }, {
+      "id" : 7283934,
+      "location" : "Full Text",
+      "sentenceIndex" : 165,
+      "text" : "Recommendations included those related to dose adjustments as well as advice on therapeutic strategy (e.g., therapeutic drug monitoring, selection of alternative drugs, and warning for adverse drug events)."
+    }, {
+      "id" : 7283935,
+      "location" : "Full Text",
+      "sentenceIndex" : 166,
+      "text" : "SUPPLEMENTARY MATERIAL is linked to the online version of the paper at http://www.nature.com/cpt ACKNOWLEDGMENTS No additional funding was received."
+    }, {
+      "id" : 7283936,
+      "location" : "Full Text",
+      "sentenceIndex" : 167,
+      "text" : "We thank Jean Conemans and Ingeborg Wilting for their valuable contributions as former members of the Pharmacogenetics Working Group."
+    }, {
+      "id" : 7283937,
+      "location" : "Full Text",
+      "sentenceIndex" : 168,
+      "text" : "CONFLICT OF INTEREST The authors declared no conflict of interest."
+    }, {
+      "id" : 7283938,
+      "location" : "Full Text",
+      "sentenceIndex" : 169,
+      "text" : "2011 American Society for Clinical Pharmacology and Therapeutics 1."
+    }, {
+      "id" : 7283939,
+      "location" : "Full Text",
+      "sentenceIndex" : 170,
+      "text" : "Mallal, S. et al. HLA-B*5701 screening for hypersensitivity to abacavir."
+    }, {
+      "id" : 7283943,
+      "location" : "Full Text",
+      "sentenceIndex" : 171,
+      "text" : "N."
+    }, {
+      "id" : 7283944,
+      "location" : "Full Text",
+      "sentenceIndex" : 172,
+      "text" : "Engl."
+    }, {
+      "id" : 7283945,
+      "location" : "Full Text",
+      "sentenceIndex" : 173,
+      "text" : "J."
+    }, {
+      "id" : 7283946,
+      "location" : "Full Text",
+      "sentenceIndex" : 174,
+      "text" : "Med."
+    }, {
+      "id" : 7283947,
+      "location" : "Full Text",
+      "sentenceIndex" : 175,
+      "text" : "358, 568-579 (2008)."
+    }, {
+      "id" : 7283948,
+      "location" : "Full Text",
+      "sentenceIndex" : 176,
+      "text" : "2."
+    }, {
+      "id" : 7283949,
+      "location" : "Full Text",
+      "sentenceIndex" : 177,
+      "text" : "Flockhart, D.A., Skaar, T., Berlin, D.S., Klein, T.E. & Nguyen, A.T."
+    }, {
+      "id" : 7283950,
+      "location" : "Full Text",
+      "sentenceIndex" : 178,
+      "text" : "Clinically available pharmacogenomics tests."
+    }, {
+      "id" : 7283951,
+      "location" : "Full Text",
+      "sentenceIndex" : 179,
+      "text" : "Clin."
+    }, {
+      "id" : 7283952,
+      "location" : "Full Text",
+      "sentenceIndex" : 180,
+      "text" : "Pharmacol."
+    }, {
+      "id" : 7283953,
+      "location" : "Full Text",
+      "sentenceIndex" : 181,
+      "text" : "Ther."
+    }, {
+      "id" : 7283954,
+      "location" : "Full Text",
+      "sentenceIndex" : 182,
+      "text" : "86, 109-113 (2009)."
+    }, {
+      "id" : 7283955,
+      "location" : "Full Text",
+      "sentenceIndex" : 183,
+      "text" : "3."
+    }, {
+      "id" : 7283956,
+      "location" : "Full Text",
+      "sentenceIndex" : 184,
+      "text" : "US Food and Drug Administration."
+    }, {
+      "id" : 7283957,
+      "location" : "Full Text",
+      "sentenceIndex" : 185,
+      "text" : "Table of Pharmacogenomic Biomarkers in Drug Labels <http://www.fda.gov/Drugs/ScienceResearch/ResearchAreas/ Pharmacogenetics/ucm083378.htm> Accessed 15 October 2010."
+    }, {
+      "id" : 7283958,
+      "location" : "Full Text",
+      "sentenceIndex" : 186,
+      "text" : "4."
+    }, {
+      "id" : 7283959,
+      "location" : "Full Text",
+      "sentenceIndex" : 187,
+      "text" : "Swen, J.J. et al. Pharmacogenetics: from bench to byte."
+    }, {
+      "id" : 7283960,
+      "location" : "Full Text",
+      "sentenceIndex" : 188,
+      "text" : "Clin."
+    }, {
+      "id" : 7283961,
+      "location" : "Full Text",
+      "sentenceIndex" : 189,
+      "text" : "Pharmacol."
+    }, {
+      "id" : 7283962,
+      "location" : "Full Text",
+      "sentenceIndex" : 190,
+      "text" : "Ther."
+    }, {
+      "id" : 7283963,
+      "location" : "Full Text",
+      "sentenceIndex" : 191,
+      "text" : "83, 781-787 (2008)."
+    }, {
+      "id" : 7283964,
+      "location" : "Full Text",
+      "sentenceIndex" : 192,
+      "text" : "12 www.nature.com/cpt REPORTS 5. van den Besselaar, A.M., van der Meer, F.J. & Gerrits-Drabbe, C.W."
+    }, {
+      "id" : 7283965,
+      "location" : "Full Text",
+      "sentenceIndex" : 193,
+      "text" : "Therapeutic control of oral anticoagulant treatment in The Netherlands."
+    }, {
+      "id" : 7283966,
+      "location" : "Full Text",
+      "sentenceIndex" : 194,
+      "text" : "Am. J."
+    }, {
+      "id" : 7283967,
+      "location" : "Full Text",
+      "sentenceIndex" : 195,
+      "text" : "Clin."
+    }, {
+      "id" : 7283968,
+      "location" : "Full Text",
+      "sentenceIndex" : 196,
+      "text" : "Pathol."
+    }, {
+      "id" : 7283969,
+      "location" : "Full Text",
+      "sentenceIndex" : 197,
+      "text" : "90, 685-690 (1988)."
+    }, {
+      "id" : 7283970,
+      "location" : "Full Text",
+      "sentenceIndex" : 198,
+      "text" : "6. van Schie, R.M. et al. Genotype-guided dosing of coumarin derivatives: the European pharmacogenetics of anticoagulant therapy (EU-PACT) trial design."
+    }, {
+      "id" : 7283972,
+      "location" : "Full Text",
+      "sentenceIndex" : 199,
+      "text" : "Pharmacogenomics 10, 1687-1695 (2009)."
+    }, {
+      "id" : 7283973,
+      "location" : "Full Text",
+      "sentenceIndex" : 200,
+      "text" : "7."
+    }, {
+      "id" : 7283974,
+      "location" : "Full Text",
+      "sentenceIndex" : 201,
+      "text" : "Kirchheiner, J. et al. CYP2D6 and CYP2C19 genotype-based dose recommendations for antidepressants: a \u001Erst step towards subpopulationspeci\u001Ec dosages."
+    }, {
+      "id" : 7283978,
+      "location" : "Full Text",
+      "sentenceIndex" : 202,
+      "text" : "Acta Psychiatr."
+    }, {
+      "id" : 7283979,
+      "location" : "Full Text",
+      "sentenceIndex" : 203,
+      "text" : "Scand."
+    }, {
+      "id" : 7283980,
+      "location" : "Full Text",
+      "sentenceIndex" : 204,
+      "text" : "104, 173-192 (2001)."
+    }, {
+      "id" : 7283981,
+      "location" : "Full Text",
+      "sentenceIndex" : 205,
+      "text" : "8."
+    }, {
+      "id" : 7283982,
+      "location" : "Full Text",
+      "sentenceIndex" : 206,
+      "text" : "Klein, T.E. et al. Estimation of the warfarin dose with clinical and pharmacogenetic data."
+    }, {
+      "id" : 7283984,
+      "location" : "Full Text",
+      "sentenceIndex" : 207,
+      "text" : "N."
+    }, {
+      "id" : 7283985,
+      "location" : "Full Text",
+      "sentenceIndex" : 208,
+      "text" : "Engl."
+    }, {
+      "id" : 7283986,
+      "location" : "Full Text",
+      "sentenceIndex" : 209,
+      "text" : "J."
+    }, {
+      "id" : 7283987,
+      "location" : "Full Text",
+      "sentenceIndex" : 210,
+      "text" : "Med."
+    }, {
+      "id" : 7283988,
+      "location" : "Full Text",
+      "sentenceIndex" : 211,
+      "text" : "360, 753-764 (2009)."
+    }, {
+      "id" : 7283989,
+      "location" : "Full Text",
+      "sentenceIndex" : 212,
+      "text" : "9."
+    }, {
+      "id" : 7283990,
+      "location" : "Full Text",
+      "sentenceIndex" : 213,
+      "text" : "Tan, G.M., Wu, E., Lam, Y.Y. & Yan, B.P."
+    }, {
+      "id" : 7283991,
+      "location" : "Full Text",
+      "sentenceIndex" : 214,
+      "text" : "Role of warfarin pharmacogenetic testing in clinical practice."
+    }, {
+      "id" : 7283993,
+      "location" : "Full Text",
+      "sentenceIndex" : 215,
+      "text" : "Pharmacogenomics 11, 439-448 (2010)."
+    }, {
+      "id" : 7283994,
+      "location" : "Full Text",
+      "sentenceIndex" : 216,
+      "text" : "10."
+    }, {
+      "id" : 7283995,
+      "location" : "Full Text",
+      "sentenceIndex" : 217,
+      "text" : "D'Andrea, G. et al. A polymorphism in the VKORC1 gene is associated with an interindividual variability in the dose-anticoagulant e\u001Dect of warfarin."
+    }, {
+      "id" : 7283998,
+      "location" : "Full Text",
+      "sentenceIndex" : 218,
+      "text" : "Blood 105, 645-649 (2005)."
+    }, {
+      "id" : 7283999,
+      "location" : "Full Text",
+      "sentenceIndex" : 219,
+      "text" : "11."
+    }, {
+      "id" : 7284000,
+      "location" : "Full Text",
+      "sentenceIndex" : 220,
+      "text" : "Li, T., Chang, C.Y., Jin, D.Y., Lin, P.J., Khvorova, A. & Sta\u001Dord, D.W."
+    }, {
+      "id" : 7284001,
+      "location" : "Full Text",
+      "sentenceIndex" : 221,
+      "text" : "Identi\u001Ecation of the gene for vitamin K epoxide reductase."
+    }, {
+      "id" : 7284004,
+      "location" : "Full Text",
+      "sentenceIndex" : 222,
+      "text" : "Nature 427, 541-544 (2004)."
+    }, {
+      "id" : 7284005,
+      "location" : "Full Text",
+      "sentenceIndex" : 223,
+      "text" : "12."
+    }, {
+      "id" : 7284006,
+      "location" : "Full Text",
+      "sentenceIndex" : 224,
+      "text" : "Rieder, M.J. et al. E\u001Dect of VKORC1 haplotypes on transcriptional regulation and warfarin dose."
+    }, {
+      "id" : 7284009,
+      "location" : "Full Text",
+      "sentenceIndex" : 225,
+      "text" : "N."
+    }, {
+      "id" : 7284010,
+      "location" : "Full Text",
+      "sentenceIndex" : 226,
+      "text" : "Engl."
+    }, {
+      "id" : 7284011,
+      "location" : "Full Text",
+      "sentenceIndex" : 227,
+      "text" : "J."
+    }, {
+      "id" : 7284012,
+      "location" : "Full Text",
+      "sentenceIndex" : 228,
+      "text" : "Med."
+    }, {
+      "id" : 7284013,
+      "location" : "Full Text",
+      "sentenceIndex" : 229,
+      "text" : "352, 2285-2293 (2005)."
+    }, {
+      "id" : 7284014,
+      "location" : "Full Text",
+      "sentenceIndex" : 230,
+      "text" : "13."
+    }, {
+      "id" : 7284015,
+      "location" : "Full Text",
+      "sentenceIndex" : 231,
+      "text" : "Rost, S. et al. Mutations in VKORC1 cause warfarin resistance and multiple coagulation factor de\u001Eciency type 2."
+    }, {
+      "id" : 7284018,
+      "location" : "Full Text",
+      "sentenceIndex" : 232,
+      "text" : "Nature 427, 537-541 (2004)."
+    }, {
+      "id" : 7284019,
+      "location" : "Full Text",
+      "sentenceIndex" : 233,
+      "text" : "14."
+    }, {
+      "id" : 7284020,
+      "location" : "Full Text",
+      "sentenceIndex" : 234,
+      "text" : "Vormfelde, S.V. et al. Relative impact of genotype and enzyme induction on the metabolic capacity of CYP2C9 in healthy volunteers."
+    }, {
+      "id" : 7284022,
+      "location" : "Full Text",
+      "sentenceIndex" : 235,
+      "text" : "Clin."
+    }, {
+      "id" : 7284023,
+      "location" : "Full Text",
+      "sentenceIndex" : 236,
+      "text" : "Pharmacol."
+    }, {
+      "id" : 7284024,
+      "location" : "Full Text",
+      "sentenceIndex" : 237,
+      "text" : "Ther."
+    }, {
+      "id" : 7284025,
+      "location" : "Full Text",
+      "sentenceIndex" : 238,
+      "text" : "86, 54-61 (2009)."
+    } ],
+    "summary" : "Currently, there are very few guidelines linking the results of pharmacogenetic tests to specific therapeutic recommendations. Therefore, the Royal Dutch Association for the Advancement of Pharmacy established the Pharmacogenetics Working Group with the objective of developing pharmacogenetics-based therapeutic (dose) recommendations. After systematic review of the literature, recommendations were developed for 53 drugs associated with genes coding for CYP2D6, CYP2C19, CYP2C9, thiopurine-S-methyltransferase (TPMT), dihydropyrimidine dehydrogenase (DPD), vitamin K epoxide reductase (VKORC1), uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1), HLA-B44, HLA-B*5701, CYP3A5, and factor V Leiden (FVL).",
+    "type" : "Article",
+    "version" : 2,
+    "volume" : "89",
+    "xrefs" : [ {"@id":"https://pharmgkb.org/crossReference/pubMed/21412232","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":769250885,"resource":"PubMed","resourceId":"21412232","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21412232"}, {"@id":"https://pharmgkb.org/crossReference/doi/10.1038/clpt.2011.34","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449247827,"resource":"DOI","resourceId":"10.1038/clpt.2011.34","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.34"} ],
+    "year" : 2011
+  } ],
+  "guideline" : {
+    "@id" : "https://pharmgkb.org/guidelineAnnotation/PA166104973",
+    "@context" : "https://api.pharmgkb.org/jsonld/guidelineAnnotation.jsonld",
+    "objCls" : "Guideline Annotation",
+    "id" : "PA166104973",
+    "name" : "Annotation of DPWG Guideline for oxycodone and CYP2D6",
+    "cancerGenome" : false,
+    "guidelineGenes" : [ ],
+    "history" : [ {
+      "id" : 1183704509,
+      "date" : "2011-08-10T00:00:00-07:00",
+      "type" : "Create",
+      "version" : 0
+    }, {
+      "id" : 1450414888,
+      "date" : "2019-05-22T17:29:12.184-07:00",
+      "description" : "Annotation current with November 2018 DPWG Guideline release",
+      "type" : "Update",
+      "version" : 0
+    } ],
+    "literature" : [ {"@id":"https://pharmgkb.org/literature/7283333","@context":"https://api.pharmgkb.org/jsonld/literature.jsonld","id":7283333,"resourceId":"21412232","title":"Pharmacogenetics: from bench to byte--an update of guidelines.","sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/21412232","type":"Article","xrefs":[{"@id":"https://pharmgkb.org/crossReference/pubMed/21412232","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":769250885,"resource":"PubMed","resourceId":"21412232","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21412232"},{"@id":"https://pharmgkb.org/crossReference/doi/10.1038/clpt.2011.34","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449247827,"resource":"DOI","resourceId":"10.1038/clpt.2011.34","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.34"}]}, {"@id":"https://pharmgkb.org/literature/15102465","@context":"https://api.pharmgkb.org/jsonld/literature.jsonld","id":15102465,"resourceId":"https://www.knmp.nl/downloads/pharmacogenetic-recommendations-november-2018.pdf","title":"Dutch Pharmacogenetics Working Group Guidelines November 2018","sameAs":"https://www.knmp.nl/downloads/pharmacogenetic-recommendations-november-2018.pdf","type":"Web Page","xrefs":[{"@id":"https://pharmgkb.org/crossReference/url/https://www.knmp.nl/downloads/pharmacogenetic-recommendations-november-2018.pdf","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1450415575,"resource":"URL","resourceId":"https://www.knmp.nl/downloads/pharmacogenetic-recommendations-november-2018.pdf","_url":"https://www.knmp.nl/downloads/pharmacogenetic-recommendations-november-2018.pdf"}]} ],
+    "recommendation" : false,
+    "relatedAlleles" : [ ],
+    "relatedChemicals" : [ {
+      "@id" : "https://pharmgkb.org/chemical/PA450741",
+      "@context" : "https://api.pharmgkb.org/jsonld/chemical.jsonld",
+      "objCls" : "Chemical",
+      "id" : "PA450741",
+      "name" : "oxycodone",
+      "version" : 6
+    } ],
+    "relatedGenes" : [ {
+      "@id" : "https://pharmgkb.org/gene/PA128",
+      "@context" : "https://api.pharmgkb.org/jsonld/gene.jsonld",
+      "objCls" : "Gene",
+      "id" : "PA128",
+      "symbol" : "CYP2D6",
+      "name" : "cytochrome P450 family 2 subfamily D member 6",
+      "version" : 7888
+    } ],
+    "source" : "Dutch Pharmacogenetics Working Group",
+    "summaryMarkdown" : {
+      "id" : 1447982012,
+      "html" : "<p>There are currently no dosing recommendations for oxycodone based on CYP2D6 genotypes.</p>\n",
+      "version" : 1
+    },
+    "terms" : [ ],
+    "textMarkdown" : {
+      "id" : 1447982011,
+      "html" : "<h3 id=\"november-2018-update\">November 2018 Update</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for oxycodone based on CYP2D6 genotypes. They conclude that NO action is required for this gene-drug interaction. The reduced conversion of oxycodone to the more active metabolite oxymorphone does not result in reduced analgesia in patients and the increased conversion of oxycodone to the more active metabolite oxymorphone does not result in an increase in side effects in patients. (<a rel=\"noopener noreferrer\" href=\"https://www.knmp.nl/downloads/pharmacogenetic-recommendations-november-2018.pdf\" target=\"_blank\">https://www.knmp.nl/downloads/pharmacogenetic-recommendations-november-2018.pdf</a>)</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0001588.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a rel=\"noopener noreferrer\" href=\"https://www.knmp.nl/producten/gebruiksrecht-g-standaard/medicatiebewaking-g-standaard/background-information-pharmacogenetics\" target=\"_blank\">Read about gene information from DPWG</a></p>\n<h3 id=\"2011-guideline\">2011 Guideline</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for oxycodone based on CYP2D6 genotype [Article:<a href=\"/pmid/21412232\">21412232</a>].  They recommend using an alternate drug for poor, intermediate and ultra metabolizer patients.</p>\n<table class=\"table\">\n<thead>\n<tr><th>Phenotype (Genotype)</th><th>Therapeutic Dose Recommendation</th><th>Level of Evidence</th><th>Clinical Relevance</th></tr>\n</thead>\n<tbody>\n<tr><td>PM (2 inactive alleles)</td><td>Insufficient data to allow calculation of dose adjustment.  Select alternate drug - not tramadol or codeine - or be alert to symptoms of insufficient pain relief.</td><td>Published controlled studies of moderate quality* relating to phenotyped and/or genotyped patients or healthy volunteers, and having relevant pharmacokinetic or clinical endpoints.</td><td>Clinical effect (S): short-lived discomfort (&lt; 48 hr) without permanent injury: e.g. reduced decrease in resting heart rate; reduction in exercise tachycardia; decreased pain relief from oxycodone; ADE resulting from increased bioavailability of atomoxetine (decreased appetite, insomnia, sleep disturbance etc); neutropenia &gt; 1.5x10<sup>9/l; leucopenia &gt; 3.0x10</sup>9/l; thrombocytopenia  &gt; 75x10^9/l; moderate diarrhea not affecting daily activities; reduced glucose increase following oral glucose tolerance test.</td></tr>\n<tr><td>IM (2 decreased activity alleles, or 1 active and 1 inactive allele, or 1 decreased activity and 1 inactive allele)</td><td>Insufficient data to allow calculation of dose adjustment.  Select alternate drug - not tramadol or codeine - or be alert to symptoms of insufficient pain relief.</td><td>Published controlled studies of moderate quality* relating to phenotyped and/or genotyped patients or healthy volunteers, and having relevant pharmacokinetic or clinical endpoints.</td><td>Clinical effect (NS). Kinetic effect (NS).</td></tr>\n<tr><td>UM (gene duplication in absence of inactive or decreased activity alleles)</td><td>Insufficient data to allow calculation of dose adjustment.  Select alternate drug (NOT tramadol or codeine) or be alert to ADEs (e.g., nausea, vomiting, constipation, respiratory depression, confusion, urinary retention).</td><td>Published incomplete case reports. Product information.</td><td>Minor clinical effect (S): QTc prolongation (&lt;450 ms men, &lt;470 ms women); INR increase &lt; 4.5. Kinetic effect (S).</td></tr>\n</tbody>\n</table>\n<table class=\"table\">\n<thead>\n<tr><th>Allele Type</th><th>Alleles</th></tr>\n</thead>\n<tbody>\n<tr><td>active</td><td>*1, *2, *33, *35</td></tr>\n<tr><td>decreased activity</td><td>*9, *10, *17, *29, *36, *41</td></tr>\n<tr><td>inactive</td><td>*3-*8, *11-*16, *19-*21, *38, *40, *42</td></tr>\n</tbody>\n</table>\n<ul>\n<li>*See <a href=\"http://www.pharmgkb.org/home/dutch_pharmacogenetics_working_group.jsp\">Methods</a> or [Article:<a href=\"/pmid/18253145\">18253145</a>] for definition of &quot;moderate&quot; quality.</li>\n<li>S: statistically significant difference.</li>\n<li>NS: not statistically significant difference.</li>\n</ul>\n",
+      "version" : 9
+    },
+    "userId" : "lester",
+    "version" : 18,
+    "xrefs" : [ ]
+  }
+}

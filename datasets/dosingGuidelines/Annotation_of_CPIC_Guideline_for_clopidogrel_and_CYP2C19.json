@@ -1,0 +1,1661 @@
+{
+  "citations" : [ {
+    "@id" : "https://pharmgkb.org/literature/15058235",
+    "@context" : "https://api.pharmgkb.org/jsonld/literature.jsonld",
+    "id" : 15058235,
+    "resourceId" : "23698643",
+    "title" : "Clinical Pharmacogenetics Implementation Consortium guidelines for CYP2C19 genotype and clopidogrel therapy: 2013 update.",
+    "authors" : [ "Scott S A", "Sangkuhl K", "Stein C M", "Hulot J-S", "Mega J L", "Roden D M", "Klein T E", "Sabatine M S", "Johnson J A", "Shuldiner A R", "Clinical Pharmacogenetics Implementation Consortium" ],
+    "hasKeyword" : true,
+    "journal" : "Clinical pharmacology and therapeutics",
+    "meshDiseases" : [ ],
+    "meshTerms" : [ "Aryl Hydrocarbon Hydroxylases", "Cytochrome P-450 CYP2C19", "Genetic Testing", "Genetic Variation", "Genotype", "Humans", "Platelet Aggregation Inhibitors", "Risk Assessment", "Ticlopidine" ],
+    "month" : 9,
+    "nonHuman" : false,
+    "page" : "317-23",
+    "pgkbPublication" : true,
+    "pubDate" : "2013-09-01T00:00:00-07:00",
+    "sameAs" : "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748366",
+    "sentences" : [ {
+      "id" : 15058236,
+      "location" : "Title",
+      "sentenceIndex" : 0,
+      "text" : "Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for cytochrome P450-2C19 (CYP2C19) genotype and clopidogrel therapy: 2013 Update"
+    } ],
+    "summary" : "Cytochrome P450 (CYP)2C19 catalyzes the bioactivation of the antiplatelet prodrug clopidogrel, and CYP2C19 loss-of-function alleles impair formation of active metabolites, resulting in reduced platelet inhibition. In addition, CYP2C19 loss-of-function alleles confer increased risks for serious adverse cardiovascular (CV) events among clopidogrel-treated patients with acute coronary syndromes (ACSs) undergoing percutaneous coronary intervention (PCI). Guideline updates include emphasis on appropriate indication for CYP2C19 genotype-directed antiplatelet therapy, refined recommendations for specific CYP2C19 alleles, and additional evidence from an expanded literature review (updates at http://www.pharmgkb.org).",
+    "type" : "Article",
+    "version" : 5,
+    "volume" : "94",
+    "xrefs" : [ {"@id":"https://pharmgkb.org/crossReference/pmc/PMC3748366","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449276503,"resource":"PubMed Central","resourceId":"PMC3748366","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748366"}, {"@id":"https://pharmgkb.org/crossReference/pubMed/23698643","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449276502,"resource":"PubMed","resourceId":"23698643","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23698643"}, {"@id":"https://pharmgkb.org/crossReference/doi/10.1038/clpt.2013.105","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449276504,"resource":"DOI","resourceId":"10.1038/clpt.2013.105","_url":"http://dx.doi.org/10.1038%2Fclpt.2013.105"} ],
+    "year" : 2013
+  }, {
+    "@id" : "https://pharmgkb.org/literature/8231172",
+    "@context" : "https://api.pharmgkb.org/jsonld/literature.jsonld",
+    "id" : 8231172,
+    "resourceId" : "21716271",
+    "title" : "Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450-2C19 (CYP2C19) genotype and clopidogrel therapy.",
+    "authors" : [ "Scott S A", "Sangkuhl K", "Gardner E E", "Stein C M", "Hulot J-S", "Johnson J A", "Roden D M", "Klein T E", "Shuldiner A R", "Clinical Pharmacogenetics Implementation Consortium" ],
+    "hasKeyword" : true,
+    "journal" : "Clinical pharmacology and therapeutics",
+    "meshDiseases" : [ "PA165108401" ],
+    "meshTerms" : [ "Acute Coronary Syndrome", "Alleles", "Angioplasty, Balloon, Coronary", "Aryl Hydrocarbon Hydroxylases", "Cytochrome P-450 CYP2C19", "Genotype", "Humans", "Pharmacogenetics", "Platelet Aggregation Inhibitors", "Ticlopidine" ],
+    "month" : 8,
+    "nonHuman" : false,
+    "page" : "328-32",
+    "pgkbPublication" : true,
+    "pubDate" : "2011-08-01T00:00:00-07:00",
+    "sameAs" : "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3234301",
+    "sentences" : [ {
+      "id" : 8231173,
+      "location" : "Title",
+      "sentenceIndex" : 0,
+      "text" : "Clinical Pharmacogenetics Implementation Consortium Guidelines for Cytochrome P450-2C19 (CYP2C19) Genotype and Clopidogrel Therapy"
+    }, {
+      "id" : 8231176,
+      "location" : "Full Text",
+      "sentenceIndex" : 1,
+      "text" : "CLINICAL PHARMACOLOGY & THERAPEUTICS 1 TRANSLATIONnature publishing group CYP2C19 is one of the principal enzymes involved in the bioactivation of the antiplatelet prodrug clopidogrel."
+    }, {
+      "id" : 8231185,
+      "location" : "Full Text",
+      "sentenceIndex" : 2,
+      "text" : "A common loss-of-function allele, CYP2C19*2 (c.681G>A; rs4244285), is associated with increased risk for serious adverse cardiovascular events in both heterozygous and homozygous patients (~25-50% of the population) with acute coronary syndromes (ACSs) who are receiving clopidogrel, particularly among those undergoing percutaneous coronary intervention (PCI)."
+    }, {
+      "id" : 8231191,
+      "location" : "Full Text",
+      "sentenceIndex" : 3,
+      "text" : "We provide evidence from published literature and guidelines for CYPC19 genotype-directed antiplatelet therapy (periodically updated at http://www.pharmgkb.org)."
+    }, {
+      "id" : 8231192,
+      "location" : "Full Text",
+      "sentenceIndex" : 4,
+      "text" : "The purpose of these guidelines is to provide information regarding the clinical use of CYP2C19 genotype test results in patients requiring antiplatelet therapy."
+    }, {
+      "id" : 8231194,
+      "location" : "Full Text",
+      "sentenceIndex" : 5,
+      "text" : "Detailed guidelines for use of other laboratory tests, such as platelet function monitoring, as well as a discussion of cost e\u001Fectiveness, are beyond the scope of this article. \u001Ee article does not focus on demographic and other clinical variables, such as adherence to therapy, age, diabetes mellitus, obesity, smoking, and concomitant use of other drugs, that may in\u001Duence clopidogrel e\u001Ccacy and clinical decision making. \u001Ee Clinical Pharmacogenetics Implementation Consortium of the National Institutes of Health's Pharmacogenomics Research Network develops peerreviewed gene/drug guidelines that are published and updated periodically at http://www.pharmgkb.org on the basis of new developments in the \u001Beld."
+    }, {
+      "id" : 8231199,
+      "location" : "Full Text",
+      "sentenceIndex" : 6,
+      "text" : "FOCUSED LITERATURE REVIEW A systematic literature review was conducted on CYP2C19 genotype and clopidogrel (see Supplementary Data online)."
+    }, {
+      "id" : 8231202,
+      "location" : "Full Text",
+      "sentenceIndex" : 7,
+      "text" : "Guidelines for antiplatelet therapy were developed based on interpretation of the literature by authors and experts in the \u001Beld."
+    }, {
+      "id" : 8231203,
+      "location" : "Full Text",
+      "sentenceIndex" : 8,
+      "text" : "Gene: CYP2C19 Background. \u001Ee hepatic CYP2C19 enzyme contributes to the metabolism of many clinically relevant drugs such as antidepressants, benzodiazepines, mephenytoin, some proton pump inhibitors, and clopidogrel."
+    }, {
+      "id" : 8231210,
+      "location" : "Full Text",
+      "sentenceIndex" : 9,
+      "text" : "Like many other CYP450 superfamily members, the CYP2C19 gene is highly polymorphic, having more than 25 known variant alleles (http://www.cypalleles. ki.se/cyp2c19.htm). \u001Ee CYP2C19*1 allele is associated with functional CYP2C19-mediated metabolism. \u001Ee most common CYP2C19 loss-of-function allele is *2 (c.681G>A; rs4244285), with allele frequencies of ~15% in Caucasians and Africans, and 29-35% in Asians (Supplementary Tables S3 and S4 online)."
+    }, {
+      "id" : 8231214,
+      "location" : "Full Text",
+      "sentenceIndex" : 10,
+      "text" : "Other CYP2C19 variant alleles with reduced or absent enzymatic activity have been identi\u001Bed (e.g., *3-*8); however, their allele frequencies are typically <1%, with the exception of CYP2C19*3 Clinical Pharmacogenetics Implementation Consortium Guidelines for Cytochrome P450-2C19 (CYP2C19) Genotype and Clopidogrel Therapy SA Scott , K Sangkuhl , EE Gardner , CM Stein , J-S Hulot , JA Johnson 8,9,10 , DM Roden 11,12 , TE Klein and AR Shuldiner 13,14 Department of Genetics and Genomic Sciences, Mount Sinai School of Medicine, New York, New York, USA; Department of Genetics, Stanford University, Stanford, California, USA; University of Pittsburgh School of Pharmacy, Pittsburgh, Pennsylvania, USA; Division of Clinical Pharmacology, Department of Medicine, Vanderbilt University School of Medicine, Nashville, Tennessee, USA; Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, Tennessee, USA; Department of Pharmacology, Université Pierre et Marie Curie-Paris 6, INSERM UMR S 956, Pitié-Salpêtrière University Hospital, Paris, France; Cardiovascular Research Center, Mount Sinai School of Medicine, New York, New York, USA; Department of Pharmacotherapy and Translational Research, College of Pharmacy, University of Florida, Gainesville, Florida, USA; Department of Medicine (Cardiology), College of Medicine, University of Florida, Gainesville, Florida, USA; Center for Pharmacogenomics, University of Florida, Gainesville, Florida, USA; Department of Medicine, Office of Personalized Medicine, Vanderbilt University School of Medicine, Nashville, Tennessee, USA; Department of Pharmacology, Office of Personalized Medicine, Vanderbilt University School of Medicine, Nashville, Tennessee, USA; Program in Personalized and Genomic Medicine, University of Maryland School of Medicine, Baltimore, Maryland, USA; Geriatric Research and Education Clinical Center, Veterans Administration Medical Center, Baltimore, Maryland, USA."
+    }, {
+      "id" : 8231217,
+      "location" : "Full Text",
+      "sentenceIndex" : 11,
+      "text" : "Correspondence: AR Shuldiner (ashuldin@medicine.umaryland.edu) Received 1 March 2011; accepted 4 May 2011; advance online publication 29 June 2011."
+    }, {
+      "id" : 8231218,
+      "location" : "Full Text",
+      "sentenceIndex" : 12,
+      "text" : "doi:10.1038/clpt.2011.132 2 www.nature.com/cpt TRANSLATION (c.636G>A; rs4986893) in Asians (2-9%; Supplementary Data online)."
+    }, {
+      "id" : 8231221,
+      "location" : "Full Text",
+      "sentenceIndex" : 13,
+      "text" : "CYP2C19*2 is inherited as an autosomal co-dominant trait; platelet responsiveness to clopidogrel in heterozygotes (*1/*2) lies somewhere between the responsiveness in individuals with the *1/*1 genotype and that in those with the *2/*2 genotype. \u001Eerefore, based on identi\u001Bed CYP2C19 genotypes, individuals can be categorized as extensive metabolizers (e.g., *1/*1), intermediate metabolizers (e.g., *1/*2), or poor metabolizers (e.g., *2/*2). \u001Ee frequencies of CYP2C19 poor metabolizers are ~2-5% among Caucasians and Africans and ~15% in Asians (Supplementary Data online)."
+    }, {
+      "id" : 8231224,
+      "location" : "Full Text",
+      "sentenceIndex" : 14,
+      "text" : "In contrast, the CYP2C19*17 allele (c.-806C>T; rs12248560) results in increased activity as a consequence of enhanced transcription, with average multi-ethnic allele frequencies of ~3-21% (Supplementary Tables S3 and S4 online)."
+    }, {
+      "id" : 8231228,
+      "location" : "Full Text",
+      "sentenceIndex" : 15,
+      "text" : "Individuals who carry this allele may be categorized as ultrarapid metabolizers (e.g., *17/*17)."
+    }, {
+      "id" : 8231229,
+      "location" : "Full Text",
+      "sentenceIndex" : 16,
+      "text" : "Some studies indicate that this allele results in enhanced platelet inhibition and clopidogrel response, 6,8-10 and possibly an increased risk of bleeding complications."
+    }, {
+      "id" : 8231232,
+      "location" : "Full Text",
+      "sentenceIndex" : 17,
+      "text" : "However, other studies have not identi\u001Bed an e\u001Fect of CYP2C19*17 (refs. 7,12,13), and adequate evidence for an independent e\u001Fect of this allele on clinical outcomes is lacking."
+    }, {
+      "id" : 8231234,
+      "location" : "Full Text",
+      "sentenceIndex" : 18,
+      "text" : "Genetic test interpretation."
+    }, {
+      "id" : 8231235,
+      "location" : "Full Text",
+      "sentenceIndex" : 19,
+      "text" : "Clinical genotyping tests are available that interrogate variant CYP2C19 alleles and predict an individual's CYP2C19 metabolizer phenotype (Supplementary Data online)."
+    }, {
+      "id" : 8231237,
+      "location" : "Full Text",
+      "sentenceIndex" : 20,
+      "text" : "Each named star (*) allele is de\u001Bned by the genotype at one or more speci\u001Bc single-nucleotide polymorphisms (Supplementary Table S1 online) and is associated with a level of enzyme activity (Supplementary Table S2 online)."
+    }, {
+      "id" : 8231238,
+      "location" : "Full Text",
+      "sentenceIndex" : 21,
+      "text" : "Table 1 and Supplementary Table S5 online summarize the assignment of the likely CYP2C19 phenotype based on common star allele diplotypes, and these assignments are used to link genotypes with personalized antiplatelet therapy."
+    }, {
+      "id" : 8231240,
+      "location" : "Full Text",
+      "sentenceIndex" : 22,
+      "text" : "Available genetic test options."
+    }, {
+      "id" : 8231241,
+      "location" : "Full Text",
+      "sentenceIndex" : 23,
+      "text" : "A number of academic and commercial clinical laboratories o\u001Fer genetic testing for CYP2C19*2 and other CYP2C19 variant alleles (Supplementary Data online)."
+    }, {
+      "id" : 8231243,
+      "location" : "Full Text",
+      "sentenceIndex" : 24,
+      "text" : "However, at the time of this writing, only the CYP2C19*2 allele has been adequately studied with respect to clinical outcomes on clopidogrel; other variants are too rare, have not been studied, or have resulted in inconclusive \u001Bndings."
+    }, {
+      "id" : 8231246,
+      "location" : "Full Text",
+      "sentenceIndex" : 25,
+      "text" : "Incidental findings. \u001Eere are no diseases or conditions that have been convincingly linked to variations in the CYP2C19 gene independent of drug metabolism and response."
+    }, {
+      "id" : 8231248,
+      "location" : "Full Text",
+      "sentenceIndex" : 26,
+      "text" : "Other considerations."
+    }, {
+      "id" : 8231249,
+      "location" : "Full Text",
+      "sentenceIndex" : 27,
+      "text" : "CYP2C19 loss-of-function alleles do not account for all of the variability in clopidogrel response."
+    }, {
+      "id" : 8231252,
+      "location" : "Full Text",
+      "sentenceIndex" : 28,
+      "text" : "Some studies have implicated variants in other genes associated with clopidogrel response (Supplementary Data online); however, these have not been consistently replicated."
+    }, {
+      "id" : 8231254,
+      "location" : "Full Text",
+      "sentenceIndex" : 29,
+      "text" : "Drug: clopidogrel Background."
+    }, {
+      "id" : 8231256,
+      "location" : "Full Text",
+      "sentenceIndex" : 30,
+      "text" : "Clopidogrel is a thienopyridine prodrug that requires hepatic biotransformation to form an active metabolite that selectively and irreversibly inhibits the purinergic P2RY receptor, and thereby platelet aggregation, for the platelet's life span (~10 days)."
+    }, {
+      "id" : 8231258,
+      "location" : "Full Text",
+      "sentenceIndex" : 31,
+      "text" : "Only 15% of the prodrug is available for transformation to the active agent; the other 85% is hydrolyzed by esterases to inactive forms."
+    }, {
+      "id" : 8231259,
+      "location" : "Full Text",
+      "sentenceIndex" : 32,
+      "text" : "Conversion of clopidogrel to its active metabolite requires two sequential oxidative steps involving several CYP450 enzymes (e.g., CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A4/5; Supplementary Figure S1 online)."
+    }, {
+      "id" : 8231272,
+      "location" : "Full Text",
+      "sentenceIndex" : 33,
+      "text" : "A recent study suggested that paraoxonase 1 (PON1) may also be involved in clopidogrel activation."
+    }, {
+      "id" : 8231276,
+      "location" : "Full Text",
+      "sentenceIndex" : 34,
+      "text" : "Linking genetic variability to variability in drug-related phenotypes."
+    }, {
+      "id" : 8231277,
+      "location" : "Full Text",
+      "sentenceIndex" : 35,
+      "text" : "Clopidogrel is commonly prescribed for ACSs and/or following PCI."
+    }, {
+      "id" : 8231280,
+      "location" : "Full Text",
+      "sentenceIndex" : 36,
+      "text" : "However, responses to clopidogrel vary widely, with inhibition of adenosine diphosphate-induced platelet aggregation being normally distributed across a broad range."
+    }, {
+      "id" : 8231283,
+      "location" : "Full Text",
+      "sentenceIndex" : 37,
+      "text" : "Many studies have shown that CYP2C19*2 carriers have lower levels of active clopidogrel metabolites and higher on-treatment platelet aggregation as compared to noncarriers."
+    }, {
+      "id" : 8231286,
+      "location" : "Full Text",
+      "sentenceIndex" : 38,
+      "text" : "2-4,6,7,15 Moreover, substantial evidence exists linking CYP2C19 genotype with clinical response among clopidogrel-treated ACS patients, 2,5-7,13,16,17 probably as a result of decreased formation of the active clopidogrel metabolite."
+    }, {
+      "id" : 8231294,
+      "location" : "Full Text",
+      "sentenceIndex" : 39,
+      "text" : "For example, large meta-analyses (Supplementary Table S7 online) have shown that CYP2C19*2 carriers treated with clopidogrel have a higher risk for major adverse cardiovascular events as compared to noncarriers (hazard ratio (HR) 1.55, 95% con\u001Bdence interval (CI) 1.11-2.17 for heterozygotes; HR 1.76, 95% CI 1.24-2.50 for homozygotes), and higher risks of stent thrombosis (HR 2.67, 95% CI 1.69-4.22 for heterozygotes; HR 3.97, 95% CI 1.75-9.02 for homozygotes)."
+    }, {
+      "id" : 8231298,
+      "location" : "Full Text",
+      "sentenceIndex" : 40,
+      "text" : "Table 1 Assigning likely CYP2C19 phenotypes based on genotypes Likely phenotype Genotypes Examples of diplotypes Ultrarapid metabolizer: normal or increased activity (~5-30% of patients) An individual carrying two increased-activity alleles (*17), or one functional allele (*1) plus one increased-activity allele (*17) *1/*17, *17/*17 Extensive metabolizer: homozygous wild-type or normal activity (~35-50% of patients) An individual carrying two functional (*1) alleles *1/*1 Intermediate metabolizer: heterozygote or intermediate activity (~18-45% of patients) An individual carrying one functional allele (*1) plus one loss-of-function allele (*2-*8) *1/*2, *1/*3 Poor metabolizer: homozygous variant, mutant, low, or deficient activity (~2-15% of patients) An individual carrying two loss-of-function alleles (*2-*8) *2/*2, *2/*3, *3/*3 For some rare genotype combinations metabolic phenotypes are difficult to predict; see Supplementary Table S3 online."
+    }, {
+      "id" : 8231300,
+      "location" : "Full Text",
+      "sentenceIndex" : 41,
+      "text" : "CLINICAL PHARMACOLOGY & THERAPEUTICS 3 TRANSLATION \u001Ee growing body of literature implicating CYP2C19*2 (and perhaps other loss-of-function alleles) in adverse clopidogrel responses prompted the US Food and Drug Administration to implement a boxed warning on the clopidogrel label describing the relationship between CYP2C19 pharmacogenetics and drug response, particularly noting the drug's diminished e\u001Fectiveness in poor metabolizers."
+    }, {
+      "id" : 8231303,
+      "location" : "Full Text",
+      "sentenceIndex" : 42,
+      "text" : "However, because the agency's warning is not accompanied by a requirement for compulsory genetic testing before initiating clopidogrel therapy, if a patient's genotype is not known, the decision to perform CYP2C19 testing is up to the individual clinician and patient."
+    }, {
+      "id" : 8231306,
+      "location" : "Full Text",
+      "sentenceIndex" : 43,
+      "text" : "Studies linking CYP2C19 genotype with variability in clopidogrel response are summarized in Supplementary Tables S6 and S7 online; it is this body of evidence, rather than randomized clinical trials involving pharmacogenetic testing that provides the basis for the therapeutic guidelines in Table 2 ."
+    }, {
+      "id" : 8231309,
+      "location" : "Full Text",
+      "sentenceIndex" : 44,
+      "text" : "Importantly, the most de\u001Bnitive studies showing a relationship between CYP2C19 genotype and clopidogrel response have been conducted in patients with ACSs, most of whom underwent PCIs."
+    }, {
+      "id" : 8231312,
+      "location" : "Full Text",
+      "sentenceIndex" : 45,
+      "text" : "As such, these \u001Bndings may not apply to all indications for clopidogrel, including atrial \u001Bbrillation, stroke, peripheral artery disease, and chronic stable angina."
+    }, {
+      "id" : 8231316,
+      "location" : "Full Text",
+      "sentenceIndex" : 46,
+      "text" : "19,20 \u001Ee guidelines set forth here, therefore, apply largely to patients taking clopidogrel in whom invasive PCIs have been performed with drug-eluting or bare-metal stents."
+    }, {
+      "id" : 8231318,
+      "location" : "Full Text",
+      "sentenceIndex" : 47,
+      "text" : "CYP2C19 genetic test interpretation and suggested clinical actions Who should be genotyped for CYP2C19?"
+    }, {
+      "id" : 8231320,
+      "location" : "Full Text",
+      "sentenceIndex" : 48,
+      "text" : "Recently, the American College of Cardiology Foundation/American Heart Association outlined possible actions by clinicians in response to the Food and Drug Administration's boxed warning. \u001Ee article fell short of recommending CYP2C19 genetic testing, citing the absence of prospective randomized clinical outcomes trials of genotype-directed antiplatelet therapy."
+    }, {
+      "id" : 8231322,
+      "location" : "Full Text",
+      "sentenceIndex" : 49,
+      "text" : "However, such a clinical trial will take several years to perform; given the substantial body of evidence from the current literature (reviewed above) and potentially more e\u001Ccacious antiplatelet therapy alternatives (see below), some physicians may choose to modify therapy based on genotype."
+    }, {
+      "id" : 8231323,
+      "location" : "Full Text",
+      "sentenceIndex" : 50,
+      "text" : "One option is to genotype all patients who undergo PCI and therea\u001Aer require antiplatelet therapy."
+    }, {
+      "id" : 8231325,
+      "location" : "Full Text",
+      "sentenceIndex" : 51,
+      "text" : "Given the excellent clinical course generally observed among the majority of PCI patients treated with clopidogrel, another approach is to target patients who are considered to be at moderate or high clinical risk for poor outcomes in the setting of suboptimal antiplatelet therapy. \u001Eis includes, for example, patients undergoing highrisk multi-vessel PCI procedures, those who have already had an adverse outcome (e.g., stent thrombosis), and/or those with other high-risk clinical (e.g., ACS, diabetes mellitus, and chronic kidney failure) or angiographic features."
+    }, {
+      "id" : 8231337,
+      "location" : "Full Text",
+      "sentenceIndex" : 52,
+      "text" : "How should CYP2C19 genotype results be acted upon?"
+    }, {
+      "id" : 8231339,
+      "location" : "Full Text",
+      "sentenceIndex" : 53,
+      "text" : "Optimal individualized antiplatelet treatment should maximize bene\u001Bt by reducing risk of recurrent cardiovascular events while minimizing adverse e\u001Fects such as bleeding."
+    }, {
+      "id" : 8231343,
+      "location" : "Full Text",
+      "sentenceIndex" : 54,
+      "text" : "Prasugrel is a new antiplatelet agent that does not depend on CYP2C19 for activation and that was found to be superior to clopidogrel with respect to cardiovascular events (HR for prasugrel vs. clopidogrel 0.81, 95% CI 0.73-0.90, P < 0.001)."
+    }, {
+      "id" : 8231348,
+      "location" : "Full Text",
+      "sentenceIndex" : 55,
+      "text" : "However, it may not represent a substitute for clopidogrel in all patients because of (i) a higher associated risk of bleeding (HR 1.32, 95% CI 1.03-1.68, P = 0.03), including fatal bleeding (prasugrel 0.4% vs. clopidogrel 0.1%, P = 0.002) ; (ii) the fact that its use at full dose is not recommended, and lower doses of prasugrel have not been adequately studied; (iii) the larger number of conditions for which clopidogrel is approved; and (iv) the lower expense of clopidogrel as it progressively comes o\u001F patent worldwide."
+    }, {
+      "id" : 8231352,
+      "location" : "Full Text",
+      "sentenceIndex" : 56,
+      "text" : "In addition to prasugrel, ticagrelor has been approved in Europe, and other antiplatelet alternatives are being developed."
+    }, {
+      "id" : 8231355,
+      "location" : "Full Text",
+      "sentenceIndex" : 57,
+      "text" : "Older alternatives to clopidogrel include ticlopidine and cilostazol."
+    }, {
+      "id" : 8231359,
+      "location" : "Full Text",
+      "sentenceIndex" : 58,
+      "text" : "Table 2 and Figure 1 summarize the therapeutic guidelines for clopidogrel based on CYP2C19 phenotype."
+    }, {
+      "id" : 8231362,
+      "location" : "Full Text",
+      "sentenceIndex" : 59,
+      "text" : "Standard dosing of clopidogrel, as recommended in the product insert, is warranted among patients with a CYP2C19 extensive metabolizer or ultrarapid metabolizer phenotype (i.e., *1/*1, *1/*17, and *17/*17)."
+    }, {
+      "id" : 8231365,
+      "location" : "Full Text",
+      "sentenceIndex" : 60,
+      "text" : "If clinical genotyping identi\u001Bes a patient as a CYP2C19 poor metabolizer (i.e., *2/*2), current literature supports the use of an alternative agent (e.g., prasugrel, ticagrelor), provided it is not contraindicated clinically."
+    }, {
+      "id" : 8231369,
+      "location" : "Full Text",
+      "sentenceIndex" : 61,
+      "text" : "6,22,25-28 \u001Ee most challenging patient population to address is the CYP2C19 intermediate metabolizer phenotype (e.g., *1/*2)."
+    }, {
+      "id" : 8231371,
+      "location" : "Full Text",
+      "sentenceIndex" : 62,
+      "text" : "Table 2 Clopidogrel therapy based on CYP2C19 phenotype for ACS/PCI patients initiating antiplatelet therapy Phenotype (genotype) Implications for clopidogrel Therapeutic recommendations Classification of recommendations Ultrarapid metabolizer (UM) (*1/*17, *17/*17) and extensive metabolizer (EM) (*1/*1) Normal (EM) or increased (UM) platelet inhibition; normal (EM) or decreased (UM) residual platelet aggregation Clopidogrel label-recommended dosage and administration Strong Intermediate metabolizer (IM) (*1/*2) Reduced platelet inhibition; increased residual platelet aggregation; increased risk for adverse cardiovascular events Prasugrel or other alternative therapy (if no contraindication) Moderate Poor metabolizer (PM) (*2/*2) Significantly reduced platelet inhibition; increased residual platelet aggregation; increased risk for adverse cardiovascular events Prasugrel or other alternative therapy (if no contraindication) Strong ACS, acute coronary syndrome; PCI, percutaneous coronary intervention."
+    }, {
+      "id" : 8231384,
+      "location" : "Full Text",
+      "sentenceIndex" : 63,
+      "text" : "See Supplementary Data online, Strength of Therapeutic Recommendations."
+    }, {
+      "id" : 8231385,
+      "location" : "Full Text",
+      "sentenceIndex" : 64,
+      "text" : "The CYP2C19*17 allele may be associated with increased risk of bleeding."
+    }, {
+      "id" : 8231388,
+      "location" : "Full Text",
+      "sentenceIndex" : 65,
+      "text" : "4 www.nature.com/cpt TRANSLATION Intermediate metabolizers have higher on-treatment residual platelet activity on average as compared to extensive metabolizers, 2-4,6,7 and CYP2C19*2 heterozygous patients with ACSs who receive treatment with clopidogrel have higher risks for adverse cardiovascular outcomes including stent thrombosis (see Supplementary Data online). \u001Eese data support switching to an alternative antiplatelet agent for intermediate metabolizers if there is no contraindication."
+    }, {
+      "id" : 8231392,
+      "location" : "Full Text",
+      "sentenceIndex" : 66,
+      "text" : "Given the wide interindividual variability in residual platelet activity observed among intermediate metabolizers receiving clopidogrel, and taking into account other factors that may place intermediate metabolizer patients at increased risk of a cardiovascular (or adverse bleeding) event, clinical judgment should be exercised to determine the most e\u001Fective individualized therapy."
+    }, {
+      "id" : 8231395,
+      "location" : "Full Text",
+      "sentenceIndex" : 67,
+      "text" : "In recent pilot studies, increasing the clopidogrel maintenance dose from 75 to 150 mg/day increased platelet inhibition in some, but not all, patients who were CYP2C19*2 heterozygotes (ref. 29 and Supplementary Table S8 online)."
+    }, {
+      "id" : 8231398,
+      "location" : "Full Text",
+      "sentenceIndex" : 68,
+      "text" : "However, given that dose escalation was recently reported to produce no bene\u001Bt among post-PCI patients with high on-treatment platelet reactivity, it is currently premature to support a recommendation for an increased maintenance dose of 150 mg/day in CYP2C19 intermediate metabolizers."
+    }, {
+      "id" : 8231400,
+      "location" : "Full Text",
+      "sentenceIndex" : 69,
+      "text" : "Equally controversial is the use of platelet function testing alone (e.g., GRAVITAS and TRIGGERPCI trial results) or in combination with CYP2C19 genotype information."
+    }, {
+      "id" : 8231402,
+      "location" : "Full Text",
+      "sentenceIndex" : 70,
+      "text" : "Future versions of these guidelines (updated at http://www.pharmgkb.org) will incorporate results from ongoing clinical trials that are designed to address these and other emerging issues."
+    }, {
+      "id" : 8231403,
+      "location" : "Full Text",
+      "sentenceIndex" : 71,
+      "text" : "Other considerations."
+    }, {
+      "id" : 8231404,
+      "location" : "Full Text",
+      "sentenceIndex" : 72,
+      "text" : "Diabetes mellitus, increased age, and higher body mass index are associated with high on-treatment residual platelet aggregation, and the use of certain proton pump inhibitors may also a\u001Fect clopidogrel response."
+    }, {
+      "id" : 8231409,
+      "location" : "Full Text",
+      "sentenceIndex" : 73,
+      "text" : "In addition, although these guidelines have been limited to the CYP2C19*2 allele, many clinical genotyping platforms include other variant alleles (*3-*8, *17) that may alter the interpretation of a patient's predicted metabolizer phenotype (Supplementary Table S3 online). \u001Eere are reports that variants in other genes such as ABCB1, P2YR , and PON1 may a\u001Fect clopidogrel metabolism and/or e\u001Ccacy, but the body of evidence does not support genotyping for these variants at the present time."
+    }, {
+      "id" : 8231414,
+      "location" : "Full Text",
+      "sentenceIndex" : 74,
+      "text" : "Potential benefits and risks for the patient. \u001Ee potential bene\u001Bts of CYP2C19 testing are that patients with genotypes associated with a higher risk of adverse cardiovascular events during clopidogrel therapy can be identi\u001Bed, and an alternative antiplatelet strategy can be instituted."
+    }, {
+      "id" : 8231417,
+      "location" : "Full Text",
+      "sentenceIndex" : 75,
+      "text" : "Although there is mounting evidence associating de\u001Bcient CYP2C19 with increased risks of adverse cardiovascular outcomes in patients on clopidogrel therapy, there are potential risks in making changes in a patient's therapy on the basis of CYP2C19 genotype in the absence of randomized clinical trial evidence."
+    }, {
+      "id" : 8231420,
+      "location" : "Full Text",
+      "sentenceIndex" : 76,
+      "text" : "CYP2C19 genotyping is straightforward and reliable when performed in quali\u001Bed laboratories."
+    }, {
+      "id" : 8231422,
+      "location" : "Full Text",
+      "sentenceIndex" : 77,
+      "text" : "However, as with any laboratory test, an additional possible risk to the patient is an error in genotyping."
+    }, {
+      "id" : 8231423,
+      "location" : "Full Text",
+      "sentenceIndex" : 78,
+      "text" : "Because genotype test results are applied life-long, any such error could have adverse health implications throughout the lifetime of the patient."
+    }, {
+      "id" : 8231424,
+      "location" : "Full Text",
+      "sentenceIndex" : 79,
+      "text" : "Caveats: appropriate use and/or potential misuse of genetic tests."
+    }, {
+      "id" : 8231425,
+      "location" : "Full Text",
+      "sentenceIndex" : 80,
+      "text" : "One of the challenges for clinical pharmacogenetic testing is the need for rapid turnaround time and quick reporting of results."
+    }, {
+      "id" : 8231426,
+      "location" : "Full Text",
+      "sentenceIndex" : 81,
+      "text" : "When a decision is made to pursue CYP2C19 testing, it would be advantageous to have the results prior to initiating antiplatelet therapy because most potentially preventable recurrent events occur early; however, in the acute PCI setting, this is not easily achievable. \u001Eerefore, if CYP2C19 genotype is not already known from prior testing, every e\u001Fort should be made to initiate CYP2C19 testing as early as possible and to emphasize the need for expedited results. \u001Eese recommendations apply only to patients with coronary disease; e.g., those with ACSs or undergoing PCI, especially those with stent placements."
+    }, {
+      "id" : 8231431,
+      "location" : "Full Text",
+      "sentenceIndex" : 82,
+      "text" : "Current data do not support the use of CYP2C19 genotyping in other patient populations receiving clopidogrel."
+    }, {
+      "id" : 8231434,
+      "location" : "Full Text",
+      "sentenceIndex" : 83,
+      "text" : "19,20 SUPPLEMENTARY MATERIAL is linked to the online version of the paper at http://www.nature.com/cpt ACKNOWLEDGMENTS We acknowledge the critical input of W."
+    }, {
+      "id" : 8231435,
+      "location" : "Full Text",
+      "sentenceIndex" : 84,
+      "text" : "Herzog, J."
+    }, {
+      "id" : 8231436,
+      "location" : "Full Text",
+      "sentenceIndex" : 85,
+      "text" : "Knowles, M."
+    }, {
+      "id" : 8231437,
+      "location" : "Full Text",
+      "sentenceIndex" : 86,
+      "text" : "Relling, J."
+    }, {
+      "id" : 8231438,
+      "location" : "Full Text",
+      "sentenceIndex" : 87,
+      "text" : "Shin, and members of the Clinical Pharmacogenetics Implementation Consortium (CPIC) of the Pharmacogenomics Research Network, funded by the National Institutes of Health (NIH)."
+    }, {
+      "id" : 8231439,
+      "location" : "Full Text",
+      "sentenceIndex" : 88,
+      "text" : "This work was supported by NIH KL2 RR029885 (S.A.S.), U01 JL65962 (C.M.S), U01 GM074492 (J.A.J.), U19 HL065962-10 (D.M.R.), R24 GM61374 (K.S. and T.E.K.), and U01 HL105198 (A.R.S.)."
+    }, {
+      "id" : 8231442,
+      "location" : "Full Text",
+      "sentenceIndex" : 89,
+      "text" : "CPIC guidelines reflect expert consensus based on clinical evidence and peer-reviewed literature available at the time they are written and are intended only to assist clinicians in decision making and to identify questions for further research."
+    }, {
+      "id" : 8231443,
+      "location" : "Full Text",
+      "sentenceIndex" : 90,
+      "text" : "New evidence may have emerged since the time a guideline was submitted for publication."
+    }, {
+      "id" : 8231444,
+      "location" : "Full Text",
+      "sentenceIndex" : 91,
+      "text" : "Guidelines are limited in scope and are not applicable to interventions or diseases not specifically identified."
+    }, {
+      "id" : 8231445,
+      "location" : "Full Text",
+      "sentenceIndex" : 92,
+      "text" : "Guidelines do not account for all individual variations among ACS/PCI patient population Initiate antiplatelet therapy with standard dosing of clopidogrel CYP2C19 testing if genotype is unknown (*1/*17, *17/*17) (*1/*1) (*1/*2) (*2/*2) Standard dosing of clopidogrel Prasugrel or other alternative therapy Figure 1 Algorithm for suggested clinical actions based on CYP2C19 genotype in patients with acute coronary syndromes initiating antiplatelet therapy."
+    }, {
+      "id" : 8231456,
+      "location" : "Full Text",
+      "sentenceIndex" : 93,
+      "text" : "ACS, acute coronary syndrome; EM, extensive metabolizer; IM, intermediate metabolizer; PCI, percutaneous coronary intervention; PM, poor metabolizer; UM, ultrarapid metabolizer."
+    }, {
+      "id" : 8231465,
+      "location" : "Full Text",
+      "sentenceIndex" : 94,
+      "text" : "Other rare CYP2C19 genotypes exist apart from those illustrated (see Supplementary Data online for other genotypes and frequencies)."
+    }, {
+      "id" : 8231467,
+      "location" : "Full Text",
+      "sentenceIndex" : 95,
+      "text" : "Higher-dose clopidogrel has not been adequately studied at the time of this writing but may improve platelet function in a subset of IMs and PMs (Supplementary Table S8 online)."
+    }, {
+      "id" : 8231469,
+      "location" : "Full Text",
+      "sentenceIndex" : 96,
+      "text" : "Note that prasugrel is recommended only when its use is not clinically contraindicated."
+    }, {
+      "id" : 8231471,
+      "location" : "Full Text",
+      "sentenceIndex" : 97,
+      "text" : "CLINICAL PHARMACOLOGY & THERAPEUTICS 5 TRANSLATION patients and cannot be considered inclusive of all proper methods of care or exclusive of other treatments."
+    }, {
+      "id" : 8231472,
+      "location" : "Full Text",
+      "sentenceIndex" : 98,
+      "text" : "It remains the responsibility of the healthcare provider to determine the best course of treatment for a patient."
+    }, {
+      "id" : 8231473,
+      "location" : "Full Text",
+      "sentenceIndex" : 99,
+      "text" : "Adherence to any guideline is voluntary, with the ultimate determination regarding its application to be made solely by the clinician and the patient."
+    }, {
+      "id" : 8231474,
+      "location" : "Full Text",
+      "sentenceIndex" : 100,
+      "text" : "CPIC assumes no responsibility for any injury to persons or damage to persons or property arising out of or related to any use of CPIC's guidelines or for any errors or omissions."
+    }, {
+      "id" : 8231476,
+      "location" : "Full Text",
+      "sentenceIndex" : 101,
+      "text" : "CONFLICT OF INTEREST S.A.S. receives support from NIH for antiplatelet pharmacogenomics research and is a consultant to USDS, Inc. J.-S.H. has received research grant support from Fondation de France, INSERM, Fédération Francaise de Cardiologie, Biotronik, and Medco Research Institute; consulting fees from Biotronik and Medco Health Solutions; and lecture fees from Daiichi Sankyo, Eli Lilly, and Bristol-Myers Squibb."
+    }, {
+      "id" : 8231477,
+      "location" : "Full Text",
+      "sentenceIndex" : 102,
+      "text" : "J.A.J. receives support from NIH for cardiovascular pharmacogenomics research, including clopidogrel."
+    }, {
+      "id" : 8231479,
+      "location" : "Full Text",
+      "sentenceIndex" : 103,
+      "text" : "D.M.R. receives support from NIH for pharmacogenomics research and is a consultant to Merck, Novartis, Dai-ichi, Sanofi, and Astellas."
+    }, {
+      "id" : 8231480,
+      "location" : "Full Text",
+      "sentenceIndex" : 104,
+      "text" : "A.R.S. receives support from NIH for antiplatelet pharmacogenomics research and is consultant to Bristol-Myers Squibb and USDS, Inc. The other authors declared no conflict of interest."
+    }, {
+      "id" : 8231481,
+      "location" : "Full Text",
+      "sentenceIndex" : 105,
+      "text" : "2011 American Society for Clinical Pharmacology and Therapeutics 1."
+    }, {
+      "id" : 8231482,
+      "location" : "Full Text",
+      "sentenceIndex" : 106,
+      "text" : "Relling, M.V. & Klein, T.E."
+    }, {
+      "id" : 8231483,
+      "location" : "Full Text",
+      "sentenceIndex" : 107,
+      "text" : "CPIC: Clinical Pharmacogenetics Implementation Consortium of the Pharmacogenomics Research Network."
+    }, {
+      "id" : 8231484,
+      "location" : "Full Text",
+      "sentenceIndex" : 108,
+      "text" : "Clin."
+    }, {
+      "id" : 8231485,
+      "location" : "Full Text",
+      "sentenceIndex" : 109,
+      "text" : "Pharmacol."
+    }, {
+      "id" : 8231486,
+      "location" : "Full Text",
+      "sentenceIndex" : 110,
+      "text" : "Ther."
+    }, {
+      "id" : 8231487,
+      "location" : "Full Text",
+      "sentenceIndex" : 111,
+      "text" : "89, 464-467 (2011)."
+    }, {
+      "id" : 8231488,
+      "location" : "Full Text",
+      "sentenceIndex" : 112,
+      "text" : "2."
+    }, {
+      "id" : 8231489,
+      "location" : "Full Text",
+      "sentenceIndex" : 113,
+      "text" : "Hulot, J.S. et al. Cytochrome P450 2C19 loss-of-function polymorphism is a major determinant of clopidogrel responsiveness in healthy subjects."
+    }, {
+      "id" : 8231493,
+      "location" : "Full Text",
+      "sentenceIndex" : 114,
+      "text" : "Blood 108, 2244-2247 (2006)."
+    }, {
+      "id" : 8231494,
+      "location" : "Full Text",
+      "sentenceIndex" : 115,
+      "text" : "3."
+    }, {
+      "id" : 8231495,
+      "location" : "Full Text",
+      "sentenceIndex" : 116,
+      "text" : "Brandt, J.T. et al. Common polymorphisms of CYP2C19 and CYP2C9 a\u001Fect the pharmacokinetic and pharmacodynamic response to clopidogrel but not prasugrel."
+    }, {
+      "id" : 8231500,
+      "location" : "Full Text",
+      "sentenceIndex" : 117,
+      "text" : "J."
+    }, {
+      "id" : 8231501,
+      "location" : "Full Text",
+      "sentenceIndex" : 118,
+      "text" : "Thromb."
+    }, {
+      "id" : 8231502,
+      "location" : "Full Text",
+      "sentenceIndex" : 119,
+      "text" : "Haemost."
+    }, {
+      "id" : 8231503,
+      "location" : "Full Text",
+      "sentenceIndex" : 120,
+      "text" : "5, 2429-2436 (2007)."
+    }, {
+      "id" : 8231504,
+      "location" : "Full Text",
+      "sentenceIndex" : 121,
+      "text" : "4."
+    }, {
+      "id" : 8231505,
+      "location" : "Full Text",
+      "sentenceIndex" : 122,
+      "text" : "Umemura, K., Furuta, T. & Kondo, K."
+    }, {
+      "id" : 8231506,
+      "location" : "Full Text",
+      "sentenceIndex" : 123,
+      "text" : "The common gene variants of CYP2C19 a\u001Fect pharmacokinetics and pharmacodynamics in an active metabolite of clopidogrel in healthy subjects."
+    }, {
+      "id" : 8231509,
+      "location" : "Full Text",
+      "sentenceIndex" : 124,
+      "text" : "J."
+    }, {
+      "id" : 8231510,
+      "location" : "Full Text",
+      "sentenceIndex" : 125,
+      "text" : "Thromb."
+    }, {
+      "id" : 8231511,
+      "location" : "Full Text",
+      "sentenceIndex" : 126,
+      "text" : "Haemost."
+    }, {
+      "id" : 8231512,
+      "location" : "Full Text",
+      "sentenceIndex" : 127,
+      "text" : "6, 1439-1441 (2008)."
+    }, {
+      "id" : 8231513,
+      "location" : "Full Text",
+      "sentenceIndex" : 128,
+      "text" : "5."
+    }, {
+      "id" : 8231514,
+      "location" : "Full Text",
+      "sentenceIndex" : 129,
+      "text" : "Collet, J.P. et al. Cytochrome P450 2C19 polymorphism in young patients treated with clopidogrel after myocardial infarction: a cohort study."
+    }, {
+      "id" : 8231520,
+      "location" : "Full Text",
+      "sentenceIndex" : 130,
+      "text" : "Lancet 373, 309-317 (2009)."
+    }, {
+      "id" : 8231521,
+      "location" : "Full Text",
+      "sentenceIndex" : 131,
+      "text" : "6."
+    }, {
+      "id" : 8231522,
+      "location" : "Full Text",
+      "sentenceIndex" : 132,
+      "text" : "Mega, J.L. et al. Cytochrome p-450 polymorphisms and response to clopidogrel."
+    }, {
+      "id" : 8231526,
+      "location" : "Full Text",
+      "sentenceIndex" : 133,
+      "text" : "N."
+    }, {
+      "id" : 8231527,
+      "location" : "Full Text",
+      "sentenceIndex" : 134,
+      "text" : "Engl."
+    }, {
+      "id" : 8231528,
+      "location" : "Full Text",
+      "sentenceIndex" : 135,
+      "text" : "J."
+    }, {
+      "id" : 8231529,
+      "location" : "Full Text",
+      "sentenceIndex" : 136,
+      "text" : "Med."
+    }, {
+      "id" : 8231530,
+      "location" : "Full Text",
+      "sentenceIndex" : 137,
+      "text" : "360, 354-362 (2009)."
+    }, {
+      "id" : 8231531,
+      "location" : "Full Text",
+      "sentenceIndex" : 138,
+      "text" : "7."
+    }, {
+      "id" : 8231532,
+      "location" : "Full Text",
+      "sentenceIndex" : 139,
+      "text" : "Shuldiner, A.R. et al. Association of cytochrome P450 2C19 genotype with the antiplatelet e\u001Fect and clinical e\u001Ecacy of clopidogrel therapy."
+    }, {
+      "id" : 8231536,
+      "location" : "Full Text",
+      "sentenceIndex" : 140,
+      "text" : "JAMA 302, 849-857 (2009)."
+    }, {
+      "id" : 8231538,
+      "location" : "Full Text",
+      "sentenceIndex" : 141,
+      "text" : "8."
+    }, {
+      "id" : 8231539,
+      "location" : "Full Text",
+      "sentenceIndex" : 142,
+      "text" : "Frére, C., Cuisset, T., Gaborit, B., Alessi, M.C. & Hulot, J.S."
+    }, {
+      "id" : 8231540,
+      "location" : "Full Text",
+      "sentenceIndex" : 143,
+      "text" : "The CYP2C19*17 allele is associated with better platelet response to clopidogrel in patients admitted for non-ST acute coronary syndrome."
+    }, {
+      "id" : 8231545,
+      "location" : "Full Text",
+      "sentenceIndex" : 144,
+      "text" : "J."
+    }, {
+      "id" : 8231546,
+      "location" : "Full Text",
+      "sentenceIndex" : 145,
+      "text" : "Thromb."
+    }, {
+      "id" : 8231547,
+      "location" : "Full Text",
+      "sentenceIndex" : 146,
+      "text" : "Haemost."
+    }, {
+      "id" : 8231548,
+      "location" : "Full Text",
+      "sentenceIndex" : 147,
+      "text" : "7, 1409-1411 (2009)."
+    }, {
+      "id" : 8231549,
+      "location" : "Full Text",
+      "sentenceIndex" : 148,
+      "text" : "9."
+    }, {
+      "id" : 8231550,
+      "location" : "Full Text",
+      "sentenceIndex" : 149,
+      "text" : "Sibbing, D. et al. Isolated and interactive impact of common CYP2C19 genetic variants on the antiplatelet e\u001Fect of chronic clopidogrel therapy."
+    }, {
+      "id" : 8231553,
+      "location" : "Full Text",
+      "sentenceIndex" : 150,
+      "text" : "J."
+    }, {
+      "id" : 8231554,
+      "location" : "Full Text",
+      "sentenceIndex" : 151,
+      "text" : "Thromb."
+    }, {
+      "id" : 8231555,
+      "location" : "Full Text",
+      "sentenceIndex" : 152,
+      "text" : "Haemost."
+    }, {
+      "id" : 8231556,
+      "location" : "Full Text",
+      "sentenceIndex" : 153,
+      "text" : "8, 1685-1693 (2010)."
+    }, {
+      "id" : 8231557,
+      "location" : "Full Text",
+      "sentenceIndex" : 154,
+      "text" : "10."
+    }, {
+      "id" : 8231558,
+      "location" : "Full Text",
+      "sentenceIndex" : 155,
+      "text" : "Tiroch, K.A. et al. Protective e\u001Fect of the CYP2C19 *17 polymorphism with increased activation of clopidogrel on cardiovascular events."
+    }, {
+      "id" : 8231561,
+      "location" : "Full Text",
+      "sentenceIndex" : 156,
+      "text" : "Am. Heart J."
+    }, {
+      "id" : 8231562,
+      "location" : "Full Text",
+      "sentenceIndex" : 157,
+      "text" : "160, 506-512 (2010)."
+    }, {
+      "id" : 8231563,
+      "location" : "Full Text",
+      "sentenceIndex" : 158,
+      "text" : "11."
+    }, {
+      "id" : 8231564,
+      "location" : "Full Text",
+      "sentenceIndex" : 159,
+      "text" : "Sibbing, D. et al. Cytochrome 2C19*17 allelic variant, platelet aggregation, bleeding events, and stent thrombosis in clopidogrel-treated patients with coronary stent placement."
+    }, {
+      "id" : 8231568,
+      "location" : "Full Text",
+      "sentenceIndex" : 160,
+      "text" : "Circulation 121, 512-518 (2010)."
+    }, {
+      "id" : 8231569,
+      "location" : "Full Text",
+      "sentenceIndex" : 161,
+      "text" : "12."
+    }, {
+      "id" : 8231570,
+      "location" : "Full Text",
+      "sentenceIndex" : 162,
+      "text" : "Geisler, T. et al. CYP2C19 and nongenetic factors predict poor responsiveness to clopidogrel loading dose after coronary stent implantation."
+    }, {
+      "id" : 8231573,
+      "location" : "Full Text",
+      "sentenceIndex" : 163,
+      "text" : "Pharmacogenomics 9, 1251-1259 (2008)."
+    }, {
+      "id" : 8231574,
+      "location" : "Full Text",
+      "sentenceIndex" : 164,
+      "text" : "13."
+    }, {
+      "id" : 8231575,
+      "location" : "Full Text",
+      "sentenceIndex" : 165,
+      "text" : "Simon, T. et al.; French Registry of Acute ST-Elevation and Non-ST-Elevation Myocardial Infarction (FAST-MI) Investigators."
+    }, {
+      "id" : 8231578,
+      "location" : "Full Text",
+      "sentenceIndex" : 166,
+      "text" : "Genetic determinants of response to clopidogrel and cardiovascular events."
+    }, {
+      "id" : 8231580,
+      "location" : "Full Text",
+      "sentenceIndex" : 167,
+      "text" : "N."
+    }, {
+      "id" : 8231581,
+      "location" : "Full Text",
+      "sentenceIndex" : 168,
+      "text" : "Engl."
+    }, {
+      "id" : 8231582,
+      "location" : "Full Text",
+      "sentenceIndex" : 169,
+      "text" : "J."
+    }, {
+      "id" : 8231583,
+      "location" : "Full Text",
+      "sentenceIndex" : 170,
+      "text" : "Med."
+    }, {
+      "id" : 8231584,
+      "location" : "Full Text",
+      "sentenceIndex" : 171,
+      "text" : "360, 363-375 (2009)."
+    }, {
+      "id" : 8231585,
+      "location" : "Full Text",
+      "sentenceIndex" : 172,
+      "text" : "14."
+    }, {
+      "id" : 8231586,
+      "location" : "Full Text",
+      "sentenceIndex" : 173,
+      "text" : "Bouman, H.J. et al. Paraoxonase-1 is a major determinant of clopidogrel e\u001Ecacy."
+    }, {
+      "id" : 8231588,
+      "location" : "Full Text",
+      "sentenceIndex" : 174,
+      "text" : "Nat."
+    }, {
+      "id" : 8231589,
+      "location" : "Full Text",
+      "sentenceIndex" : 175,
+      "text" : "Med."
+    }, {
+      "id" : 8231590,
+      "location" : "Full Text",
+      "sentenceIndex" : 176,
+      "text" : "17, 110-116 (2011)."
+    }, {
+      "id" : 8231591,
+      "location" : "Full Text",
+      "sentenceIndex" : 177,
+      "text" : "15."
+    }, {
+      "id" : 8231592,
+      "location" : "Full Text",
+      "sentenceIndex" : 178,
+      "text" : "Kim, K.A., Park, P.W., Hong, S.J. & Park, J.Y."
+    }, {
+      "id" : 8231593,
+      "location" : "Full Text",
+      "sentenceIndex" : 179,
+      "text" : "The e\u001Fect of CYP2C19 polymorphism on the pharmacokinetics and pharmacodynamics of clopidogrel: a possible mechanism for clopidogrel resistance."
+    }, {
+      "id" : 8231596,
+      "location" : "Full Text",
+      "sentenceIndex" : 180,
+      "text" : "Clin."
+    }, {
+      "id" : 8231597,
+      "location" : "Full Text",
+      "sentenceIndex" : 181,
+      "text" : "Pharmacol."
+    }, {
+      "id" : 8231598,
+      "location" : "Full Text",
+      "sentenceIndex" : 182,
+      "text" : "Ther."
+    }, {
+      "id" : 8231599,
+      "location" : "Full Text",
+      "sentenceIndex" : 183,
+      "text" : "84, 236-242 (2008)."
+    }, {
+      "id" : 8231600,
+      "location" : "Full Text",
+      "sentenceIndex" : 184,
+      "text" : "16."
+    }, {
+      "id" : 8231601,
+      "location" : "Full Text",
+      "sentenceIndex" : 185,
+      "text" : "Giusti, B. et al. Relation of cytochrome P450 2C19 loss-of-function polymorphism to occurrence of drug-eluting coronary stent thrombosis."
+    }, {
+      "id" : 8231605,
+      "location" : "Full Text",
+      "sentenceIndex" : 186,
+      "text" : "Am. J."
+    }, {
+      "id" : 8231606,
+      "location" : "Full Text",
+      "sentenceIndex" : 187,
+      "text" : "Cardiol."
+    }, {
+      "id" : 8231607,
+      "location" : "Full Text",
+      "sentenceIndex" : 188,
+      "text" : "103, 806-811 (2009)."
+    }, {
+      "id" : 8231608,
+      "location" : "Full Text",
+      "sentenceIndex" : 189,
+      "text" : "17."
+    }, {
+      "id" : 8231609,
+      "location" : "Full Text",
+      "sentenceIndex" : 190,
+      "text" : "Sibbing, D. et al. Cytochrome P450 2C19 loss-of-function polymorphism and stent thrombosis following percutaneous coronary intervention."
+    }, {
+      "id" : 8231613,
+      "location" : "Full Text",
+      "sentenceIndex" : 191,
+      "text" : "Eur."
+    }, {
+      "id" : 8231614,
+      "location" : "Full Text",
+      "sentenceIndex" : 192,
+      "text" : "Heart J."
+    }, {
+      "id" : 8231615,
+      "location" : "Full Text",
+      "sentenceIndex" : 193,
+      "text" : "30, 916-922 (2009)."
+    }, {
+      "id" : 8231616,
+      "location" : "Full Text",
+      "sentenceIndex" : 194,
+      "text" : "18."
+    }, {
+      "id" : 8231617,
+      "location" : "Full Text",
+      "sentenceIndex" : 195,
+      "text" : "Mega, J.L. et al. Reduced-function CYP2C19 genotype and risk of adverse clinical outcomes among patients treated with clopidogrel predominantly for PCI: a meta-analysis."
+    }, {
+      "id" : 8231621,
+      "location" : "Full Text",
+      "sentenceIndex" : 196,
+      "text" : "JAMA 304, 1821-1830 (2010)."
+    }, {
+      "id" : 8231623,
+      "location" : "Full Text",
+      "sentenceIndex" : 197,
+      "text" : "19."
+    }, {
+      "id" : 8231624,
+      "location" : "Full Text",
+      "sentenceIndex" : 198,
+      "text" : "Paré, G. et al. E\u001Fects of CYP2C19 genotype on outcomes of clopidogrel treatment."
+    }, {
+      "id" : 8231627,
+      "location" : "Full Text",
+      "sentenceIndex" : 199,
+      "text" : "N."
+    }, {
+      "id" : 8231628,
+      "location" : "Full Text",
+      "sentenceIndex" : 200,
+      "text" : "Engl."
+    }, {
+      "id" : 8231629,
+      "location" : "Full Text",
+      "sentenceIndex" : 201,
+      "text" : "J."
+    }, {
+      "id" : 8231630,
+      "location" : "Full Text",
+      "sentenceIndex" : 202,
+      "text" : "Med."
+    }, {
+      "id" : 8231631,
+      "location" : "Full Text",
+      "sentenceIndex" : 203,
+      "text" : "363, 1704-1714 (2010)."
+    }, {
+      "id" : 8231632,
+      "location" : "Full Text",
+      "sentenceIndex" : 204,
+      "text" : "20."
+    }, {
+      "id" : 8231633,
+      "location" : "Full Text",
+      "sentenceIndex" : 205,
+      "text" : "Wallentin, L. et al.; PLATO investigators."
+    }, {
+      "id" : 8231634,
+      "location" : "Full Text",
+      "sentenceIndex" : 206,
+      "text" : "E\u001Fect of CYP2C19 and ABCB1 single nucleotide polymorphisms on outcomes of treatment with ticagrelor versus clopidogrel for acute coronary syndromes: a genetic substudy of the PLATO trial."
+    }, {
+      "id" : 8231640,
+      "location" : "Full Text",
+      "sentenceIndex" : 207,
+      "text" : "Lancet 376, 1320-1328 (2010)."
+    }, {
+      "id" : 8231641,
+      "location" : "Full Text",
+      "sentenceIndex" : 208,
+      "text" : "21."
+    }, {
+      "id" : 8231642,
+      "location" : "Full Text",
+      "sentenceIndex" : 209,
+      "text" : "Holmes, D.R."
+    }, {
+      "id" : 8231643,
+      "location" : "Full Text",
+      "sentenceIndex" : 210,
+      "text" : "Jr, Dehmer, G.J., Kaul, S., Leifer, D., O'Gara, P.T. & Stein, C.M."
+    }, {
+      "id" : 8231644,
+      "location" : "Full Text",
+      "sentenceIndex" : 211,
+      "text" : "ACCF/AHA clopidogrel clinical alert: approaches to the FDA \"boxed warning\": a report of the American College of Cardiology Foundation Task Force on clinical expert consensus documents and the American Heart Association endorsed by the Society for Cardiovascular Angiography and Interventions and the Society of Thoracic Surgeons."
+    }, {
+      "id" : 8231647,
+      "location" : "Full Text",
+      "sentenceIndex" : 212,
+      "text" : "J."
+    }, {
+      "id" : 8231648,
+      "location" : "Full Text",
+      "sentenceIndex" : 213,
+      "text" : "Am. Coll."
+    }, {
+      "id" : 8231649,
+      "location" : "Full Text",
+      "sentenceIndex" : 214,
+      "text" : "Cardiol."
+    }, {
+      "id" : 8231650,
+      "location" : "Full Text",
+      "sentenceIndex" : 215,
+      "text" : "56, 321-341 (2010)."
+    }, {
+      "id" : 8231651,
+      "location" : "Full Text",
+      "sentenceIndex" : 216,
+      "text" : "22."
+    }, {
+      "id" : 8231652,
+      "location" : "Full Text",
+      "sentenceIndex" : 217,
+      "text" : "Wiviott, S.D. et al.; TRITON-TIMI 38 Investigators."
+    }, {
+      "id" : 8231653,
+      "location" : "Full Text",
+      "sentenceIndex" : 218,
+      "text" : "Prasugrel versus clopidogrel in patients with acute coronary syndromes."
+    }, {
+      "id" : 8231657,
+      "location" : "Full Text",
+      "sentenceIndex" : 219,
+      "text" : "N."
+    }, {
+      "id" : 8231658,
+      "location" : "Full Text",
+      "sentenceIndex" : 220,
+      "text" : "Engl."
+    }, {
+      "id" : 8231659,
+      "location" : "Full Text",
+      "sentenceIndex" : 221,
+      "text" : "J."
+    }, {
+      "id" : 8231660,
+      "location" : "Full Text",
+      "sentenceIndex" : 222,
+      "text" : "Med."
+    }, {
+      "id" : 8231661,
+      "location" : "Full Text",
+      "sentenceIndex" : 223,
+      "text" : "357, 2001-2015 (2007)."
+    }, {
+      "id" : 8231662,
+      "location" : "Full Text",
+      "sentenceIndex" : 224,
+      "text" : "23."
+    }, {
+      "id" : 8231663,
+      "location" : "Full Text",
+      "sentenceIndex" : 225,
+      "text" : "Wallentin, L. et al.; PLATO Investigators."
+    }, {
+      "id" : 8231664,
+      "location" : "Full Text",
+      "sentenceIndex" : 226,
+      "text" : "Ticagrelor versus clopidogrel in patients with acute coronary syndromes."
+    }, {
+      "id" : 8231668,
+      "location" : "Full Text",
+      "sentenceIndex" : 227,
+      "text" : "N."
+    }, {
+      "id" : 8231669,
+      "location" : "Full Text",
+      "sentenceIndex" : 228,
+      "text" : "Engl."
+    }, {
+      "id" : 8231670,
+      "location" : "Full Text",
+      "sentenceIndex" : 229,
+      "text" : "J."
+    }, {
+      "id" : 8231671,
+      "location" : "Full Text",
+      "sentenceIndex" : 230,
+      "text" : "Med."
+    }, {
+      "id" : 8231672,
+      "location" : "Full Text",
+      "sentenceIndex" : 231,
+      "text" : "361, 1045-1057 (2009)."
+    }, {
+      "id" : 8231673,
+      "location" : "Full Text",
+      "sentenceIndex" : 232,
+      "text" : "24."
+    }, {
+      "id" : 8231674,
+      "location" : "Full Text",
+      "sentenceIndex" : 233,
+      "text" : "Sorich, M.J., Vitry, A., Ward, M.B., Horowitz, J.D. & McKinnon, R.A."
+    }, {
+      "id" : 8231675,
+      "location" : "Full Text",
+      "sentenceIndex" : 234,
+      "text" : "Prasugrel vs. clopidogrel for cytochrome P450 2C19-genotyped subgroups: integration of the TRITON-TIMI 38 trial data."
+    }, {
+      "id" : 8231680,
+      "location" : "Full Text",
+      "sentenceIndex" : 235,
+      "text" : "J."
+    }, {
+      "id" : 8231681,
+      "location" : "Full Text",
+      "sentenceIndex" : 236,
+      "text" : "Thromb."
+    }, {
+      "id" : 8231682,
+      "location" : "Full Text",
+      "sentenceIndex" : 237,
+      "text" : "Haemost."
+    }, {
+      "id" : 8231683,
+      "location" : "Full Text",
+      "sentenceIndex" : 238,
+      "text" : "8, 1678-1684 (2010)."
+    }, {
+      "id" : 8231684,
+      "location" : "Full Text",
+      "sentenceIndex" : 239,
+      "text" : "25."
+    }, {
+      "id" : 8231685,
+      "location" : "Full Text",
+      "sentenceIndex" : 240,
+      "text" : "Wallentin, L. et al. Prasugrel achieves greater and faster P2Y12receptormediated platelet inhibition than clopidogrel due to more e\u001Ecient generation of its active metabolite in aspirin-treated patients with coronary artery disease."
+    }, {
+      "id" : 8231690,
+      "location" : "Full Text",
+      "sentenceIndex" : 241,
+      "text" : "Eur."
+    }, {
+      "id" : 8231691,
+      "location" : "Full Text",
+      "sentenceIndex" : 242,
+      "text" : "Heart J."
+    }, {
+      "id" : 8231692,
+      "location" : "Full Text",
+      "sentenceIndex" : 243,
+      "text" : "29, 21-30 (2008)."
+    }, {
+      "id" : 8231693,
+      "location" : "Full Text",
+      "sentenceIndex" : 244,
+      "text" : "26."
+    }, {
+      "id" : 8231694,
+      "location" : "Full Text",
+      "sentenceIndex" : 245,
+      "text" : "Mega, J.L. et al. Cytochrome P450 genetic polymorphisms and the response to prasugrel: relationship to pharmacokinetic, pharmacodynamic, and clinical outcomes."
+    }, {
+      "id" : 8231698,
+      "location" : "Full Text",
+      "sentenceIndex" : 246,
+      "text" : "Circulation 119, 2553-2560 (2009)."
+    }, {
+      "id" : 8231699,
+      "location" : "Full Text",
+      "sentenceIndex" : 247,
+      "text" : "27."
+    }, {
+      "id" : 8231700,
+      "location" : "Full Text",
+      "sentenceIndex" : 248,
+      "text" : "Pena, A. et al. Can we override clopidogrel resistance?"
+    }, {
+      "id" : 8231702,
+      "location" : "Full Text",
+      "sentenceIndex" : 249,
+      "text" : "Circulation 119, 2854-2857 (2009)."
+    }, {
+      "id" : 8231703,
+      "location" : "Full Text",
+      "sentenceIndex" : 250,
+      "text" : "28."
+    }, {
+      "id" : 8231704,
+      "location" : "Full Text",
+      "sentenceIndex" : 251,
+      "text" : "Montalescot, G. et al. Prasugrel compared with high-dose clopidogrel in acute coronary syndrome."
+    }, {
+      "id" : 8231709,
+      "location" : "Full Text",
+      "sentenceIndex" : 252,
+      "text" : "The randomised, double-blind ACAPULCO study."
+    }, {
+      "id" : 8231711,
+      "location" : "Full Text",
+      "sentenceIndex" : 253,
+      "text" : "Thromb."
+    }, {
+      "id" : 8231712,
+      "location" : "Full Text",
+      "sentenceIndex" : 254,
+      "text" : "Haemost."
+    }, {
+      "id" : 8231713,
+      "location" : "Full Text",
+      "sentenceIndex" : 255,
+      "text" : "103, 213-223 (2010)."
+    }, {
+      "id" : 8231714,
+      "location" : "Full Text",
+      "sentenceIndex" : 256,
+      "text" : "29."
+    }, {
+      "id" : 8231715,
+      "location" : "Full Text",
+      "sentenceIndex" : 257,
+      "text" : "Bonello, L. et al. Clopidogrel loading dose adjustment according to platelet reactivity monitoring in patients carrying the 2C19*2 loss of function polymorphism."
+    }, {
+      "id" : 8231717,
+      "location" : "Full Text",
+      "sentenceIndex" : 258,
+      "text" : "J."
+    }, {
+      "id" : 8231718,
+      "location" : "Full Text",
+      "sentenceIndex" : 259,
+      "text" : "Am. Coll."
+    }, {
+      "id" : 8231719,
+      "location" : "Full Text",
+      "sentenceIndex" : 260,
+      "text" : "Cardiol."
+    }, {
+      "id" : 8231720,
+      "location" : "Full Text",
+      "sentenceIndex" : 261,
+      "text" : "56, 1630-1636 (2010)."
+    }, {
+      "id" : 8231721,
+      "location" : "Full Text",
+      "sentenceIndex" : 262,
+      "text" : "30."
+    }, {
+      "id" : 8231722,
+      "location" : "Full Text",
+      "sentenceIndex" : 263,
+      "text" : "Price, M.J. et al.; GRAVITAS Investigators."
+    }, {
+      "id" : 8231723,
+      "location" : "Full Text",
+      "sentenceIndex" : 264,
+      "text" : "Standard- vs high-dose clopidogrel based on platelet function testing after percutaneous coronary intervention: the GRAVITAS randomized trial."
+    }, {
+      "id" : 8231725,
+      "location" : "Full Text",
+      "sentenceIndex" : 265,
+      "text" : "JAMA 305, 1097-1105 (2011)."
+    } ],
+    "type" : "Article",
+    "version" : 4,
+    "volume" : "90",
+    "xrefs" : [ {"@id":"https://pharmgkb.org/crossReference/pmc/PMC3234301","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449250640,"resource":"PubMed Central","resourceId":"PMC3234301","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3234301"}, {"@id":"https://pharmgkb.org/crossReference/pubMed/21716271","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":827692890,"resource":"PubMed","resourceId":"21716271","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21716271"}, {"@id":"https://pharmgkb.org/crossReference/doi/10.1038/clpt.2011.132","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449250641,"resource":"DOI","resourceId":"10.1038/clpt.2011.132","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.132"} ],
+    "year" : 2011
+  } ],
+  "guideline" : {
+    "@id" : "https://pharmgkb.org/guidelineAnnotation/PA166104948",
+    "@context" : "https://api.pharmgkb.org/jsonld/guidelineAnnotation.jsonld",
+    "objCls" : "Guideline Annotation",
+    "id" : "PA166104948",
+    "name" : "Annotation of CPIC Guideline for clopidogrel and CYP2C19",
+    "cancerGenome" : false,
+    "descriptiveVideoId" : "P_2Z61Rf-R8",
+    "guidelineGenes" : [ {
+      "id" : 1449561711,
+      "alleles" : [ {
+        "id" : 1449561712,
+        "_label" : "*1",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558335",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558335,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "Normal function",
+          "termId" : "haplotypeTags:1445558335",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165980634",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165980634",
+          "symbol" : "CYP2C19*1",
+          "name" : "*1",
+          "version" : 14
+        },
+        "version" : 1
+      }, {
+        "id" : 1449561713,
+        "_label" : "*2",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558515",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558515,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "No function",
+          "termId" : "haplotypeTags:1445558515",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165980635",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165980635",
+          "symbol" : "CYP2C19*2",
+          "name" : "*2",
+          "version" : 14
+        },
+        "version" : 1
+      }, {
+        "id" : 1449561714,
+        "_label" : "*3",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558515",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558515,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "No function",
+          "termId" : "haplotypeTags:1445558515",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165980636",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165980636",
+          "symbol" : "CYP2C19*3",
+          "name" : "*3",
+          "version" : 14
+        },
+        "version" : 1
+      }, {
+        "id" : 1449561717,
+        "_label" : "*5",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558515",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558515,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "No function",
+          "termId" : "haplotypeTags:1445558515",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165980638",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165980638",
+          "symbol" : "CYP2C19*5",
+          "name" : "*5",
+          "version" : 14
+        },
+        "version" : 1
+      }, {
+        "id" : 1449561718,
+        "_label" : "*6",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558515",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558515,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "No function",
+          "termId" : "haplotypeTags:1445558515",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165816522",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165816522",
+          "symbol" : "CYP2C19*6",
+          "name" : "*6",
+          "version" : 16
+        },
+        "version" : 1
+      }, {
+        "id" : 1449561719,
+        "_label" : "*7",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558515",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558515,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "No function",
+          "termId" : "haplotypeTags:1445558515",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165816523",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165816523",
+          "symbol" : "CYP2C19*7",
+          "name" : "*7",
+          "version" : 16
+        },
+        "version" : 1
+      }, {
+        "id" : 1449561720,
+        "_label" : "*8",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558515",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558515,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "No function",
+          "termId" : "haplotypeTags:1445558515",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165816524",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165816524",
+          "symbol" : "CYP2C19*8",
+          "name" : "*8",
+          "version" : 16
+        },
+        "version" : 1
+      }, {
+        "id" : 1449561721,
+        "_label" : "*17",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558332",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558332,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "Increased function",
+          "termId" : "haplotypeTags:1445558332",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165816533",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165816533",
+          "symbol" : "CYP2C19*17",
+          "name" : "*17",
+          "version" : 18
+        },
+        "version" : 1
+      }, {
+        "id" : 1450805218,
+        "_label" : "*4",
+        "function" : {
+          "@id" : "https://pharmgkb.org/ontologyTerm/alleleFunction/haplotypeTags:1445558515",
+          "@context" : "https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld",
+          "id" : 1445558515,
+          "parents" : [ ],
+          "resource" : "Allele Function",
+          "term" : "No function",
+          "termId" : "haplotypeTags:1445558515",
+          "version" : 1
+        },
+        "haplotype" : {
+          "@id" : "https://pharmgkb.org/haplotype/PA165980637",
+          "@context" : "https://api.pharmgkb.org/jsonld/haplotype.jsonld",
+          "objCls" : "Haplotype",
+          "id" : "PA165980637",
+          "symbol" : "CYP2C19*4",
+          "name" : "*4",
+          "version" : 14
+        },
+        "version" : 0
+      } ],
+      "gene" : {
+        "@id" : "https://pharmgkb.org/gene/PA124",
+        "@context" : "https://api.pharmgkb.org/jsonld/gene.jsonld",
+        "objCls" : "Gene",
+        "id" : "PA124",
+        "symbol" : "CYP2C19",
+        "name" : "cytochrome P450 family 2 subfamily C member 19",
+        "version" : 7208
+      },
+      "version" : 1
+    } ],
+    "history" : [ {
+      "id" : 1183699770,
+      "date" : "2011-06-22T00:00:00-07:00",
+      "type" : "Create",
+      "version" : 0
+    }, {
+      "id" : 1183699757,
+      "date" : "2013-05-22T00:00:00-07:00",
+      "type" : "Update",
+      "version" : 0
+    } ],
+    "literature" : [ {"@id":"https://pharmgkb.org/literature/15058235","@context":"https://api.pharmgkb.org/jsonld/literature.jsonld","id":15058235,"resourceId":"23698643","title":"Clinical Pharmacogenetics Implementation Consortium guidelines for CYP2C19 genotype and clopidogrel therapy: 2013 update.","sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748366","type":"Article","xrefs":[{"@id":"https://pharmgkb.org/crossReference/pmc/PMC3748366","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449276503,"resource":"PubMed Central","resourceId":"PMC3748366","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748366"},{"@id":"https://pharmgkb.org/crossReference/pubMed/23698643","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449276502,"resource":"PubMed","resourceId":"23698643","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23698643"},{"@id":"https://pharmgkb.org/crossReference/doi/10.1038/clpt.2013.105","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449276504,"resource":"DOI","resourceId":"10.1038/clpt.2013.105","_url":"http://dx.doi.org/10.1038%2Fclpt.2013.105"}]}, {"@id":"https://pharmgkb.org/literature/8231172","@context":"https://api.pharmgkb.org/jsonld/literature.jsonld","id":8231172,"resourceId":"21716271","title":"Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450-2C19 (CYP2C19) genotype and clopidogrel therapy.","sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3234301","type":"Article","xrefs":[{"@id":"https://pharmgkb.org/crossReference/pmc/PMC3234301","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449250640,"resource":"PubMed Central","resourceId":"PMC3234301","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3234301"},{"@id":"https://pharmgkb.org/crossReference/pubMed/21716271","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":827692890,"resource":"PubMed","resourceId":"21716271","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21716271"},{"@id":"https://pharmgkb.org/crossReference/doi/10.1038/clpt.2011.132","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449250641,"resource":"DOI","resourceId":"10.1038/clpt.2011.132","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.132"}]}, {"@id":"https://pharmgkb.org/literature/15100915","@context":"https://api.pharmgkb.org/jsonld/literature.jsonld","id":15100915,"resourceId":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/","title":"CPIC® Guideline for Clopidogrel and CYP2C19 – CPIC","sameAs":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/","type":"Web Page","xrefs":[{"@id":"https://pharmgkb.org/crossReference/url/https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1447983490,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/","_url":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/"}]} ],
+    "recommendation" : true,
+    "relatedAlleles" : [ ],
+    "relatedChemicals" : [ {
+      "@id" : "https://pharmgkb.org/chemical/PA449053",
+      "@context" : "https://api.pharmgkb.org/jsonld/chemical.jsonld",
+      "objCls" : "Chemical",
+      "id" : "PA449053",
+      "name" : "clopidogrel",
+      "version" : 18
+    } ],
+    "relatedGenes" : [ {
+      "@id" : "https://pharmgkb.org/gene/PA124",
+      "@context" : "https://api.pharmgkb.org/jsonld/gene.jsonld",
+      "objCls" : "Gene",
+      "id" : "PA124",
+      "symbol" : "CYP2C19",
+      "name" : "cytochrome P450 family 2 subfamily C member 19",
+      "version" : 7208
+    } ],
+    "source" : "Clinical Pharmacogenetics Implementation Consortium",
+    "summaryMarkdown" : {
+      "id" : 1447981866,
+      "html" : "<p>The CPIC Dosing Guideline for clopidogrel recommends an alternative antiplatelet therapy (e.g., prasugrel, ticagrelor) for CYP2C19 poor or intermediate metabolizers if there is no contraindication.</p>\n",
+      "version" : 0
+    },
+    "terms" : [ {"@id":"https://pharmgkb.org/ontologyTerm/cpicStatus/cpicStatus:1183847844","@context":"https://api.pharmgkb.org/jsonld/ontologyTerm.jsonld","id":1183847844,"resource":"CPIC Status","term":"A","termId":"cpicStatus:1183847844"} ],
+    "textMarkdown" : {
+      "id" : 1447981865,
+      "html" : "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/\" target=\"_blank\">CPIC&reg; guideline for clopidogrel and CYP2C19</a>.</p>\n<h3 id=\"september-2013-update\">September 2013 Update</h3>\n<p><em>Advance online publication May 2013.</em></p>\n<ul>\n<li>The 2013 update of CPIC guidelines regarding clopidogrel have been published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>. Literature published between 1966 to January 2013 was reviewed. The updated therapeutic recommendations are more focused to patients with acute coronary syndromes undergoing percutaneous coronary intervention (ACS/PCI) than the original guideline, with additional updates involve refined recommendations for variant and novel <em>CYP2C19</em> alleles beyond *2.</li>\n<li>At the time of the development of this recommendation, there are no data available on the possible role of CYP2C19 in clopidogrel response in pediatric patient populations; however, there is no reason to suspect that CYP2C19 variant alleles would affect clopidogrel metabolism differently in children as compared with adults.</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/content/guideline/publication/clopidogrel/2013/23698643.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium guidelines for CYP2C19 genotype and clopidogrel therapy: 2013 update</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/content/guideline/publication/clopidogrel/2013/23698643-supplement.pdf\" target=\"_blank\">2013 supplement</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-antiplatelet-therapy-recommendations-based-on-cyp2c19-status-when-considering-clopidogrel-for-acs-patients-undergoing-pci\">Table 1: Antiplatelet therapy recommendations based on CYP2C19 status when considering clopidogrel for ACS patients undergoing PCI</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2013 guideline manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr><th>Likely phenotype</th><th>Genotypes</th><th>Examples of diplotypes</th><th>Implications for clopidogrel</th><th>Therapeutic recommendations</th><th>Classification of recommendations</th></tr>\n</thead>\n<tbody>\n<tr><td>Ultrarapid metabolizer (UM) (~5-30% of patients)</td><td>An individual carrying two increased activity alleles (*17) or one functional allele (*1) plus one increased activity allele (*17)</td><td>*1/*17, *17/*17</td><td>Increased platelet inhibition; decreased residual platelet aggregation <sup>1</sup></td><td>Clopidogrel - label recommended dosage and administration</td><td>Strong</td></tr>\n<tr><td>Extensive metabolizer (EM) (~35-50% of patients)</td><td>An individual carrying two functional (*1) alleles</td><td>*1/*1</td><td>Normal platelet inhibition; normal residual platelet aggregation</td><td>Clopidogrel - label recommended dosage and administration</td><td>Strong</td></tr>\n<tr><td>Intermediate metabolizer (IM) (~18-45% of patients)</td><td>An individual carrying one functional allele (*1) plus one loss-of-function allele (*2-*8) or one loss-of-function allele (*2-*8) plus one increased activity allele (*17) <sup>2</sup></td><td>*1/*2, *1/*3, *2/*17</td><td>Reduced platelet inhibition; increased residual platelet aggregation; increased risk for adverse cardiovascular events</td><td>Alternative antiplatelet therapy (if no contraindication); e.g., prasugrel, ticagrelor</td><td>Moderate</td></tr>\n<tr><td>Poor metabolizer (PM) (~2-15% of patients)</td><td>An individual carrying two loss-of-function alleles (*2-*8)</td><td>*2/*2, *2/*3, *3/*3</td><td>Significantly reduced platelet inhibition; increased residual platelet aggregation; increased risk for adverse cardiovascular events</td><td>Alternative antiplatelet therapy (if no contraindication); e.g., prasugrel, ticagrelor</td><td>Strong</td></tr>\n</tbody>\n</table>\n<p><sup>1</sup> The CYP2C19*17 allele (<a href=\"/variant/PA166154147\">rs12248560</a>) may be associated with increased risk of bleeding.</p>\n<p><sup>2</sup> The predicted metabolizer phenotype for *2-*8/*17 genotypes are provisional classifications. The currently available evidence indicates that the *17 gain-of-function allele is unable to completely compensate for the *2 loss-of-function allele [Article:<a href=\"/pmid/20492469\">20492469</a>]; however, this data has not been consistently replicated and is therefore a provisional classification (Table S5).</p>\n<p>An important caveat for all genotyping tests is that the &quot;wild-type&quot; (*1) status is reported if all other alleles that are measured are absent.  Some genotype tests do not interrogate the rare loss of function alleles and therefore, if present, they may be erroneously reported as &quot;wild type&quot;. Furthermore, in human DNA, it is always possible that a new, previously undiscovered (and therefore un-interrogated) site of variation may confer altered enzyme function in an individual, and thus lead to the rare possibility of a loss-of-function allele being erroneously called as &quot;wild-type&quot; (*1). The guidelines do not focus on demographic and other clinical variables, such as adherence to therapy, age, diabetes mellitus, obesity, smoking, and concomitant use of other drugs that may influence clopidogrel efficacy and clinical decision making.</p>\n<p><strong>The American Society of Health-System Pharmacists (ASHP) has endorsed the Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450-2C19 (CYP2C19) genotype and clopidogrel therapy.</strong></p>\n<h3 id=\"august-2011\">August 2011</h3>\n<p><em>Advance online publication June 2011.</em></p>\n<ul>\n<li>Guidelines regarding the use of pharmacogenomic tests in dosing for clopidogrel were published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/content/guideline/publication/clopidogrel/2011/21716271.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450-2C19 (CYP2C19) genotype and clopidogrel therapy</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/content/guideline/publication/clopidogrel/2011/21716271-supplement.pdf\" target=\"_blank\">2011 supplement</a></li>\n</ul>\n</li>\n</ul>\n",
+      "version" : 14
+    },
+    "userId" : "whaleyr",
+    "version" : 40,
+    "xrefs" : [ {"@id":"https://pharmgkb.org/crossReference/url/https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1447983490,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/","_url":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/"} ]
+  }
+}
