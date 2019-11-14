@@ -311,7 +311,17 @@ def chemicalsProceeding(path):
     SMILES=df['SMILES'].values.reshape(-1,1)
     InChI=df['InChI'].values.reshape(-1,1)
     Dosing_Guideline=df['Dosing Guideline'].values.reshape(-1,1)
-    External_Vocabulary=df['External Vocabulary'].values.reshape(-1,1)
+    External_Vocabulary=df['External Vocabulary'].values
+    for index,i in enumerate(External_Vocabulary):
+        templist=i.split(',"')
+        for index2,j in enumerate(templist):
+            templist[index2]=j.strip('"').split('(')[0]
+        tempchar='["""'
+        for k in templist:
+            tempchar=tempchar+k+'""","""'
+        tempchar=tempchar[:-4]+']'
+        External_Vocabulary[index]=tempchar
+    External_Vocabulary=External_Vocabulary.reshape(-1,1)
     Clinical_Annotation_Count=df['Clinical Annotation Count'].values.reshape(-1,1)
     Variant_Annotation_Count=df['Variant Annotation Count'].values.reshape(-1,1)
     Pathway_Count=df['Pathway Count'].values.reshape(-1,1)
@@ -384,7 +394,17 @@ def drugsProceeding(path):
     SMILES=df['SMILES'].values.reshape(-1,1)
     InChI=df['InChI'].values.reshape(-1,1)
     Dosing_Guideline=df['Dosing Guideline'].values.reshape(-1,1)
-    External_Vocabulary=df['External Vocabulary'].values.reshape(-1,1)
+    External_Vocabulary=df['External Vocabulary'].values
+    for index,i in enumerate(External_Vocabulary):
+        templist=i.split(',"')
+        for index2,j in enumerate(templist):
+            templist[index2]=j.strip('"').split('(')[0]
+        tempchar='["""'
+        for k in templist:
+            tempchar=tempchar+k+'""","""'
+        tempchar=tempchar[:-4]+']'
+        External_Vocabulary[index]=tempchar
+    External_Vocabulary=External_Vocabulary.reshape(-1,1)
     Clinical_Annotation_Count=df['Clinical Annotation Count'].values.reshape(-1,1)
     Variant_Annotation_Count=df['Variant Annotation Count'].values.reshape(-1,1)
     Pathway_Count=df['Pathway Count'].values.reshape(-1,1)
