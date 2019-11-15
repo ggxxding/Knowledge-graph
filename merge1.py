@@ -429,7 +429,8 @@ def contrast(threshold):
     #df2.to_excel(pdWriter,sheet_name="xref",index=False)
     #pdWriter.save()
     #pdWriter.close()
-contrast(1)
+for i in [1,3,5,6,7,8,9,10]:
+    contrast(i)
 '''start=time.perf_counter()
 contrast(10)
 dur1=time.perf_counter()
