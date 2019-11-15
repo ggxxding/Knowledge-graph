@@ -515,7 +515,7 @@ def filesProceeding(nameDO,nameICDCM,nameICD,nameMeSH,\
     #pdWriter.save()
     #pdWriter.close()
 #filesToExcel()
-nameDO='datasets\DiseaseOntology_20190627.csv'
+'''nameDO='datasets\DiseaseOntology_20190627.csv'
 nameICDCM='datasets\ICD10CM2019_20180626-USA.csv'
 nameICD='datasets\ICD102016_20180704-WHO.csv'
 nameMeSH='datasets\MeSH2018_20180713.csv'
@@ -523,4 +523,4 @@ nameChemicals='datasets\chemicals\chemicals.tsv'
 nameDrugs='datasets\drugs\drugs.tsv'
 namePhenotypes='datasets\phenotypes\phenotypes.tsv'
 filesProceeding(nameDO,nameICDCM,nameICD,nameMeSH,\
-                nameChemicals,nameDrugs,namePhenotypes)
+                nameChemicals,nameDrugs,namePhenotypes)'''

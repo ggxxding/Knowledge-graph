@@ -1,7 +1,6 @@
 #先按id匹配，根据最大类数调整阈值
 #问题：flags=1的影响 有些个数1夹杂在merge中
 
-
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
@@ -211,6 +210,9 @@ def contrast(threshold):
         print('\r'+str(i),end='',flush=True)
         idMatched = 0
         for j in range(i + 1, len(DO)):
+            if DO[i][2]==DO[j][2]:  ##191115 若xref结果为两个一样的id，则跳过不处理
+                continue
+
             idMatch = 0
             for id1 in DO[i][3]:
                 if idMatch == 1:
@@ -223,6 +225,7 @@ def contrast(threshold):
             # distance_simhash=Simhash(DO[i][0]).distance(Simhash(DO[j][0]))
             if idMatch == 1:
                 idMatch = 0
+
                 idflags[i]=1
                 idflags[j]=1
                 dict[str(i)] = DO[i][1]  # DO[i][2]=id
@@ -233,13 +236,15 @@ def contrast(threshold):
                 xref.append(IDPair)
 
         if flags[i]==0:
-            near=SimIndex.get_near_dups(Simhash(DO[i][0]))
+            near=list(set(SimIndex.get_near_dups(Simhash(DO[i][0]))))   ##191115 增加list(set())
             if len(near)==1 and near[0]==str(i) and idMatched==0:    #未匹配
                 dict[str(i)]=DO[i][1]
                 unMerged.append(str(i))
                 unMergedSyn.append(DO[i][1])
             #elif len(near)>1 and idMatched==0:
             elif len(near)>1:
+                print(near)
+                print(list(set(near)))
                 IDPair=[]
                 if len(near)>1:
                     while len(near)>0:
@@ -429,8 +434,8 @@ def contrast(threshold):
     #df2.to_excel(pdWriter,sheet_name="xref",index=False)
     #pdWriter.save()
     #pdWriter.close()
-for i in [1,3,5,6,7,8,9,10]:
-    contrast(i)
+'''for i in [1,3,5,6,7,8,9,10]:
+    contrast(i)'''
 '''start=time.perf_counter()
 contrast(10)
 dur1=time.perf_counter()
