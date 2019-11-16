@@ -54,6 +54,8 @@ def get_simhash_topics(sheet_name):
         col = set(col)
         col.add(cols_name[index])
         col=list(col)
+        if '' in col:       ##191116
+            col.remove('')
         #print(col)
         doc_list.append(col)
     #print(doc_list)
@@ -243,8 +245,7 @@ def contrast(threshold):
                 unMergedSyn.append(DO[i][1])
             #elif len(near)>1 and idMatched==0:
             elif len(near)>1:
-                print(near)
-                print(list(set(near)))
+
                 IDPair=[]
                 if len(near)>1:
                     while len(near)>0:
