@@ -1,180 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88daee31-8c23-456b-9f36-f325536769ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DO.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DO.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICD10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ICD10.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICD10CM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ICD10CM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeSH.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MeSH.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_0_ID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_0_ID.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_0_ID_LCS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_0_ID_LCS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_0_ID_LCSlog2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_0_ID_LCSlog2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_0_xref.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_0_xref.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_3_ID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_3_ID.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_3_ID_LCS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_3_ID_LCS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_3_ID_LCSlog2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_3_ID_LCSlog2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_3_xref.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_3_xref.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_5_ID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_5_ID.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_5_ID_LCS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_5_ID_LCS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_5_ID_LCSlog2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_5_ID_LCSlog2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_5_xref.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_5_xref.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_6.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_6_ID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_6_ID.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_6_ID_LCS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_6_ID_LCS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_6_ID_LCSlog2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_6_ID_LCSlog2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_6_xref.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_6_xref.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_7.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_7_ID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_7_ID.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_7_ID_LCS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_7_ID_LCS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_7_ID_LCSlog2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_7_ID_LCSlog2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_7_xref.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_7_xref.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_8.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_8_ID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_8_ID.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_8_ID_LCS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_8_ID_LCS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_8_ID_LCSlog2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_8_ID_LCSlog2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_8_xref.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_8_xref.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_9.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_9_ID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_9_ID.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_9_ID_LCS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_9_ID_LCS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_9_ID_LCSlog2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_9_ID_LCSlog2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merged191114_9_xref.csv" beforeDir="false" afterPath="$PROJECT_DIR$/merged191114_9_xref.csv" afterDir="false" />
-    </list>
+    <list default="true" id="ef992870-9503-43be-81e1-61ae967fb53a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/merge1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/merge4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/merge2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/merged191114_8_ID.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1612200" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/merged191114_7_xref.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="3071" column="25" selection-start-line="3071" selection-start-column="25" selection-end-line="3071" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phenotypes.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
-              <caret line="2623" column="20" selection-start-line="2623" selection-start-column="9" selection-end-line="2623" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/toExcel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="447" column="30" selection-start-line="447" selection-start-column="30" selection-end-line="447" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>I23.2</find>
-      <find>Q21</find>
-      <find>M13</find>
-      <find>print</find>
-      <find>PA165109171</find>
-    </findStrings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/merged191114_1.csv" />
-        <option value="$PROJECT_DIR$/merge1.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="256" />
-    <option name="y" value="11" />
-    <option name="width" value="1013" />
-    <option name="height" value="735" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Knowledge-graph" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Knowledge-graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Knowledge-graph" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Knowledge-graph" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-  </component>
+  <component name="ProjectId" id="1TpifFNafLmF9MWWbo0jfhntBIq" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -187,9 +31,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.merge4">
-    <configuration name="merge4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Knowledge-graph" />
+  <component name="RunManager">
+    <configuration name="relation_extraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Knowledge graph" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -200,28 +44,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="toExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Knowledge-graph" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toExcel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/relation_extraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,8 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.merge4" />
-        <item itemvalue="Python.toExcel" />
+        <item itemvalue="Python.relation_extraction" />
       </list>
     </recent_temporary>
   </component>
@@ -242,119 +64,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="88daee31-8c23-456b-9f36-f325536769ef" name="Default Changelist" comment="" />
-      <created>1573805339117</created>
+      <changelist id="ef992870-9503-43be-81e1-61ae967fb53a" name="Default Changelist" comment="" />
+      <created>1574163540105</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573805339117</updated>
+      <updated>1574163540105</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="256" y="11" width="1013" height="735" extended-state="0" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25025642" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38602328" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MeSH.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/DiseaseOntology_20190627.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merged191114_1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="978" column="63" selection-start-line="978" selection-start-column="60" selection-end-line="978" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/ICD10CM2019_20180626-USA.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="16217" column="108" selection-start-line="16216" selection-start-column="78" selection-end-line="16217" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/phenotypes/phenotypes.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="2623" column="32" selection-start-line="2623" selection-start-column="32" selection-end-line="2623" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="447" column="30" selection-start-line="447" selection-start-column="30" selection-end-line="447" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merged191114_7_xref.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="3071" column="25" selection-start-line="3071" selection-start-column="25" selection-end-line="3071" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phenotypes.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="2623" column="20" selection-start-line="2623" selection-start-column="9" selection-end-line="2623" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merge1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merged191114_8_ID.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1612200" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merge4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merge2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

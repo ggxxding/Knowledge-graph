@@ -338,7 +338,7 @@ def contrast(threshold):
                 for i in range(len(tempIDPair)):
                     if flags[i]==0:
                         #print(IDPair[i])
-                        near=SimIndex2.get_near_dups(Simhash(DO[int(tempIDPair[i])][0]))
+                        near=list(set(SimIndex2.get_near_dups(Simhash(DO[int(tempIDPair[i])][0]))))
                         if len(near)==1 and near[0]==tempIDPair[i]:
                             unMerged.append(str(tempIDPair[i]))
                             #dict.append
