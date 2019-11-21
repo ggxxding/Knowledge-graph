@@ -245,11 +245,11 @@ def contrast(threshold):
                 unMergedSyn.append(DO[i][1])
             #elif len(near)>1 and idMatched==0:
             elif len(near)>1:
-
                 IDPair=[]
                 if len(near)>1:
                     while len(near)>0:
                         temp=int(near.pop())
+
                         dict[str(temp)]=DO[temp][1]
                         #flags[temp]=1
                         IDPair.append(str(temp))
@@ -391,6 +391,7 @@ def contrast(threshold):
     for i in diseases:
         IDs = list(set(i))
         realIDs=[DO[int(x)][2] for x in IDs]
+
         '''if len(IDs)==1:
             continue'''
         str1 = ','.join(realIDs)
