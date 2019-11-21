@@ -249,7 +249,8 @@ def contrast(threshold):
                 if len(near)>1:
                     while len(near)>0:
                         temp=int(near.pop())
-
+                        if str(temp) in IDPair:     ###191122新增 防止ID一样的疾病被匹配
+                            continue
                         dict[str(temp)]=DO[temp][1]
                         #flags[temp]=1
                         IDPair.append(str(temp))
@@ -347,6 +348,8 @@ def contrast(threshold):
                             tempIDPair2=[]
                             while len(near) > 0:
                                 temp = near.pop()
+                                if str(temp) in IDPair:  ###191122新增 防止ID一样的疾病被匹配
+                                    continue
                                 #dict[str(temp)] = DO[temp][1]
                                 #flags[tempIDPair.index(temp)] = 1
                                 tempIDPair2.append(str(temp))
