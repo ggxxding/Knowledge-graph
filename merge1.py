@@ -130,31 +130,6 @@ def getObjs(objects,base):
             objects.append((str(int(objects[-1][0])+1),Simhash(j[0])))
         else:
             objects.append((str(i),Simhash(j[0])))
-'''
-SimhashObjs=[]
-
-DO = get_simhash_topics("DO")
-print('lenDOID    %d'%(len(DO)))
-getObjs(SimhashObjs,DO)
-
-ICD10CM= get_simhash_topics("ICD10CM")
-print('lenICD10CM %d'%(len(ICD10CM)))
-getObjs(SimhashObjs,ICD10CM)
-
-ICD10=get_simhash_topics("ICD10")
-print('lenICD10   %d'%(len(ICD10)))
-getObjs(SimhashObjs,ICD10)
-
-MeSH = get_simhash_topics("MeSH")
-print('lenMeSH    %d'%(len(MeSH)))
-getObjs(SimhashObjs,MeSH)
-
-print('len        %d'%(len(SimhashObjs)))
-DO.extend(ICD10CM)
-DO.extend(ICD10)
-DO.extend(MeSH) #delete?
-#print(DO)
-'''
 
 def contrast(threshold):
     SimhashObjs = []
@@ -174,14 +149,13 @@ def contrast(threshold):
     print('lenMeSH    %d' % (len(MeSH)))
     getObjs(SimhashObjs, MeSH)
 
-    chemicals = get_simhash_topics("chemicals.csv")
+
+    chemicals = get_simhash_topics("chemicals.csv")#chemicals
     print('lenChemicals    %d' % (len(chemicals)))
     getObjs(SimhashObjs, chemicals)
-
-    drugs = get_simhash_topics("drugs.csv")
+    '''drugs = get_simhash_topics("drugs.csv")
     print('lenDrugs    %d' % (len(drugs)))
-    getObjs(SimhashObjs, drugs)
-
+    getObjs(SimhashObjs, drugs)'''
     phenotypes = get_simhash_topics("phenotypes.csv")
     print('lenPhenotypes    %d' % (len(phenotypes)))
     getObjs(SimhashObjs, phenotypes)
@@ -191,7 +165,7 @@ def contrast(threshold):
     DO.extend(ICD10)
     DO.extend(MeSH)
     DO.extend(chemicals)
-    DO.extend(drugs)
+    #DO.extend(drugs)
     DO.extend(phenotypes)
     # print(DO)
 
@@ -246,14 +220,18 @@ def contrast(threshold):
             #elif len(near)>1 and idMatched==0:
             elif len(near)>1:
                 IDPair=[]
+                #realIDPair=[]
                 if len(near)>1:
+                    near.sort()                         ###191122，排序near使pop顺序相同
                     while len(near)>0:
                         temp=int(near.pop())
-                        if str(temp) in IDPair:     ###191122新增 防止ID一样的疾病被匹配
-                            continue
+                        #print('...',str(temp),DO[temp][2])
+                        #if DO[temp][2] in realIDPair:     ###191122新增 防止ID一样的疾病被匹配
+                        #    continue
                         dict[str(temp)]=DO[temp][1]
                         #flags[temp]=1
                         IDPair.append(str(temp))
+                        #realIDPair.append(DO[temp][2])
                     if len(IDPair)>1:
                         IDPairList.append(IDPair)
 
@@ -308,6 +286,9 @@ def contrast(threshold):
                                     diseases[-1].append(str(l))
                                 break
                                 #IDPairList[j]=[]
+                diseases[-1]=list(set(diseases[-1]))  ###191122 night
+                #DO[temp][2]
+
         if len(diseases)==len(IDPairList):
             flagChanged=0
             break
@@ -345,11 +326,12 @@ def contrast(threshold):
                             #dict.append
                             #unMergedSyn.append(DO[int(IDPair[i])][1])
                         elif len(near)>1:
+                            near.sort()
                             tempIDPair2=[]
                             while len(near) > 0:
                                 temp = near.pop()
-                                if str(temp) in IDPair:  ###191122新增 防止ID一样的疾病被匹配
-                                    continue
+                                '''if str(temp) in IDPair:  ###191122新增 防止ID一样的疾病被匹配
+                                    continue'''
                                 #dict[str(temp)] = DO[temp][1]
                                 #flags[tempIDPair.index(temp)] = 1
                                 tempIDPair2.append(str(temp))

@@ -15,7 +15,7 @@ toExcel.filesProceeding(nameDO,nameICDCM,nameICD,nameMeSH,\
                 nameChemicals,nameDrugs,namePhenotypes)
 
 
-'''start=time.perf_counter()
+start=time.perf_counter()
 dur=[]
 for i in [0,3,5,6,7,8,9,10]:
     merge1.contrast(i)
@@ -30,7 +30,4 @@ print("time:",dur[0]-start,'\n',
       dur[4]-dur[3],'\n',
       dur[5]-dur[4],'\n',
       dur[6]-dur[5],'\n',
-      dur[7]-dur[6])'''
-merge1.contrast(0)
-merge2.idProcess('merged191114_' + str(i) + '.csv')
-merge3.idProcess('merged191114_' + str(i) + '_ID.csv')
+      dur[7]-dur[6])
