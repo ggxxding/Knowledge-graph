@@ -1,0 +1,96 @@
+Name,Id
+Alternate_name(Genes),0
+Contains(Occurrences),1
+PharmGKB_Id-Name(Genes),2
+Cross_reference(Chemicals),3
+decreased inhibition of,4
+dose-adjusted trough concentrations of,5
+Synonym(Chemicals),6
+increased response to,7
+PharmGKB_Id-Name(Phenotypes),8
+Symbol-PharmGKB_Id(Genes),9
+HGNC_Id(Genes),10
+decreased activity of,11
+decreased dose-adjusted trough concentrations of,12
+decreased dose of,13
+increased clinical benefit to,14
+Name-Id(Occurrences),15
+increased formation of,16
+decreased transcription of,17
+sensitivity to,18
+metabolism of,19
+NCBI_Gene_Id(Genes),20
+Ensembl_Id(Genes),21
+concentrations of,22
+increased metabolism of,23
+increased glucuronidation of,24
+steady-state level of,25
+increased clearance of,26
+Cross_reference(Phenotypes),27
+decreased glucuronidation of,28
+decreased clearance of,29
+decreased protein stability of,30
+External_vocabulary(Chemicals),31
+External_vocabulary(Phenotypes),32
+belongs to,33
+Name-PharmGKB_Id(Genes),34
+increased transcription of,35
+decreased resistance to,36
+glucuronidation of,37
+decreased response to,38
+increased transport of,39
+protein stability of,40
+decreased steady-state level of,41
+decreased catalytic activity of,42
+decreased sulfation of,43
+decreased metabolism of,44
+increased dose of,45
+PharmGKB_Id-Symbol(Genes),46
+increased trough concentration of,47
+decreased uptake of,48
+PharmGKB_Id-Name(Chemicals),49
+Id-Name(Occurrences),50
+decreased discontinuation of,51
+decreased concentrations of,52
+response to,53
+Symbol-Name(Genes),54
+Name-PharmGKB_Id(Phenotypes),55
+Source(Occurrences),56
+decreased steady-state concentration of,57
+increased inhibition of,58
+increased resistance to,59
+decreased enzyme activity of,60
+increased catalytic activity of,61
+activity of,62
+increased dose-adjusted trough concentrations of,63
+decreased sensitivity to,64
+resistance to,65
+clearance of,66
+dose of,67
+increased sensitivity to,68
+increased discontinuation of,69
+increased expression of,70
+increased enzyme activity of,71
+increased steady-state concentration of,72
+decreased affinity to,73
+decreased half-life of,74
+Cross_reference(Genes),75
+decreased expression of,76
+increased steady-state level of,77
+Name-Symbol(Genes),78
+enzyme activity of,79
+decreased trough concentration of,80
+Name-PharmGKB_Id(Chemicals),81
+Synonym(Phenotypes),82
+decreased clinical benefit to,83
+trough concentration of,84
+exposure to,85
+decreased formation of,86
+increased exposure to,87
+decreased transport of,88
+increased sulfation of,89
+increased activity of,90
+Alternate_symbol(Genes),91
+decreased exposure to,92
+increased concentrations of,93
+affinity to,94

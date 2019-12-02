@@ -1,0 +1,2348 @@
+head,tail,relation
+rs141033578,"[['ivacaftor', '(PA165950341)']]",activity of
+rs141033578,"[['CFTR', '(PA109)']]",belongs to
+rs4646244,"[['NAT2', '(PA18)']]",belongs to
+rs11849538,"[['estradiol', '(PA449503)']]",increased expression of
+rs2369049,"[['estradiol', '(PA449503)']]",increased expression of
+rs11615,"[['ERCC1', '(PA155)']]",belongs to
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs2108622,"[['Vitamin', 'K', '(PA164713404)']]",increased concentrations of
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs1799971,"[['OPRM1', '(PA31945)']]",belongs to
+rs1799971,"[['OPRM1', '(PA31945)']]",belongs to
+rs1902023,"[['UGT2B15', '(PA37188)']]",belongs to
+NAT2*4,"[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+NAT2*4,"[['NAT2', '(PA18)']]",belongs to
+DPYD*9B,"[['DPYD', '(PA145)']]",belongs to
+rs4751104,"[['MGMT', '(PA239)']]",belongs to
+rs71647871,"[['trandolapril', '(PA451737)']]",decreased activity of
+rs71647871,"[['CES1', '(PA107)']]",belongs to
+rs767263838,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs767263838,"[['SULT1A3', '(PA344)']]",belongs to
+rs767263838,"[['morphine', '(PA450550)']]",decreased sulfation of
+rs767263838,"[['SULT1A3', '(PA344)']]",belongs to
+rs767263838,"[['tapentadol', '(PA166179720)']]",decreased sulfation of
+rs767263838,"[['SULT1A3', '(PA344)']]",belongs to
+rs767263838,"[['o-desmethyltramadol', '(PA166131379)']]",decreased sulfation of
+rs767263838,"[['SULT1A3', '(PA344)']]",belongs to
+rs757573592,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs757573592,"[['SULT1A3', '(PA344)']]",belongs to
+rs757573592,"[['morphine', '(PA450550)']]",decreased sulfation of
+rs757573592,"[['SULT1A3', '(PA344)']]",belongs to
+rs757573592,"[['tapentadol', '(PA166179720)']]",decreased sulfation of
+rs757573592,"[['SULT1A3', '(PA344)']]",belongs to
+rs757573592,"[['o-desmethyltramadol', '(PA166131379)']]",decreased sulfation of
+rs757573592,"[['SULT1A3', '(PA344)']]",belongs to
+rs776817009,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs776817009,"[['SULT1A3', '(PA344)']]",belongs to
+rs776817009,"[['SULT1A3', '(PA344)']]",belongs to
+rs776817009,"[['tapentadol', '(PA166179720)']]",decreased sulfation of
+rs776817009,"[['SULT1A3', '(PA344)']]",belongs to
+rs776817009,"[['o-desmethyltramadol', '(PA166131379)']]",decreased sulfation of
+rs776817009,"[['SULT1A3', '(PA344)']]",belongs to
+rs762151655,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs762151655,"[['SULT1A3', '(PA344)']]",belongs to
+rs762151655,"[['morphine', '(PA450550)']]",decreased sulfation of
+rs762151655,"[['SULT1A3', '(PA344)']]",belongs to
+rs762151655,"[['tapentadol', '(PA166179720)']]",decreased sulfation of
+rs762151655,"[['SULT1A3', '(PA344)']]",belongs to
+rs113993958,"[['ivacaftor', '(PA165950341)']]",activity of
+rs113993958,"[['CFTR', '(PA109)']]",belongs to
+rs78769542,"[['ivacaftor', '(PA165950341)']]",activity of
+rs78769542,"[['CFTR', '(PA109)']]",belongs to
+rs762151655,"[['o-desmethyltramadol', '(PA166131379)']]",decreased sulfation of
+rs762151655,"[['SULT1A3', '(PA344)']]",belongs to
+rs750575779,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs750575779,"[['SULT1A3', '(PA344)']]",belongs to
+rs750575779,"[['SULT1A3', '(PA344)']]",belongs to
+rs750575779,"[['tapentadol', '(PA166179720)']]",decreased sulfation of
+rs750575779,"[['SULT1A3', '(PA344)']]",belongs to
+rs750575779,"[['o-desmethyltramadol', '(PA166131379)']]",decreased sulfation of
+rs750575779,"[['SULT1A3', '(PA344)']]",belongs to
+rs553050853,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs553050853,"[['SULT1A3', '(PA344)']]",belongs to
+rs553050853,"[['morphine', '(PA450550)']]",decreased sulfation of
+rs553050853,"[['SULT1A3', '(PA344)']]",belongs to
+rs1801265,"[['DPYD', '(PA145)']]",belongs to
+rs553050853,"[['tapentadol', '(PA166179720)']]",decreased sulfation of
+rs553050853,"[['SULT1A3', '(PA344)']]",belongs to
+rs553050853,"[['o-desmethyltramadol', '(PA166131379)']]",decreased sulfation of
+rs553050853,"[['SULT1A3', '(PA344)']]",belongs to
+rs751527244,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs751527244,"[['SULT1A3', '(PA344)']]",belongs to
+rs751527244,"[['acetaminophen', '(PA448015)']]",increased sulfation of
+rs751527244,"[['SULT1A3', '(PA344)']]",belongs to
+rs751527244,"[['SULT1A3', '(PA344)']]",belongs to
+rs751527244,"[['tapentadol', '(PA166179720)']]",decreased sulfation of
+rs751527244,"[['SULT1A3', '(PA344)']]",belongs to
+rs751527244,"[['o-desmethyltramadol', '(PA166131379)']]",decreased sulfation of
+rs751527244,"[['SULT1A3', '(PA344)']]",belongs to
+rs1801020,"[['F12', '(PA161)']]",belongs to
+rs669,"[['A2M', '(PA24357)']]",belongs to
+rs751527244,"[['morphine', '(PA450550)']]",increased sulfation of
+rs751527244,"[['SULT1A3', '(PA344)']]",belongs to
+rs751527244,"[['tapentadol', '(PA166179720)']]",increased sulfation of
+rs751527244,"[['SULT1A3', '(PA344)']]",belongs to
+rs751527244,"[['o-desmethyltramadol', '(PA166131379)']]",increased sulfation of
+rs751527244,"[['SULT1A3', '(PA344)']]",belongs to
+rs1293732453,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs1293732453,"[['SULT1A3', '(PA344)']]",belongs to
+rs1293732453,"[['morphine', '(PA450550)']]",decreased sulfation of
+rs1293732453,"[['SULT1A3', '(PA344)']]",belongs to
+rs1293732453,"[['tapentadol', '(PA166179720)']]",increased sulfation of
+rs1293732453,"[['SULT1A3', '(PA344)']]",belongs to
+rs1293732453,"[['o-desmethyltramadol', '(PA166131379)']]",increased sulfation of
+rs1293732453,"[['SULT1A3', '(PA344)']]",belongs to
+rs1328799050,"[['acetaminophen', '(PA448015)']]",decreased sulfation of
+rs1328799050,"[['SULT1A3', '(PA344)']]",belongs to
+rs1328799050,"[['morphine', '(PA450550)']]",decreased sulfation of
+rs1328799050,"[['SULT1A3', '(PA344)']]",belongs to
+rs1328799050,"[['tapentadol', '(PA166179720)']]",decreased sulfation of
+rs1328799050,"[['SULT1A3', '(PA344)']]",belongs to
+rs1328799050,"[['o-desmethyltramadol', '(PA166131379)']]",decreased sulfation of
+rs1328799050,"[['SULT1A3', '(PA344)']]",belongs to
+"CYP2E1*7A, CYP2E1*7B","[['CYP2E1', '(PA129)']]",belongs to
+rs1805123,"[['KCNH2', '(PA212)']]",belongs to
+rs783145,"[['PLG', '(PA33405)']]",belongs to
+rs104894021,"[['quinidine', '(PA451209)']]",decreased inhibition of
+rs104894021,"[['KCNH2', '(PA212)']]",belongs to
+rs316019,"[['SLC22A2', '(PA331)']]",belongs to
+SLC22A1*2,"[['ranitidine', '(PA451224)']]",decreased transport of
+SLC22A1*2,"[['SLC22A1', '(PA329)']]",belongs to
+SLC22A1*1,"[['SLC22A1', '(PA329)']]",belongs to
+SLC22A1*3,"[['ranitidine', '(PA451224)']]",decreased transport of
+SLC22A1*3,"[['SLC22A1', '(PA329)']]",belongs to
+SLC22A1*4,"[['ranitidine', '(PA451224)']]",decreased transport of
+SLC22A1*4,"[['SLC22A1', '(PA329)']]",belongs to
+SLC22A1*5,"[['ranitidine', '(PA451224)']]",decreased transport of
+SLC22A1*5,"[['SLC22A1', '(PA329)']]",belongs to
+SLC22A1*6,"[['ranitidine', '(PA451224)']]",decreased transport of
+SLC22A1*6,"[['SLC22A1', '(PA329)']]",belongs to
+"CYP2C19*1, CYP2C19*29","[['fluoxetine', '(PA449673)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*29","[['CYP2C19', '(PA124)']]",belongs to
+rs1799752,"[['ACE', '(PA139)']]",belongs to
+rs34902660,"[['bumetanide', '(PA448682)']]",decreased transport of
+rs34902660,"[['SLC17A3', '(PA35822)']]",belongs to
+"CYP2C19*1, CYP2C19*31","[['fluoxetine', '(PA449673)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*31","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*32","[['fluoxetine', '(PA449673)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*32","[['CYP2C19', '(PA124)']]",belongs to
+rs3212986,"[['ERCC1', '(PA155)']]",belongs to
+rs11568482,"[['cefotaxime', '(PA448852)']]",decreased transport of
+rs11568482,"[['SLC22A8', '(PA389)']]",belongs to
+rs776746,"[['CYP3A5', '(PA131)']]",belongs to
+rs2072671,"[['CDA', '(PA98)']]",belongs to
+rs2231137,"[['dasatinib', '(PA162372878)'], ['imatinib', '(PA10804)'], ['nilotinib', '(PA165958345)']]",increased sensitivity to
+rs2231137,"[['ABCG2', '(PA390)']]",belongs to
+rs2231142,"[['dasatinib', '(PA162372878)'], ['imatinib', '(PA10804)'], ['nilotinib', '(PA165958345)']]",increased sensitivity to
+rs2231142,"[['ABCG2', '(PA390)']]",belongs to
+rs1061018,"[['dasatinib', '(PA162372878)'], ['imatinib', '(PA10804)'], ['nilotinib', '(PA165958345)']]",increased sensitivity to
+rs1061018,"[['ABCG2', '(PA390)']]",belongs to
+rs41282401,"[['dasatinib', '(PA162372878)'], ['imatinib', '(PA10804)'], ['nilotinib', '(PA165958345)']]",increased sensitivity to
+rs41282401,"[['ABCG2', '(PA390)']]",belongs to
+rs58818712,"[['dasatinib', '(PA162372878)'], ['imatinib', '(PA10804)'], ['nilotinib', '(PA165958345)']]",increased sensitivity to
+rs58818712,"[['ABCG2', '(PA390)']]",belongs to
+rs45605536,"[['dasatinib', '(PA162372878)'], ['imatinib', '(PA10804)']]",increased sensitivity to
+rs45605536,"[['ABCG2', '(PA390)']]",belongs to
+rs3754446,"[['busulfan', '(PA448691)']]",increased clearance of
+rs3754446,"[['GSTM1', '(PA182)']]",belongs to
+rs8175347,"[['clozapine', '(PA449061)']]",decreased formation of
+rs8175347,"[['UGT1A1', '(PA420)']]",belongs to
+rs75527207,"[['ivacaftor', '(PA165950341)']]",increased activity of
+rs75527207,"[['CFTR', '(PA109)']]",belongs to
+rs3213619,"[['ABCB1', '(PA267)']]",belongs to
+rs708272,"[['CETP', '(PA108)']]",belongs to
+rs1128503,"[['ABCB1', '(PA267)']]",belongs to
+"CYP2D6*1, CYP2D6*27","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['codeine', '(PA449088)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['codeine', '(PA449088)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['codeine', '(PA449088)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['fluoxetine', '(PA449673)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['fluoxetine', '(PA449673)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+rs12487736,"[['atorvastatin', '(PA448500)']]",decreased transcription of
+rs12487736,"[['SCAP', '(PA162402461)']]",belongs to
+rs2032582,"[['ABCB1', '(PA267)']]",belongs to
+rs60369023,"[['cytarabine', '(PA449177)']]",decreased catalytic activity of
+rs60369023,"[['CDA', '(PA98)']]",belongs to
+rs35932500,"[['gemcitabine', '(PA449748)']]",decreased enzyme activity of
+rs35932500,"[['DCTD', '(PA138)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['atomoxetine', '(PA134688071)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['fluoxetine', '(PA449673)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['codeine', '(PA449088)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['tramadol', '(PA451735)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['nortriptyline', '(PA450657)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*24","[['codeine', '(PA449088)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*24","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*26","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*26","[['CYP2D6', '(PA128)']]",belongs to
+rs2072671,"[['gemcitabine', '(PA449748)']]",decreased enzyme activity of
+rs2072671,"[['CDA', '(PA98)']]",belongs to
+rs113993960,"[['lumacaftor', '(PA166114483)']]",increased transport of
+rs113993960,"[['CFTR', '(PA109)']]",belongs to
+LDLRL5,"[['simvastatin', '(PA451363)']]",decreased expression of
+LDLRL5,"[['LDLR', '(PA227)']]",belongs to
+rs1042640,"[['acetaminophen', '(PA448015)']]",decreased activity of
+rs1042640,"[['UGT1A', '(PA37173)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['bufuralol', '(PA166110256)'], ['codeine', '(PA449088)']]",decreased activity of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['fluoxetine', '(PA449673)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+rs17822471,"[['ABCC11', '(PA24393)']]",belongs to
+rs783145,"[['PLG', '(PA33405)']]",belongs to
+rs11966370,"[['bumetanide', '(PA448682)']]",decreased transport of
+rs11966370,"[['SLC17A3', '(PA35822)']]",belongs to
+rs104894021,"[['quinidine', '(PA451209)']]",decreased inhibition of
+rs104894021,"[['KCNH2', '(PA212)']]",belongs to
+rs121434586,"[['IMPDH2', '(PA29863)']]",belongs to
+rs3215400,"[['CDA', '(PA98)']]",belongs to
+rs60282872,"[['SREBF1', '(PA335)']]",belongs to
+rs113646094,"[['ABCC2', '(PA116)']]",belongs to
+rs10929303,"[['acetaminophen', '(PA448015)']]",decreased activity of
+rs10929303,"[['UGT1A', '(PA37173)']]",belongs to
+rs12762549,"[['docetaxel', '(PA449383)']]",decreased clearance of
+rs12762549,"[['ABCC2', '(PA116)']]",belongs to
+CDA*2B,"[['CDA', '(PA98)']]",belongs to
+rs75527207,"[['ivacaftor', '(PA165950341)']]",activity of
+rs75527207,"[['CFTR', '(PA109)']]",belongs to
+rs1045642,"[['digoxin', '(PA449319)']]",increased steady-state level of
+rs1045642,"[['ABCB1', '(PA267)']]",belongs to
+rs73748206,"[['gemcitabine', '(PA449748)']]",increased expression of
+rs73748206,"[['FKBP5', '(PA28162)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['bufuralol', '(PA166110256)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['codeine', '(PA449088)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['bufuralol', '(PA166110256)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['atomoxetine', '(PA134688071)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['fluoxetine', '(PA449673)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['nortriptyline', '(PA450657)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['tramadol', '(PA451735)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+rs61737947,"[['dextromethorphan', '(PA449273)']]",decreased clearance of
+rs1048977,"[['CDA', '(PA98)']]",belongs to
+rs8330,"[['acetaminophen', '(PA448015)']]",decreased activity of
+rs8330,"[['UGT1A', '(PA37173)']]",belongs to
+rs1045642,"[['ABCB1', '(PA267)']]",belongs to
+"CYP2D6*1, CYP2D6*24","[['dextromethorphan', '(PA449273)']]",increased clearance of
+"CYP2D6*1, CYP2D6*24","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*26","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*27","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*27","[['CYP2D6', '(PA128)']]",belongs to
+rs9806699,"[['simvastatin', '(PA451363)']]",increased expression of
+rs9806699,"[['GATM', '(PA28590)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['debrisoquine', '(PA452616)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['debrisoquine', '(PA452616)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+rs71647871,"[['methylphenidate', '(PA450464)']]",decreased catalytic activity of
+rs71647871,"[['CES1', '(PA107)']]",belongs to
+"NAT2*12A, NAT2*4","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*12A, NAT2*4","[['NAT2', '(PA18)']]",belongs to
+"NAT2*13A, NAT2*4","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*13A, NAT2*4","[['NAT2', '(PA18)']]",belongs to
+"NAT2*13A, NAT2*5A","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*13A, NAT2*5A","[['NAT2', '(PA18)']]",belongs to
+"NAT2*12A, NAT2*5A","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*12A, NAT2*5A","[['NAT2', '(PA18)']]",belongs to
+"NAT2*4, NAT2*6A","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*4, NAT2*6A","[['NAT2', '(PA18)']]",belongs to
+rs717620,"[['ABCC2', '(PA116)']]",belongs to
+"NAT2*4, NAT2*5A","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*4, NAT2*5A","[['NAT2', '(PA18)']]",belongs to
+NAT2*5A,"[['sulfamethazine', '(PA451542)']]",decreased catalytic activity of
+NAT2*5A,"[['NAT2', '(PA18)']]",belongs to
+"NAT2*5A, NAT2*7A","[['sulfamethazine', '(PA451542)']]",decreased catalytic activity of
+"NAT2*5A, NAT2*7A","[['NAT2', '(PA18)']]",belongs to
+"NAT2*5A, NAT2*6A","[['sulfamethazine', '(PA451542)']]",decreased catalytic activity of
+"NAT2*5A, NAT2*6A","[['NAT2', '(PA18)']]",belongs to
+NAT2*6A,"[['sulfamethazine', '(PA451542)']]",decreased catalytic activity of
+NAT2*6A,"[['NAT2', '(PA18)']]",belongs to
+"NAT2*14A, NAT2*6A","[['sulfamethazine', '(PA451542)']]",decreased catalytic activity of
+"NAT2*14A, NAT2*6A","[['NAT2', '(PA18)']]",belongs to
+"NAT2*14A, NAT2*7A","[['sulfamethazine', '(PA451542)']]",decreased catalytic activity of
+"NAT2*14A, NAT2*7A","[['NAT2', '(PA18)']]",belongs to
+rs121434568,"[['EGFR', '(PA7360)']]",belongs to
+rs1820453,"[['YAP1', '(PA38103)']]",belongs to
+rs7158782,"[['estradiol', '(PA449503)']]",increased expression of
+rs7158782,"[['TCL1A', '(PA36400)']]",belongs to
+rs7158782,"[['estradiol', '(PA449503)']]",increased expression of
+rs7158782,"[['TCL1A', '(PA36400)']]",belongs to
+rs7158782,"[['estradiol', '(PA449503)']]",increased expression of
+rs7158782,"[['TCL1A', '(PA36400)']]",belongs to
+rs7159713,"[['estradiol', '(PA449503)']]",increased expression of
+rs7159713,"[['TCL1A', '(PA36400)']]",belongs to
+rs7159713,"[['estradiol', '(PA449503)']]",increased expression of
+rs7159713,"[['TCL1A', '(PA36400)']]",belongs to
+rs2369049,"[['estradiol', '(PA449503)']]",increased expression of
+rs11849538,"[['estradiol', '(PA449503)']]",increased expression of
+rs2369049,"[['estradiol', '(PA449503)']]",increased expression of
+rs2369049,"[['estradiol', '(PA449503)']]",increased expression of
+DPYD*8,"[['DPYD', '(PA145)']]",belongs to
+CYP2B6*6,"[['efavirenz', '(PA449441)']]",increased activity of
+CYP2B6*6,"[['CYP2B6', '(PA123)']]",belongs to
+rs2872507,"[['ORMDL3', '(PA32821)']]",belongs to
+rs430397,"[['HSPA5', '(PA29504)']]",belongs to
+rs70950385,"[['CYP2B6', '(PA123)']]",belongs to
+rs121908755,"[['ivacaftor', '(PA165950341)']]",increased activity of
+rs121908755,"[['CFTR', '(PA109)']]",belongs to
+rs532545,"[['CDA', '(PA98)']]",belongs to
+rs686,"[['DRD1', '(PA147)']]",belongs to
+rs28399504,"[['CYP2C19', '(PA124)']]",belongs to
+rs73748206,"[['gemcitabine', '(PA449748)']]",increased expression of
+rs73748206,"[['FKBP5', '(PA28162)']]",belongs to
+"CYP2C19*1, CYP2C19*6","[['mephenytoin', '(PA450373)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*6","[['CYP2C19', '(PA124)']]",belongs to
+rs11045585,"[['SLCO1B3', '(PA35844)']]",belongs to
+rs602950,"[['CDA', '(PA98)']]",belongs to
+rs1800888,"[['salbutamol', '(PA448068)']]",decreased affinity to
+rs1800888,"[['ADRB2', '(PA39)']]",belongs to
+rs118192168,"[['chlorocresol', '(PA166122627)']]",increased sensitivity to
+rs118192168,"[['RYR1', '(PA34896)']]",belongs to
+rs202001817,"[['clopidogrel', '(PA449053)']]",decreased enzyme activity of
+rs202001817,"[['CES1', '(PA107)']]",belongs to
+rs202001817,"[['CES1', '(PA107)']]",belongs to
+rs200707504,"[['clopidogrel', '(PA449053)'], ['enalapril', '(PA449456)'], ['sacubitril', '(PA166131580)']]",decreased enzyme activity of
+rs200707504,"[['CES1', '(PA107)']]",belongs to
+rs2307243,"[['enalapril', '(PA449456)']]",decreased enzyme activity of
+rs2307243,"[['CES1', '(PA107)']]",belongs to
+rs202121317,"[['enalapril', '(PA449456)']]",decreased enzyme activity of
+rs202121317,"[['CES1', '(PA107)']]",belongs to
+rs202121317,"[['CES1', '(PA107)']]",belongs to
+rs397508256,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508256,"[['CFTR', '(PA109)']]",belongs to
+rs115545701,"[['ivacaftor', '(PA165950341)']]",activity of
+rs115545701,"[['CFTR', '(PA109)']]",belongs to
+rs75961395,"[['CFTR', '(PA109)']]",belongs to
+rs121908751,"[['ivacaftor', '(PA165950341)']]",activity of
+rs121908751,"[['CFTR', '(PA109)']]",belongs to
+rs397508537,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508537,"[['CFTR', '(PA109)']]",belongs to
+rs77834169,"[['ivacaftor', '(PA165950341)']]",activity of
+rs77834169,"[['CFTR', '(PA109)']]",belongs to
+rs78655421,"[['ivacaftor', '(PA165950341)']]",activity of
+rs78655421,"[['CFTR', '(PA109)']]",belongs to
+rs397508759,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508759,"[['CFTR', '(PA109)']]",belongs to
+rs121908752,"[['ivacaftor', '(PA165950341)']]",activity of
+rs121908752,"[['CFTR', '(PA109)']]",belongs to
+rs121909011,"[['ivacaftor', '(PA165950341)']]",activity of
+rs121909011,"[['CFTR', '(PA109)']]",belongs to
+rs397508328,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508328,"[['CFTR', '(PA109)']]",belongs to
+rs151020603,"[['CFTR', '(PA109)']]",belongs to
+rs113993960,"[['CFTR', '(PA109)']]",belongs to
+rs75527207,"[['ivacaftor', '(PA165950341)']]",protein stability of
+rs75527207,"[['CFTR', '(PA109)']]",belongs to
+rs3802201,"[['estradiol', '(PA449503)']]",increased expression of
+rs4476990,"[['estradiol', '(PA449503)']]",increased expression of
+rs147255955,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs147255955,"[['CYP2C19', '(PA124)']]",belongs to
+rs145328984,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs145328984,"[['CYP2C19', '(PA124)']]",belongs to
+rs118203756,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs118203756,"[['CYP2C19', '(PA124)']]",belongs to
+rs200346442,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs200346442,"[['CYP2C19', '(PA124)']]",belongs to
+rs200150287,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs200150287,"[['CYP2C19', '(PA124)']]",belongs to
+rs150152656,"[['CYP2C19', '(PA124)']]",belongs to
+rs72552267,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs72552267,"[['CYP2C19', '(PA124)']]",belongs to
+rs763625282,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs763625282,"[['CYP2C19', '(PA124)']]",belongs to
+rs181297724,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs181297724,"[['CYP2C19', '(PA124)']]",belongs to
+rs370803989,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs370803989,"[['CYP2C19', '(PA124)']]",belongs to
+rs749678783,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs749678783,"[['CYP2C19', '(PA124)']]",belongs to
+rs764137538,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs764137538,"[['CYP2C19', '(PA124)']]",belongs to
+rs778258371,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs778258371,"[['CYP2C19', '(PA124)']]",belongs to
+rs559628884,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs559628884,"[['CYP2C19', '(PA124)']]",belongs to
+rs1349931378,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs1349931378,"[['CYP2C19', '(PA124)']]",belongs to
+rs1267723490,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs1267723490,"[['CYP2C19', '(PA124)']]",belongs to
+rs138142612,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs138142612,"[['CYP2C19', '(PA124)']]",belongs to
+rs3758581,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs3758581,"[['CYP2C19', '(PA124)']]",belongs to
+rs770829708,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs770829708,"[['CYP2C19', '(PA124)']]",belongs to
+rs550527959,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs550527959,"[['CYP2C19', '(PA124)']]",belongs to
+rs1463550071,"[['fluoxetine', '(PA449673)']]",decreased clearance of
+rs1463550071,"[['CYP2C19', '(PA124)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+rs530303678,"[['CYP2D7', '(PA134926902)']]",belongs to
+rs530303678,"[['CYP2D7', '(PA134926902)']]",belongs to
+rs4803381,"[['nicotine', '(PA450626)']]",increased activity of
+rs4803381,"[['CYP2A6', '(PA121)']]",belongs to
+rs887829,"[['UGT1A1', '(PA420)']]",belongs to
+rs7260629,"[['nicotine', '(PA450626)']]",increased activity of
+rs7260629,"[['CYP2A6', '(PA121)']]",belongs to
+rs34186955,"[['daunorubicin', '(PA449212)'], ['doxorubicin', '(PA449412)']]",decreased enzyme activity of
+rs34186955,"[['AKR1C3', '(PA24679)']]",belongs to
+rs17134592,"[['daunorubicin', '(PA449212)']]",decreased enzyme activity of
+rs17134592,"[['AKR1C4', '(PA24680)']]",belongs to
+rs1043657,"[['daunorubicin', '(PA449212)'], ['doxorubicin', '(PA449412)']]",decreased enzyme activity of
+rs1043657,"[['AKR7A2', '(PA24682)']]",belongs to
+rs4987102,"[['daunorubicin', '(PA449212)']]",decreased enzyme activity of
+rs4987102,"[['AKR1C3', '(PA24679)']]",belongs to
+rs35575889,"[['daunorubicin', '(PA449212)'], ['doxorubicin', '(PA449412)']]",decreased enzyme activity of
+rs35575889,"[['AKR1C3', '(PA24679)']]",belongs to
+rs772226819,"[['halothane', '(PA449845)'], ['isoflurane', '(PA450106)']]",increased sensitivity to
+rs772226819,"[['CACNA1S', '(PA85)']]",belongs to
+rs1800559,"[['CACNA1S', '(PA85)']]",belongs to
+rs1800559,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs1800559,"[['CACNA1S', '(PA85)']]",belongs to
+rs148044792,"[['coumarin', '(PA134521193)'], ['nicotine', '(PA450626)']]",decreased enzyme activity of
+rs148044792,"[['CYP2A13', '(PA27101)']]",belongs to
+rs3801266,"[['NAMPT', '(PA162396933)']]",belongs to
+rs1319501,"[['NAMPT', '(PA162396933)']]",belongs to
+rs778258371,"[['voriconazole', '(PA10233)']]",decreased clearance of
+rs778258371,"[['CYP2C19', '(PA124)']]",belongs to
+rs57837628,"[['nicotine', '(PA450626)']]",increased activity of
+rs57837628,"[['CYP2A6', '(PA121)']]",belongs to
+rs7259706,"[['nicotine', '(PA450626)']]",increased activity of
+rs7259706,"[['CYP2A6', '(PA121)']]",belongs to
+rs56113850,"[['nicotine', '(PA450626)']]",increased activity of
+rs56113850,"[['CYP2A6', '(PA121)']]",belongs to
+rs28399453,"[['nicotine', '(PA450626)']]",increased activity of
+rs28399453,"[['CYP2A6', '(PA121)']]",belongs to
+rs8192733,"[['nicotine', '(PA450626)']]",increased activity of
+rs8192733,"[['CYP2A6', '(PA121)']]",belongs to
+"SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6","[['morphine', '(PA450550)']]",decreased uptake of
+"SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6","[['SLC22A1', '(PA329)']]",belongs to
+"SLC22A1*1, SLC22A1*2","[['proguanil', '(PA451124)']]",decreased uptake of
+"SLC22A1*1, SLC22A1*2","[['SLC22A1', '(PA329)']]",belongs to
+"SLC22A1*1, SLC22A1*3","[['proguanil', '(PA451124)']]",decreased uptake of
+"SLC22A1*1, SLC22A1*3","[['SLC22A1', '(PA329)']]",belongs to
+CYP2D6 intermediate metabolizer and extensive metabolizer,"[['tamsulosin', '(PA451583)']]",decreased half-life of
+CYP2D6 intermediate metabolizer and extensive metabolizer,"[['CYP2D6', '(PA128)']]",belongs to
+rs147255955,"[['CYP2C19', '(PA124)']]",belongs to
+rs200346442,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs200346442,"[['CYP2C19', '(PA124)']]",belongs to
+rs200150287,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs200150287,"[['CYP2C19', '(PA124)']]",belongs to
+rs749678783,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs749678783,"[['CYP2C19', '(PA124)']]",belongs to
+rs764137538,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs764137538,"[['CYP2C19', '(PA124)']]",belongs to
+rs559628884,"[['CYP2C19', '(PA124)']]",belongs to
+rs1349931378,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs1349931378,"[['CYP2C19', '(PA124)']]",belongs to
+rs1267723490,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs1267723490,"[['CYP2C19', '(PA124)']]",belongs to
+rs1463550071,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs1463550071,"[['CYP2C19', '(PA124)']]",belongs to
+rs778258371,"[['CYP2C19', '(PA124)']]",belongs to
+rs770829708,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs770829708,"[['CYP2C19', '(PA124)']]",belongs to
+rs550527959,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs550527959,"[['CYP2C19', '(PA124)']]",belongs to
+rs763625282,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs763625282,"[['CYP2C19', '(PA124)']]",belongs to
+rs17878459,"[['celecoxib', '(PA448871)'], ['fluconazole', '(PA449653)'], ['fluvoxamine', '(PA449690)']]",increased sensitivity to
+rs17878459,"[['CYP2C19', '(PA124)']]",belongs to
+rs17878459,"[['fluoxetine', '(PA449673)']]",decreased sensitivity to
+rs17878459,"[['CYP2C19', '(PA124)']]",belongs to
+rs17878459,"[['CYP2C19', '(PA124)']]",belongs to
+rs3758581,"[['fluvoxamine', '(PA449690)']]",increased sensitivity to
+rs3758581,"[['CYP2C19', '(PA124)']]",belongs to
+rs3758581,"[['CYP2C19', '(PA124)']]",belongs to
+rs2298881,"[['ERCC1', '(PA155)']]",belongs to
+rs10040363,"[['XRCC4', '(PA37423)']]",belongs to
+rs2075685,"[['XRCC4', '(PA37423)']]",belongs to
+rs12721627,"[['midazolam', '(PA450496)']]",decreased clearance of
+rs12721627,"[['CYP3A4', '(PA130)']]",belongs to
+"CYP2E1*7, CYP2E1*7A","[['CYP2E1', '(PA129)']]",belongs to
+rs12248560,"[['CYP2C19', '(PA124)']]",belongs to
+rs11545078,"[['methotrexate', '(PA450428)']]",decreased clearance of
+rs11545078,"[['GGH', '(PA432)']]",belongs to
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs2229109,"[['paclitaxel', '(PA450761)']]",decreased clearance of
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs2229109,"[['paclitaxel', '(PA450761)']]",decreased clearance of
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['paclitaxel', '(PA450761)']]",decreased clearance of
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs9282564,"[['paclitaxel', '(PA450761)']]",decreased clearance of
+rs9282564,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['paclitaxel', '(PA450761)']]",decreased clearance of
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs72552784,"[['paclitaxel', '(PA450761)']]",decreased clearance of
+rs72552784,"[['ABCB1', '(PA267)']]",belongs to
+rs10932125,"[['NRP2', '(PA31784)']]",belongs to
+rs11572103,"[['paclitaxel', '(PA450761)']]",decreased clearance of
+rs11572103,"[['CYP2C8', '(PA125)']]",belongs to
+"UGT1A1*1, UGT1A1*28","[['raloxifene', '(PA451221)']]",decreased clearance of
+"UGT1A1*1, UGT1A1*28","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*28","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A8*1a, UGT1A8*2","[['raloxifene', '(PA451221)']]",increased clearance of
+"UGT1A8*1a, UGT1A8*2","[['UGT1A8', '(PA37183)']]",belongs to
+rs188052243,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs188052243,"[['DPYD', '(PA145)']]",belongs to
+rs1335150891,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs1335150891,"[['DPYD', '(PA145)']]",belongs to
+rs56005131,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs56005131,"[['DPYD', '(PA145)']]",belongs to
+rs1801160,"[['DPYD', '(PA145)']]",belongs to
+rs59086055,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs59086055,"[['DPYD', '(PA145)']]",belongs to
+rs148994843,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs148994843,"[['DPYD', '(PA145)']]",belongs to
+rs748620513,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs748620513,"[['DPYD', '(PA145)']]",belongs to
+rs748620513,"[['DPYD', '(PA145)']]",belongs to
+rs1184321568,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs1184321568,"[['DPYD', '(PA145)']]",belongs to
+rs72549306,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs72549306,"[['DPYD', '(PA145)']]",belongs to
+rs72549306,"[['DPYD', '(PA145)']]",belongs to
+rs143879757,"[['fluorouracil', '(PA128406956)']]",decreased catalytic activity of
+rs143879757,"[['DPYD', '(PA145)']]",belongs to
+rs143879757,"[['DPYD', '(PA145)']]",belongs to
+rs1212037891,"[['DPYD', '(PA145)']]",belongs to
+rs16947,"[['dextromethorphan', '(PA449273)']]",decreased metabolism of
+rs16947,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*22, CYP2D6*26, CYP2D6*48","[['primaquine', '(PA451103)']]",increased clearance of
+"CYP2D6*1, CYP2D6*22, CYP2D6*26, CYP2D6*48","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2, CYP2D6*23, CYP2D6*24","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*14, CYP2D6*27, CYP2D6*33, CYP2D6*70, CYP2D6*9","[['primaquine', '(PA451103)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*14, CYP2D6*27, CYP2D6*33, CYP2D6*70, CYP2D6*9","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17, CYP2D6*18, CYP2D6*35, CYP2D6*39, CYP2D6*53","[['primaquine', '(PA451103)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17, CYP2D6*18, CYP2D6*35, CYP2D6*39, CYP2D6*53","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*114, CYP2D6*12, CYP2D6*25, CYP2D6*28, CYP2D6*29, CYP2D6*30, CYP2D6*31, CYP2D6*32, CYP2D6*34, CYP2D6*36, CYP2D6*37, CYP2D6*40, CYP2D6*43, CYP2D6*45, CYP2D6*46, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*52, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*61, CYP2D6*63, CYP2D6*64, CYP2D6*65, CYP2D6*7, CYP2D6*71, CYP2D6*72, CYP2D6*75","[['primaquine', '(PA451103)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*10, CYP2D6*114, CYP2D6*12, CYP2D6*25, CYP2D6*28, CYP2D6*29, CYP2D6*30, CYP2D6*31, CYP2D6*32, CYP2D6*34, CYP2D6*36, CYP2D6*37, CYP2D6*40, CYP2D6*43, CYP2D6*45, CYP2D6*46, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*52, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*61, CYP2D6*63, CYP2D6*64, CYP2D6*65, CYP2D6*7, CYP2D6*71, CYP2D6*72, CYP2D6*75","[['CYP2D6', '(PA128)']]",belongs to
+rs11861379,"[['ABCC11', '(PA24393)']]",belongs to
+rs7158782,"[['estradiol', '(PA449503)']]",increased expression of
+rs7158782,"[['TCL1A', '(PA36400)']]",belongs to
+rs7158782,"[['estradiol', '(PA449503)']]",increased expression of
+rs7158782,"[['TCL1A', '(PA36400)']]",belongs to
+rs7159713,"[['estradiol', '(PA449503)']]",increased expression of
+rs7159713,"[['TCL1A', '(PA36400)']]",belongs to
+rs7159713,"[['estradiol', '(PA449503)']]",increased expression of
+rs7159713,"[['TCL1A', '(PA36400)']]",belongs to
+rs7159713,"[['estradiol', '(PA449503)']]",increased expression of
+rs7159713,"[['TCL1A', '(PA36400)']]",belongs to
+rs11849538,"[['estradiol', '(PA449503)']]",increased expression of
+rs11849538,"[['estradiol', '(PA449503)']]",increased expression of
+rs1007888,"[['GSTT1', '(PA183)']]",belongs to
+rs36210421,"[['KCNH2', '(PA212)']]",belongs to
+rs8020368,"[['SYNE3', '(PA134931380)']]",belongs to
+rs2740574,"[['CYP3A', '(PA27114)'], ['CYP3A4', '(PA130)']]",belongs to
+rs8133052,"[['CBR3', '(PA26122)']]",belongs to
+rs1056892,"[['CBR3', '(PA26122)']]",belongs to
+rs1130169,"[['CD38', '(PA26214)']]",belongs to
+rs9450278,"[['NT5E', '(PA31804)']]",belongs to
+rs9597,"[['cisplatin', '(PA449014)'], ['irinotecan', '(PA450085)']]",increased expression of
+rs9597,"[['UBE2I', '(PA37134)']]",belongs to
+rs1143663,"[['daunorubicin', '(PA449212)'], ['doxorubicin', '(PA449412)']]",decreased catalytic activity of
+rs1143663,"[['CBR1', '(PA26121)'], ['SETD4', '(PA25814)']]",belongs to
+rs41557318,"[['daunorubicin', '(PA449212)'], ['doxorubicin', '(PA449412)']]",decreased catalytic activity of
+rs41557318,"[['CBR1', '(PA26121)'], ['SETD4', '(PA25814)']]",belongs to
+rs2835285,"[['daunorubicin', '(PA449212)'], ['doxorubicin', '(PA449412)']]",decreased catalytic activity of
+rs2835285,"[['CBR3', '(PA26122)']]",belongs to
+rs4987121,"[['doxorubicin', '(PA449412)']]",decreased catalytic activity of
+rs4987121,"[['CBR3', '(PA26122)']]",belongs to
+rs45445694,"[['tegafur', '(PA452620)']]",increased expression of
+rs45445694,"[['TYMS', '(PA359)']]",belongs to
+rs45445694,"[['TYMS', '(PA359)']]",belongs to
+rs1058930,"[['paclitaxel', '(PA450761)']]",decreased catalytic activity of
+rs1058930,"[['CYP2C8', '(PA125)']]",belongs to
+rs45445694,"[['fluorouracil', '(PA128406956)']]",increased expression of
+rs45445694,"[['TYMS', '(PA359)']]",belongs to
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs71647872,"[['methylphenidate', '(PA450464)']]",decreased catalytic activity of
+rs71647872,"[['CES1', '(PA107)']]",belongs to
+rs430397,"[['HSPA5', '(PA29504)'], ['RABEPK', '(PA142671100)']]",belongs to
+rs34241435,"[['aldosterone', '(PA164924487)'], ['insulin', 'recombinant', '(PA164744571)']]",increased transcription of
+rs34241435,"[['SCNN1B', '(PA306)']]",belongs to
+rs1902023,"[['lorazepam', '(PA450267)']]",decreased clearance of
+rs1902023,"[['UGT2B15', '(PA37188)']]",belongs to
+rs1057910,"[['losartan', '(PA450268)']]",decreased clearance of
+rs1057910,"[['CYP2C9', '(PA126)']]",belongs to
+rs1801019,"[['UMPS', '(PA363)']]",belongs to
+rs1801159,"[['fluorouracil', '(PA128406956)']]",decreased clearance of
+rs1801159,"[['DPYD', '(PA145)']]",belongs to
+rs61750900,"[['nicotine', '(PA450626)']]",decreased clearance of
+rs61750900,"[['UGT2B10', '(PA37186)']]",belongs to
+rs45511401,"[['ABCC1', '(PA244)']]",belongs to
+rs712829,"[['EGFR', '(PA7360)']]",belongs to
+rs28399499,"[['CYP2B6', '(PA123)']]",belongs to
+rs1045642,"[['ABCB1', '(PA267)']]",belongs to
+rs28399499,"[['CYP2B6', '(PA123)']]",belongs to
+rs28364072,"[['FCER2', '(PA28058)']]",belongs to
+rs56256500,"[['nicotine', '(PA450626)']]",decreased catalytic activity of
+rs56256500,"[['CYP2A6', '(PA121)']]",belongs to
+rs57098334,"[['SLC6A4', '(PA312)']]",belongs to
+rs57098334,"[['SLC6A4', '(PA312)']]",belongs to
+rs884742,"[['SLC22A3', '(PA330)']]",belongs to
+rs761142,"[['GCLC', '(PA28612)']]",belongs to
+rs34376145,"[['bumetanide', '(PA448682)']]",decreased transport of
+rs34376145,"[['SLC17A3', '(PA35822)']]",belongs to
+rs334558,"[['GSK3B', '(PA29009)']]",belongs to
+rs9024,"[['doxorubicin', '(PA449412)']]",increased catalytic activity of
+rs9024,"[['CBR1', '(PA26121)']]",belongs to
+rs9024,"[['doxorubicin', '(PA449412)']]",increased catalytic activity of
+rs9024,"[['CBR1', '(PA26121)']]",belongs to
+rs2236225,"[['MTHFD1', '(PA31236)']]",belongs to
+rs1801131,"[['methotrexate', '(PA450428)']]",increased catalytic activity of
+rs1801131,"[['MTHFR', '(PA245)']]",belongs to
+rs1801133,"[['MTHFR', '(PA245)']]",belongs to
+rs1805087,"[['MTR', '(PA31272)']]",belongs to
+rs1801394,"[['methotrexate', '(PA450428)']]",increased catalytic activity of
+rs1801394,"[['FASTKD3', '(PA145148868)'], ['MTRR', '(PA31277)']]",belongs to
+rs1979277,"[['methotrexate', '(PA450428)']]",increased catalytic activity of
+rs1979277,"[['SHMT1', '(PA35753)']]",belongs to
+rs45445694,"[['C18orf56', '(PA134956204)'], ['TYMS', '(PA359)']]",belongs to
+rs1051266,"[['SLC19A1', '(PA327)']]",belongs to
+rs1126757,"[['escitalopram', '(PA10074)']]",decreased expression of
+rs1126757,"[['IL11', '(PA29781)']]",belongs to
+rs2168047,"[['TMPRSS11E', '(PA142670729)']]",belongs to
+rs4557343,"[['UGT2B4', '(PA360)']]",belongs to
+rs2472507,"[['ABCA1', '(PA24373)']]",belongs to
+rs2515629,"[['ABCA1', '(PA24373)']]",belongs to
+rs4149297,"[['ABCA1', '(PA24373)']]",belongs to
+rs11656365,"[['ABCA8', '(PA24383)']]",belongs to
+rs2888327,"[['ABCA12', '(PA29604)']]",belongs to
+rs10182702,"[['ABCA12', '(PA29604)']]",belongs to
+rs2071543,"[['PSMB8', '(PA33890)'], ['TAP1', '(PA35021)'], ['TAP2', '(PA35022)']]",belongs to
+rs9357155,"[['PSMB8', '(PA33890)'], ['TAP2', '(PA35022)']]",belongs to
+rs4148866,"[['ABCB9', '(PA24391)']]",belongs to
+rs12425009,"[['PITPNM2', '(PA134963002)']]",belongs to
+rs4773866,"[['ABCC4', '(PA397)']]",belongs to
+rs2185631,"[['ABCC10', '(PA24392)']]",belongs to
+rs2487663,"[['ABCC10', '(PA24392)']]",belongs to
+rs9394952,"[['ABCC10', '(PA24392)']]",belongs to
+rs4898439,"[['PLXNB3', '(PA33431)']]",belongs to
+rs17091297,"[['ABCD1', '(PA24396)'], ['BCAP31', '(PA128394569)']]",belongs to
+rs4284427,"[['ABCD2', '(PA24401)']]",belongs to
+rs10783969,"[['C12orf40', '(PA143485370)']]",belongs to
+rs841698,"[['F3', '(PA158)']]",belongs to
+rs4148981,"[['SLCO1A2', '(PA328)']]",belongs to
+rs45445694,"[['fluorouracil', '(PA128406956)']]",increased expression of
+rs45445694,"[['TYMS', '(PA359)']]",belongs to
+rs532545,"[['CDA', '(PA98)']]",belongs to
+rs602950,"[['CDA', '(PA98)']]",belongs to
+rs2072671,"[['CDA', '(PA98)']]",belongs to
+rs3215400,"[['CDA', '(PA98)']]",belongs to
+rs12720461,"[['xenobiotics', '(PA452604)']]",decreased expression of
+rs12720461,"[['CYP1A2', '(PA27093)']]",belongs to
+rs71486745,"[['phenytoin', '(PA450947)']]",decreased expression of
+rs71486745,"[['CYP2C9', '(PA126)']]",belongs to
+rs12782374,"[['phenytoin', '(PA450947)']]",decreased expression of
+rs12782374,"[['CYP2C9', '(PA126)']]",belongs to
+rs12721613,"[['NR1I2', '(PA378)']]",belongs to
+rs1464603,"[['midazolam', '(PA450496)']]",increased clearance of
+rs1464603,"[['NR1I2', '(PA378)']]",belongs to
+rs1464602,"[['midazolam', '(PA450496)']]",increased clearance of
+rs1464602,"[['NR1I2', '(PA378)']]",belongs to
+rs3812718,"[['SCN1A', '(PA301)']]",belongs to
+rs1142345,"[['purine', 'analogues', '(PA452634)']]",decreased activity of
+rs1142345,"[['TPMT', '(PA356)']]",belongs to
+rs2413739,"[['purine', 'analogues', '(PA452634)']]",increased activity of
+rs2413739,"[['PACSIN2', '(PA32897)']]",belongs to
+rs10277,"[['SQSTM1', '(PA36109)']]",belongs to
+rs36210421,"[['dofetilide', '(PA449389)']]",decreased catalytic activity of
+rs36210421,"[['KCNH2', '(PA212)']]",belongs to
+rs3814055,"[['NR1I2', '(PA378)']]",belongs to
+rs1800566,"[['NQO1', '(PA31744)']]",belongs to
+rs1800566,"[['NQO1', '(PA31744)']]",belongs to
+rs2066853,"[['xenobiotics', '(PA452604)']]",increased expression of
+rs2066853,"[['AHR', '(PA24641)']]",belongs to
+rs2066853,"[['AHR', '(PA24641)']]",belongs to
+rs2066853,"[['AHR', '(PA24641)']]",belongs to
+rs2066853,"[['AHR', '(PA24641)']]",belongs to
+rs75519181,"[['omeprazole', '(PA450704)'], ['xenobiotics', '(PA452604)']]",decreased expression of
+rs75519181,"[['AHR', '(PA24641)']]",belongs to
+rs6791924,"[['SCN5A', '(PA304)']]",belongs to
+rs7626962,"[['SCN5A', '(PA304)']]",belongs to
+rs7626962,"[['SCN5A', '(PA304)']]",belongs to
+rs41313691,"[['SCN5A', '(PA304)']]",belongs to
+rs1805125,"[['SCN5A', '(PA304)']]",belongs to
+rs41315493,"[['SCN5A', '(PA304)']]",belongs to
+rs1805124,"[['SCN5A', '(PA304)']]",belongs to
+rs9923231,"[['VKORC1', '(PA133787052)']]",belongs to
+rs9923231,"[['VKORC1', '(PA133787052)']]",belongs to
+rs8175347,"[['SN-38', '(PA165110775)']]",decreased enzyme activity of
+rs8175347,"[['UGT1A1', '(PA420)']]",belongs to
+rs8175347,"[['SN-38', '(PA165110775)']]",increased enzyme activity of
+rs8175347,"[['UGT1A1', '(PA420)']]",belongs to
+rs8175347,"[['UGT1A1', '(PA420)'], ['UGT1A10', '(PA37174)'], ['UGT1A3', '(PA37178)'], ['UGT1A4', '(PA37179)'], ['UGT1A5', '(PA37180)'], ['UGT1A6', '(PA37181)'], ['UGT1A7', '(PA37182)'], ['UGT1A8', '(PA37183)'], ['UGT1A9', '(PA419)']]",belongs to
+rs8175347,"[['UGT1A1', '(PA420)'], ['UGT1A10', '(PA37174)'], ['UGT1A3', '(PA37178)'], ['UGT1A4', '(PA37179)'], ['UGT1A5', '(PA37180)'], ['UGT1A6', '(PA37181)'], ['UGT1A7', '(PA37182)'], ['UGT1A8', '(PA37183)'], ['UGT1A9', '(PA419)']]",belongs to
+rs8175347,"[['UGT1A1', '(PA420)'], ['UGT1A10', '(PA37174)'], ['UGT1A3', '(PA37178)'], ['UGT1A4', '(PA37179)'], ['UGT1A5', '(PA37180)'], ['UGT1A6', '(PA37181)'], ['UGT1A7', '(PA37182)'], ['UGT1A8', '(PA37183)'], ['UGT1A9', '(PA419)']]",belongs to
+rs3760091,"[['SULT1A1', '(PA343)']]",belongs to
+rs750155,"[['SULT1A1', '(PA343)']]",belongs to
+rs1131596,"[['SLC19A1', '(PA327)']]",belongs to
+rs5219,"[['KCNJ11', '(PA217)']]",belongs to
+rs11849538,"[['estradiol', '(PA449503)']]",increased expression of
+rs2369049,"[['estradiol', '(PA449503)']]",increased expression of
+rs71647872,"[['trandolapril', '(PA451737)']]",decreased activity of
+rs71647872,"[['CES1', '(PA107)']]",belongs to
+rs8175347,"[['UGT1A1', '(PA420)'], ['UGT1A10', '(PA37174)'], ['UGT1A3', '(PA37178)'], ['UGT1A4', '(PA37179)'], ['UGT1A5', '(PA37180)'], ['UGT1A6', '(PA37181)'], ['UGT1A7', '(PA37182)'], ['UGT1A8', '(PA37183)'], ['UGT1A9', '(PA419)']]",belongs to
+rs8175347,"[['UGT1A1', '(PA420)'], ['UGT1A10', '(PA37174)'], ['UGT1A3', '(PA37178)'], ['UGT1A4', '(PA37179)'], ['UGT1A5', '(PA37180)'], ['UGT1A6', '(PA37181)'], ['UGT1A7', '(PA37182)'], ['UGT1A8', '(PA37183)'], ['UGT1A9', '(PA419)']]",belongs to
+rs4148323,"[['SN-38', '(PA165110775)']]",decreased enzyme activity of
+rs4148323,"[['UGT1A1', '(PA420)']]",belongs to
+rs35350960,"[['SN-38', '(PA165110775)']]",decreased enzyme activity of
+rs35350960,"[['UGT1A9', '(PA419)']]",belongs to
+rs11692021,"[['SN-38', '(PA165110775)']]",decreased enzyme activity of
+rs11692021,"[['UGT1A9', '(PA419)']]",belongs to
+rs34993780,"[['SN-38', '(PA165110775)']]",decreased enzyme activity of
+rs34993780,"[['UGT1A9', '(PA419)']]",belongs to
+rs72551344,"[['SN-38', '(PA165110775)']]",decreased enzyme activity of
+rs72551344,"[['UGT1A9', '(PA419)']]",belongs to
+rs4986907,"[['CYP3A', '(PA27114)'], ['CYP3A4', '(PA130)']]",belongs to
+rs12721634,"[['CYP3A', '(PA27114)'], ['CYP3A4', '(PA130)']]",belongs to
+rs4986908,"[['CYP3A', '(PA27114)'], ['CYP3A4', '(PA130)']]",belongs to
+rs12721627,"[['CYP3A', '(PA27114)'], ['CYP3A4', '(PA130)']]",belongs to
+rs4986909,"[['CYP3A', '(PA27114)'], ['CYP3A4', '(PA130)']]",belongs to
+CYP3A4*8,"[['CYP3A4', '(PA130)']]",belongs to
+CYP3A4*11,"[['CYP3A4', '(PA130)']]",belongs to
+rs4986908,"[['CYP3A', '(PA27114)'], ['CYP3A4', '(PA130)']]",belongs to
+CYP3A4*7,"[['CYP3A4', '(PA130)']]",belongs to
+CYP3A4*9,"[['CYP3A4', '(PA130)']]",belongs to
+CYP3A4*12,"[['CYP3A4', '(PA130)']]",belongs to
+rs1057910,"[['valproic', 'acid', '(PA451846)']]",decreased enzyme activity of
+rs1057910,"[['CYP2C9', '(PA126)']]",belongs to
+rs1799853,"[['valproic', 'acid', '(PA451846)']]",decreased enzyme activity of
+rs1799853,"[['CYP2C9', '(PA126)']]",belongs to
+rs2069514,"[['CYP1A2', '(PA27093)']]",belongs to
+rs762551,"[['CYP1A2', '(PA27093)']]",belongs to
+rs35694136,"[['CYP1A2', '(PA27093)']]",belongs to
+CYP1A2*1K,"[['xenobiotics', '(PA452604)']]",decreased transcription of
+CYP1A2*1K,"[['CYP1A2', '(PA27093)']]",belongs to
+"CYP2A6*1A, CYP2A6*4A","[['CYP2A6', '(PA121)']]",belongs to
+rs8192720,"[['CYP2A6', '(PA121)']]",belongs to
+rs8192725,"[['CYP2A6', '(PA121)']]",belongs to
+rs28399433,"[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*1B1,"[['CYP2A6', '(PA121)']]",belongs to
+rs111033610,"[['tegafur', '(PA452620)']]",decreased catalytic activity of
+rs111033610,"[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*7","[['coumarin', '(PA134521193)']]",decreased catalytic activity of
+"CYP2A6*1A, CYP2A6*7","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*7","[['tegafur', '(PA452620)']]",decreased catalytic activity of
+"CYP2A6*1A, CYP2A6*7","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*7","[['nicotine', '(PA450626)']]",decreased catalytic activity of
+"CYP2A6*1A, CYP2A6*7","[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*18A,"[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*18A,"[['coumarin', '(PA134521193)']]",decreased catalytic activity of
+CYP2A6*18A,"[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*18A,"[['tegafur', '(PA452620)']]",decreased catalytic activity of
+CYP2A6*18A,"[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*19,"[['coumarin', '(PA134521193)']]",decreased catalytic activity of
+CYP2A6*19,"[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*19,"[['nicotine', '(PA450626)']]",decreased catalytic activity of
+CYP2A6*19,"[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*19,"[['tegafur', '(PA452620)']]",decreased catalytic activity of
+CYP2A6*19,"[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*4B, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*4B, CYP2A6*9A","[['coumarin', '(PA134521193)']]",decreased enzyme activity of
+"CYP2A6*4B, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*4C, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*4C, CYP2A6*9A","[['coumarin', '(PA134521193)']]",decreased enzyme activity of
+"CYP2A6*4C, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*4A, CYP2A6*9A","[['coumarin', '(PA134521193)']]",decreased enzyme activity of
+"CYP2A6*1A, CYP2A6*4A, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*4A, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*9A","[['coumarin', '(PA134521193)']]",decreased enzyme activity of
+"CYP2A6*1A, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+"NAT2*12A, NAT2*6A","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*12A, NAT2*6A","[['NAT2', '(PA18)']]",belongs to
+"NAT2*4, NAT2*7A","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*4, NAT2*7A","[['NAT2', '(PA18)']]",belongs to
+"NAT2*13A, NAT2*6A","[['sulfamethazine', '(PA451542)']]",increased catalytic activity of
+"NAT2*13A, NAT2*6A","[['NAT2', '(PA18)']]",belongs to
+"NAT2*6A, NAT2*7A","[['sulfamethazine', '(PA451542)']]",decreased catalytic activity of
+"NAT2*6A, NAT2*7A","[['NAT2', '(PA18)']]",belongs to
+"NAT2*14A, NAT2*5A","[['sulfamethazine', '(PA451542)']]",decreased catalytic activity of
+"NAT2*14A, NAT2*5A","[['NAT2', '(PA18)']]",belongs to
+"CYP2A6*1A, CYP2A6*7","[['letrozole', '(PA450196)']]",decreased catalytic activity of
+"CYP2A6*1A, CYP2A6*7","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*4A","[['letrozole', '(PA450196)']]",decreased enzyme activity of
+"CYP2A6*1A, CYP2A6*4A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*4A","[['letrozole', '(PA450196)']]",decreased catalytic activity of
+"CYP2A6*1A, CYP2A6*4A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*4A, CYP2A6*9A","[['letrozole', '(PA450196)']]",decreased catalytic activity of
+"CYP2A6*1A, CYP2A6*4A, CYP2A6*9A","[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*1B1,"[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*1B1,"[['CYP2A6', '(PA121)']]",belongs to
+rs2725263,"[['ABCG2', '(PA390)']]",belongs to
+"CYP2C19*1, CYP2C19*2","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*2","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*3","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*3","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*29","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*29","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*30","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*30","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*31","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*31","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*32","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*32","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*33","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*33","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*23","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*23","[['CYP2C19', '(PA124)']]",belongs to
+rs724710,"[['dexamethasone', '(PA449247)']]",increased sensitivity to
+rs724710,"[['BCL2L11', '(PA25305)']]",belongs to
+rs2241843,"[['dexamethasone', '(PA449247)']]",increased sensitivity to
+rs2241843,"[['BCL2L11', '(PA25305)']]",belongs to
+CYP2C19*5,"[['CYP2C19', '(PA124)']]",belongs to
+rs104894021,"[['disopyramide', '(PA449373)']]",decreased inhibition of
+rs104894021,"[['KCNH2', '(PA212)']]",belongs to
+rs104894021,"[['disopyramide', '(PA449373)']]",decreased inhibition of
+rs104894021,"[['KCNH2', '(PA212)']]",belongs to
+rs150152656,"[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+rs150152656,"[['CYP2C19', '(PA124)']]",belongs to
+"CYP2A6*12A, CYP2A6*1A","[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*1X2A,"[['CYP2A6', '(PA121)']]",belongs to
+rs1801131,"[['MTHFR', '(PA245)']]",belongs to
+rs1801133,"[['MTHFR', '(PA245)']]",belongs to
+rs3918290,"[['fluorouracil', '(PA128406956)']]",decreased clearance of
+rs3918290,"[['DPYD', '(PA145)']]",belongs to
+rs45445694,"[['TYMS', '(PA359)']]",belongs to
+rs776746,"[['CYP3A5', '(PA131)']]",belongs to
+rs4149056,"[['SLCO1B1', '(PA134865839)']]",belongs to
+rs186983396,"[['caffeine', '(PA448710)'], ['chlorocresol', '(PA166122627)']]",increased sensitivity to
+rs186983396,"[['RYR1', '(PA34896)']]",belongs to
+rs6962291,"[['TBXAS1', '(PA349)']]",belongs to
+rs6962291,"[['TBXAS1', '(PA349)']]",belongs to
+rs532545,"[['CDA', '(PA98)']]",belongs to
+rs602950,"[['CDA', '(PA98)']]",belongs to
+rs3215400,"[['CDA', '(PA98)']]",belongs to
+rs2072671,"[['CDA', '(PA98)']]",belongs to
+rs1048977,"[['CDA', '(PA98)']]",belongs to
+rs9993633,"[['DCK', '(PA137)']]",belongs to
+rs747199,"[['SLC29A1', '(PA154)']]",belongs to
+rs3813929,"[['HTR2C', '(PA194)']]",belongs to
+rs518147,"[['HTR2C', '(PA194)']]",belongs to
+rs1804645,"[['NCOA1', '(PA31470)']]",belongs to
+rs1804645,"[['tamoxifen', '(PA451581)']]",decreased activity of
+rs1804645,"[['NCOA1', '(PA31470)']]",belongs to
+rs56027330,"[['bumetanide', '(PA448682)']]",decreased transport of
+rs56027330,"[['SLC17A3', '(PA35822)']]",belongs to
+rs9332239,"[['tolbutamide', '(PA451718)']]",decreased catalytic activity of
+rs9332239,"[['CYP2C9', '(PA126)']]",belongs to
+rs8187710,"[['calcein', '(PA132595336)'], ['lopinavir', '(PA450264)']]",decreased transport of
+rs8187710,"[['ABCC2', '(PA116)']]",belongs to
+rs12721226,"[['losartan', '(PA450268)']]",decreased affinity to
+rs12721226,"[['AGTR1', '(PA43)']]",belongs to
+rs41291556,"[['CYP2C19', '(PA124)']]",belongs to
+rs5273,"[['PTGS2', '(PA293)']]",belongs to
+rs5273,"[['nimesulide', '(PA137179528)']]",increased enzyme activity of
+rs5273,"[['PTGS2', '(PA293)']]",belongs to
+rs3218622,"[['PTGS2', '(PA293)']]",belongs to
+rs1801159,"[['DPYD', '(PA145)']]",belongs to
+rs5272,"[['nimesulide', '(PA137179528)']]",increased enzyme activity of
+rs5272,"[['PTGS2', '(PA293)']]",belongs to
+rs3218625,"[['PTGS2', '(PA293)']]",belongs to
+rs2286455,"[['PROM1', '(PA33807)']]",belongs to
+rs17376848,"[['DPYD', '(PA145)']]",belongs to
+rs5272,"[['PTGS2', '(PA293)']]",belongs to
+rs7439366,"[['UGT2B7', '(PA361)']]",belongs to
+rs7439366,"[['UGT2B7', '(PA361)']]",belongs to
+rs7439366,"[['UGT2B7', '(PA361)']]",belongs to
+rs555754,"[['SLC22A3', '(PA330)']]",belongs to
+rs1801266,"[['DPYD', '(PA145)']]",belongs to
+DPYD*4,"[['DPYD', '(PA145)']]",belongs to
+rs8087522,"[['MC4R', '(PA30676)']]",belongs to
+rs67376798,"[['DPYD', '(PA145)']]",belongs to
+rs2297595,"[['DPYD', '(PA145)']]",belongs to
+rs7297610,"[['YEATS4', '(PA134992686)']]",belongs to
+rs7297610,"[['hydrochlorothiazide', '(PA449899)']]",decreased expression of
+rs7297610,"[['YEATS4', '(PA134992686)']]",belongs to
+rs7439366,"[['flurbiprofen', '(PA449683)']]",decreased enzyme activity of
+rs7439366,"[['UGT2B7', '(PA361)']]",belongs to
+rs368505753,"[['ivacaftor', '(PA165950341)']]",activity of
+rs368505753,"[['CFTR', '(PA109)']]",belongs to
+rs5219,"[['glibenclamide', '(PA449782)']]",decreased activity of
+rs5219,"[['KCNJ11', '(PA217)']]",belongs to
+rs727504129,"[['RYR1', '(PA34896)']]",belongs to
+rs121918596,"[['chlorocresol', '(PA166122627)']]",increased sensitivity to
+rs121918596,"[['RYR1', '(PA34896)']]",belongs to
+rs7902257,"[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C9*1, CYP2C9*2","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*3","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*3","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*8","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*8","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*11","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*13","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*13","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*14","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*14","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*16","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*16","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*19","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*19","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*23","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*27","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*27","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*29","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*31","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*31","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*33","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*33","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*34","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*36","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*36","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*37","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*37","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*38","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*39","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*39","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*40","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*40","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*41","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*41","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*42","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*42","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*43","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*43","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*44","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*45","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*45","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*46","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*47","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*47","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*48","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*49","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*49","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*50","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*50","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*51","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*51","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*52","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*52","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*53","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*53","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*54","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*54","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*55","[['phenytoin', '(PA450947)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*55","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*56","[['phenytoin', '(PA450947)']]",increased clearance of
+"CYP2C9*1, CYP2C9*56","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2B6*1, CYP2B6*30","[['bupropion', '(PA448687)']]",decreased activity of
+"CYP2B6*1, CYP2B6*30","[['CYP2B6', '(PA123)']]",belongs to
+rs8175347,"[['UGT1A1', '(PA420)']]",belongs to
+rs11568634,"[['adefovir', 'dipivoxil', '(PA10005)']]",decreased uptake of
+rs11568634,"[['SLC22A6', '(PA388)']]",belongs to
+"CYP3A4*1, CYP3A4*1G","[['fentanyl', '(PA449599)']]",decreased metabolism of
+"CYP3A4*1, CYP3A4*1G","[['CYP3A4', '(PA130)']]",belongs to
+rs1799971,"[['buprenorphine', '(PA448685)']]",decreased activity of
+rs1799971,"[['OPRM1', '(PA31945)']]",belongs to
+rs7439366,"[['diclofenac', 'acyl', 'glucuronide', '(PA166163692)']]",decreased formation of
+rs7439366,"[['UGT2B7', '(PA361)']]",belongs to
+"CYP2C8*1A, CYP2C8*4","[['diclofenac', 'acyl', 'glucuronide', '(PA166163692)']]",decreased metabolism of
+"CYP2C8*1A, CYP2C8*4","[['CYP2C8', '(PA125)']]",belongs to
+"CYP2C19*1, CYP2C19*18, CYP2C19*30, CYP2C19*31, CYP2C19*32, CYP2C19*33, CYP2C19*6","[['nebivolol', '(PA151958426)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*18, CYP2C19*30, CYP2C19*31, CYP2C19*32, CYP2C19*33, CYP2C19*6","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*29","[['CYP2C19', '(PA124)']]",belongs to
+rs747199,"[['SLC29A1', '(PA154)']]",belongs to
+rs747199,"[['SLC29A1', '(PA154)']]",belongs to
+rs70914,"[['SLC29A1', '(PA154)']]",belongs to
+rs70914,"[['SLC29A1', '(PA154)']]",belongs to
+rs731780,"[['SLC29A1', '(PA154)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*2, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+rs6817882,"[['UGT2B17', '(PA37189)']]",belongs to
+rs1142345,"[['TPMT', '(PA356)']]",belongs to
+rs1800460,"[['TPMT', '(PA356)']]",belongs to
+"TPMT*2, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*5","[['rosuvastatin', '(PA134308647)']]",decreased uptake of
+"SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*5","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*9","[['rosuvastatin', '(PA134308647)']]",decreased uptake of
+"SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*9","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*15, SLCO1B1*1A, SLCO1B1*1B","[['rosuvastatin', '(PA134308647)']]",decreased uptake of
+"SLCO1B1*15, SLCO1B1*1A, SLCO1B1*1B","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*18, SLCO1B1*1A, SLCO1B1*1B","[['rosuvastatin', '(PA134308647)']]",decreased uptake of
+"SLCO1B1*18, SLCO1B1*1A, SLCO1B1*1B","[['SLCO1B1', '(PA134865839)']]",belongs to
+"TPMT*1, TPMT*2","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+"CYP3A5*1A, CYP3A5*3A","[['CYP3A5', '(PA131)']]",belongs to
+"TPMT*1, TPMT*1S, TPMT*3A, TPMT*3C, TPMT*7","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*1S, TPMT*3A, TPMT*3C, TPMT*7","[['TPMT', '(PA356)']]",belongs to
+rs55948420,"[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*26","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*26","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*26","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*26","[['CYP2C19', '(PA124)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*5","[['atrasentan', '(PA143414738)']]",decreased transport of
+"SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*5","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*9","[['atrasentan', '(PA143414738)']]",decreased transport of
+"SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*9","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*15, SLCO1B1*1A, SLCO1B1*1B","[['atrasentan', '(PA143414738)']]",decreased transport of
+"SLCO1B1*15, SLCO1B1*1A, SLCO1B1*1B","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*18, SLCO1B1*1A, SLCO1B1*1B","[['atrasentan', '(PA143414738)']]",decreased transport of
+"SLCO1B1*18, SLCO1B1*1A, SLCO1B1*1B","[['SLCO1B1', '(PA134865839)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*4","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*4","[['TPMT', '(PA356)']]",belongs to
+CYP2D6*70,"[['CYP2D6', '(PA128)']]",belongs to
+"TPMT*1, TPMT*9","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*9","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['mephenytoin', '(PA450373)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*2","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*3","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*5","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*6","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*9","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*12, SLCO1B1*1A","[['conjugated', 'estrogens', '(PA164754789)']]",decreased uptake of
+"SLCO1B1*12, SLCO1B1*1A","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*13, SLCO1B1*1A","[['conjugated', 'estrogens', '(PA164754789)']]",decreased uptake of
+"SLCO1B1*13, SLCO1B1*1A","[['SLCO1B1', '(PA134865839)']]",belongs to
+SLC6A4 HTTLPR long form (L allele),"[['berberine', '(PA165860812)']]",increased transcription of
+SLC6A4 HTTLPR long form (L allele),"[['SLC6A4', '(PA312)']]",belongs to
+SLC6A4 HTTLPR long form (L allele),"[['evodiamine', '(PA165860788)']]",increased transcription of
+SLC6A4 HTTLPR long form (L allele),"[['SLC6A4', '(PA312)']]",belongs to
+TPMT*1,"[['mercaptopurine', '(PA450379)']]",increased activity of
+TPMT*1,"[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*1S, TPMT*3A, TPMT*3D","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*1S","[['TPMT', '(PA356)']]",belongs to
+rs1142345,"[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+rs1142345,"[['TPMT', '(PA356)']]",belongs to
+rs2842949,"[['TPMT', '(PA356)']]",belongs to
+rs2842934,"[['TPMT', '(PA356)']]",belongs to
+rs1800460,"[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+rs1800460,"[['TPMT', '(PA356)']]",belongs to
+rs12201199,"[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+rs12201199,"[['TPMT', '(PA356)']]",belongs to
+rs2518463,"[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+rs17839843,"[['mercaptopurine', '(PA450379)']]",increased enzyme activity of
+rs17839843,"[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*12","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*12","[['TPMT', '(PA356)']]",belongs to
+rs3931660,"[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+rs3931660,"[['TPMT', '(PA356)']]",belongs to
+rs12529220,"[['TPMT', '(PA356)']]",belongs to
+rs4449636,"[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+rs2108622,"[['vitamin', 'e', '(PA451900)']]",increased steady-state level of
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs3093105,"[['CYP4F2', '(PA27121)']]",belongs to
+rs2108622,"[['vitamin', 'e', '(PA451900)']]",increased steady-state level of
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs2072671,"[['CDA', '(PA98)']]",belongs to
+rs1048977,"[['CDA', '(PA98)']]",belongs to
+rs2306744,"[['DCK', '(PA137)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP3A5*1A, CYP3A5*3A","[['CYP3A5', '(PA131)']]",belongs to
+rs193922803,"[['chlorocresol', '(PA166122627)']]",increased activity of
+rs193922803,"[['RYR1', '(PA34896)']]",belongs to
+TPMT*26,"[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+TPMT*26,"[['TPMT', '(PA356)']]",belongs to
+"TPMT*1S, TPMT*27","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1S, TPMT*27","[['TPMT', '(PA356)']]",belongs to
+TPMT*31,"[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+TPMT*31,"[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['omeprazole', '(PA450704)']]",decreased affinity to
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['omeprazole', '(PA450704)']]",increased catalytic activity of
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+TPMT*3A,"[['mercaptopurine', '(PA450379)']]",decreased activity of
+TPMT*3A,"[['TPMT', '(PA356)']]",belongs to
+rs478437,"[['tamoxifen', '(PA451581)']]",increased sensitivity to
+rs310786,"[['tamoxifen', '(PA451581)']]",increased sensitivity to
+rs310786,"[['E2F7', '(PA134894421)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3B","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*3B","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs1060463,"[['CYP4F11', '(PA27120)']]",belongs to
+CYP2A6*16,"[['CYP2A6', '(PA121)']]",belongs to
+CYP2A6*22,"[['methoxsalen', '(PA450433)']]",decreased enzyme activity of
+CYP2A6*22,"[['CYP2A6', '(PA121)']]",belongs to
+rs80143932,"[['DCK', '(PA137)']]",belongs to
+rs2011425,"[['UGT1A4', '(PA37179)']]",belongs to
+rs6755571,"[['UGT1A4', '(PA37179)']]",belongs to
+rs2108622,"[['vitamin', 'e', '(PA451900)']]",decreased enzyme activity of
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs3093105,"[['vitamin', 'e', '(PA451900)']]",increased catalytic activity of
+rs3093105,"[['CYP4F2', '(PA27121)']]",belongs to
+"TPMT*1, TPMT*37","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*37","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*21","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*21","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*9","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*9","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*34","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*34","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*33","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*33","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*20","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*20","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*8","[['mercaptopurine', '(PA450379)']]",increased expression of
+"TPMT*1, TPMT*8","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3B","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3B","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*5","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*5","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*6","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*6","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*9","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*9","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*10","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*10","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*12","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*12","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*19","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*19","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*23","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*23","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*14","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*14","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*22","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*22","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*21","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*21","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*18","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*18","[['TPMT', '(PA356)']]",belongs to
+"TPMT*28, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*13","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*13","[['fluconazole', '(PA449653)'], ['fluvoxamine', '(PA449690)']]",increased sensitivity to
+"CYP2C19*1, CYP2C19*13","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*13","[['sertraline', '(PA451333)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*13","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*14","[['celecoxib', '(PA448871)'], ['fluconazole', '(PA449653)']]",increased sensitivity to
+"CYP2C19*1, CYP2C19*14","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*14","[['fluoxetine', '(PA449673)'], ['sertraline', '(PA451333)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*14","[['CYP2C19', '(PA124)']]",belongs to
+CYP2A6*15,"[['methoxsalen', '(PA450433)']]",decreased enzyme activity of
+CYP2A6*15,"[['CYP2A6', '(PA121)']]",belongs to
+"TPMT*1, TPMT*3A","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*17","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*17","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*18","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*18","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*9","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*9","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*16","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*16","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3B","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*32","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*32","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['omeprazole', '(PA450704)']]",increased activity of
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"TPMT*1, TPMT*2","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*1B","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*14, SLCO1B1*1A","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*35","[['SLCO1B1', '(PA134865839)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*8","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*8","[['TPMT', '(PA356)']]",belongs to
+CYP2A6*21,"[['methoxsalen', '(PA450433)']]",decreased enzyme activity of
+CYP2A6*21,"[['CYP2A6', '(PA121)']]",belongs to
+"TPMT*1, TPMT*3B, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3B, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3B, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*3B, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*19","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*19","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*16","[['thioguanine', '(PA451663)']]",decreased clearance of
+"TPMT*1, TPMT*16","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*16","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*16","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*20, TPMT*21, TPMT*22","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*20, TPMT*21, TPMT*22","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['mephenytoin', '(PA450373)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+rs1045642,"[['ABCB1', '(PA267)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*3D, TPMT*5, TPMT*6","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*3D, TPMT*5, TPMT*6","[['TPMT', '(PA356)']]",belongs to
+"TPMT*2, TPMT*3A, TPMT*3C, TPMT*4","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*2, TPMT*3A, TPMT*3C, TPMT*4","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*14","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*15","[['fluvoxamine', '(PA449690)'], ['omeprazole', '(PA450704)']]",increased sensitivity to
+"CYP2C19*1, CYP2C19*15","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*15","[['fluoxetine', '(PA449673)'], ['tranylcypromine', '(PA451741)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*15","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*15","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*16","[['celecoxib', '(PA448871)'], ['fluoxetine', '(PA449673)'], ['ketoconazole', '(PA450146)'], ['sertraline', '(PA451333)'], ['ticlopidine', '(PA451686)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*16","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*16","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['fluvoxamine', '(PA449690)'], ['omeprazole', '(PA450704)']]",increased sensitivity to
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['celecoxib', '(PA448871)'], ['fluoxetine', '(PA449673)'], ['ketoconazole', '(PA450146)'], ['ticlopidine', '(PA451686)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['fluoxetine', '(PA449673)'], ['fluvoxamine', '(PA449690)'], ['ketoconazole', '(PA450146)'], ['omeprazole', '(PA450704)'], ['sertraline', '(PA451333)'], ['ticlopidine', '(PA451686)'], ['tranylcypromine', '(PA451741)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['celecoxib', '(PA448871)']]",increased sensitivity to
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"TPMT*1, TPMT*2","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3B","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3B","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*5","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*5","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*6","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*6","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*8","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*8","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*10","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*10","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*11","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*11","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*12","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*12","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*13","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*13","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*7","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*9","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*11, TPMT*3A","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*11, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*14, TPMT*15, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*14, TPMT*15, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*8","[['fluconazole', '(PA449653)'], ['fluoxetine', '(PA449673)'], ['fluvoxamine', '(PA449690)'], ['ketoconazole', '(PA450146)'], ['omeprazole', '(PA450704)'], ['sertraline', '(PA451333)'], ['ticlopidine', '(PA451686)'], ['tranylcypromine', '(PA451741)'], ['troglitazone', '(PA451799)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*8","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*8","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*9","[['celecoxib', '(PA448871)'], ['fluoxetine', '(PA449673)'], ['ketoconazole', '(PA450146)'], ['sertraline', '(PA451333)'], ['troglitazone', '(PA451799)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*9","[['fluconazole', '(PA449653)'], ['fluvoxamine', '(PA449690)']]",increased sensitivity to
+"CYP2C19*1, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['fluoxetine', '(PA449673)']]",decreased sensitivity to
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*11","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*11","[['fluconazole', '(PA449653)'], ['fluvoxamine', '(PA449690)'], ['sertraline', '(PA451333)']]",increased sensitivity to
+"CYP2C19*1, CYP2C19*11","[['CYP2C19', '(PA124)']]",belongs to
+rs4124874,"[['UGT1A1', '(PA420)']]",belongs to
+"TPMT*1, TPMT*2","[['mercaptopurine', '(PA450379)']]",decreased expression of
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased expression of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*5","[['mercaptopurine', '(PA450379)']]",decreased expression of
+"TPMT*1, TPMT*5","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*12","[['mercaptopurine', '(PA450379)']]",decreased expression of
+"TPMT*1, TPMT*12","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*14","[['mercaptopurine', '(PA450379)']]",decreased expression of
+"TPMT*1, TPMT*14","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*22","[['mercaptopurine', '(PA450379)']]",decreased expression of
+"TPMT*1, TPMT*22","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*30","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*30","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*17","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*17","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*7","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*7","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2","[['thioguanine', '(PA451663)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*18","[['mercaptopurine', '(PA450379)']]",decreased expression of
+"TPMT*1, TPMT*18","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['clopidogrel', '(PA449053)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['omeprazole', '(PA450704)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['mephenytoin', '(PA450373)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10, CYP2C19*16, CYP2C19*19, CYP2C19*8, CYP2C19*9","[['3-cyano-7-ethoxycoumarin', '(PA166123047)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*10, CYP2C19*16, CYP2C19*19, CYP2C19*8, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10, CYP2C19*8","[['3-cyano-7-ethoxycoumarin', '(PA166123047)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*10, CYP2C19*8","[['CYP2C19', '(PA124)']]",belongs to
+rs2032582,"[['ABCB1', '(PA267)']]",belongs to
+rs3806598,"[['SN-38', '(PA165110775)']]",increased clearance of
+rs3806598,"[['UGT1A9', '(PA419)']]",belongs to
+rs3806598,"[['UGT1A9', '(PA419)']]",belongs to
+rs3806598,"[['UGT1A9', '(PA419)']]",belongs to
+rs2741049,"[['SN-38', '(PA165110775)']]",increased clearance of
+rs2741049,"[['UGT1A9', '(PA419)']]",belongs to
+rs2741049,"[['UGT1A9', '(PA419)']]",belongs to
+rs2741049,"[['UGT1A9', '(PA419)']]",belongs to
+"UGT1A1*1, UGT1A1*60","[['SN-38', '(PA165110775)']]",decreased clearance of
+"UGT1A1*1, UGT1A1*60","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*60","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*60","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*91","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*91","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*91","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*6, UGT1A1*60","[['SN-38', '(PA165110775)']]",decreased clearance of
+"UGT1A1*1, UGT1A1*6, UGT1A1*60","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*6, UGT1A1*60","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A1*1, UGT1A1*6, UGT1A1*60","[['UGT1A1', '(PA420)']]",belongs to
+"UGT1A9*1a, UGT1A9*1b","[['UGT1A9', '(PA419)']]",belongs to
+"UGT1A9*1a, UGT1A9*1b","[['UGT1A9', '(PA419)']]",belongs to
+"UGT1A9*1a, UGT1A9*1b","[['SN-38', '(PA165110775)']]",increased clearance of
+"UGT1A9*1a, UGT1A9*1b","[['UGT1A9', '(PA419)']]",belongs to
+rs3732219,"[['UGT1A4', '(PA37179)']]",belongs to
+rs8330,"[['tamoxifen', '(PA451581)']]",decreased activity of
+rs8330,"[['UGT1A4', '(PA37179)']]",belongs to
+rs2231142,"[['ABCG2', '(PA390)']]",belongs to
+"TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",enzyme activity of
+"TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+rs145119820,"[['CYP2C19', '(PA124)']]",belongs to
+rs141011391,"[['CYP2C9', '(PA126)']]",belongs to
+CYP2C19*22,"[['CYP2C19', '(PA124)']]",belongs to
+CYP2C9*31,"[['CYP2C9', '(PA126)']]",belongs to
+CYP2C9*32,"[['CYP2C9', '(PA126)']]",belongs to
+CYP2C9*9,"[['CYP2C9', '(PA126)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*23, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*23, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*7","[['thioguanine', '(PA451663)']]",decreased clearance of
+"TPMT*1, TPMT*7","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*12","[['thioguanine', '(PA451663)']]",decreased clearance of
+"TPMT*1, TPMT*12","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*10","[['thioguanine', '(PA451663)']]",decreased clearance of
+"TPMT*1, TPMT*10","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*13","[['thioguanine', '(PA451663)']]",decreased clearance of
+"TPMT*1, TPMT*13","[['TPMT', '(PA356)']]",belongs to
+rs7867504,"[['gemcitabine', 'triphosphate', 'ditriethylamine', '(PA166122506)']]",increased formation of
+rs7867504,"[['SLC28A3', '(PA426)']]",belongs to
+"CYP2C19*1, CYP2C19*10, CYP2C19*14, CYP2C19*19, CYP2C19*23, CYP2C19*25, CYP2C19*26","[['clopidogrel', '(PA449053)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*10, CYP2C19*14, CYP2C19*19, CYP2C19*23, CYP2C19*25, CYP2C19*26","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*23","[['mephenytoin', '(PA450373)']]",increased clearance of
+"CYP2C19*1, CYP2C19*23","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10, CYP2C19*14, CYP2C19*19, CYP2C19*25, CYP2C19*26","[['mephenytoin', '(PA450373)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*10, CYP2C19*14, CYP2C19*19, CYP2C19*25, CYP2C19*26","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10, CYP2C19*14, CYP2C19*19, CYP2C19*25, CYP2C19*26","[['mephenytoin', '(PA450373)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*10, CYP2C19*14, CYP2C19*19, CYP2C19*25, CYP2C19*26","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*11, CYP2C19*13, CYP2C19*15, CYP2C19*18, CYP2C19*28","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*23","[['mephenytoin', '(PA450373)']]",increased catalytic activity of
+"CYP2C19*1, CYP2C19*23","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*11, CYP2C19*13, CYP2C19*15, CYP2C19*18, CYP2C19*28","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*11, CYP2C19*13, CYP2C19*15, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*28","[['clopidogrel', '(PA449053)']]",increased clearance of
+"CYP2C19*1, CYP2C19*28","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*18, CYP2C19*19, CYP2C19*23, CYP2C19*25, CYP2C19*26","[['clopidogrel', '(PA449053)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*10, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*18, CYP2C19*19, CYP2C19*23, CYP2C19*25, CYP2C19*26","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*28","[['clopidogrel', '(PA449053)']]",increased catalytic activity of
+"CYP2C19*1, CYP2C19*28","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*11","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*28","[['CYP2C19', '(PA124)']]",belongs to
+rs55948420,"[['CYP2C19', '(PA124)']]",belongs to
+CYP2C19*12,"[['CYP2C19', '(PA124)']]",belongs to
+"TPMT*1, TPMT*1A, TPMT*1S","[['mercaptopurine', '(PA450379)']]",enzyme activity of
+"TPMT*1, TPMT*1A, TPMT*1S","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",increased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*9","[['mephenytoin', '(PA450373)']]",decreased activity of
+"CYP2C19*1, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*13","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['mephenytoin', '(PA450373)']]",decreased activity of
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*11","[['CYP2C19', '(PA124)']]",belongs to
+"TPMT*1, TPMT*2","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+rs45445694,"[['TYMS', '(PA359)']]",belongs to
+"TPMT*1, TPMT*2","[['TPMT', '(PA356)']]",belongs to
+rs10929302,"[['UGT1A1', '(PA420)']]",belongs to
+rs4124874,"[['UGT1A1', '(PA420)']]",belongs to
+rs1976391,"[['oxazepam', '(PA450731)']]",decreased glucuronidation of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*4","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*3A, TPMT*4","[['TPMT', '(PA356)']]",belongs to
+rs1902023,"[['oxazepam', '(PA450731)']]",decreased glucuronidation of
+rs1902023,"[['UGT2B15', '(PA37188)']]",belongs to
+rs8175347,"[['UGT1A1', '(PA420)']]",belongs to
+rs887829,"[['oxazepam', '(PA450731)']]",decreased glucuronidation of
+rs887829,"[['UGT1A1', '(PA420)']]",belongs to
+rs10929302,"[['oxazepam', '(PA450731)']]",decreased glucuronidation of
+rs10929302,"[['UGT1A1', '(PA420)']]",belongs to
+rs4124874,"[['oxazepam', '(PA450731)']]",glucuronidation of
+rs4124874,"[['UGT1A1', '(PA420)']]",belongs to
+"TPMT*1, TPMT*3A","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*25","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*25","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*9","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*9","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*24","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*24","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*21","[['mercaptopurine', '(PA450379)']]",decreased activity of
+"TPMT*1, TPMT*21","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['mercaptopurine', '(PA450379)']]",decreased enzyme activity of
+"TPMT*1, TPMT*2, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+rs7438135,"[['buprenorphine', '(PA448685)']]",increased glucuronidation of
+rs7438135,"[['UGT2B7', '(PA361)']]",belongs to
+rs2229109,"[['amisulpride', '(PA162565877)'], ['aripiprazole', '(PA10026)'], ['olanzapine', '(PA450688)'], ['risperidone', '(PA451257)']]",decreased transport of
+rs2229109,"[['ABCB1', '(PA267)']]",belongs to
+rs121908753,"[['ivacaftor', '(PA165950341)']]",activity of
+rs121908753,"[['CFTR', '(PA109)']]",belongs to
+rs1800111,"[['ivacaftor', '(PA165950341)']]",activity of
+rs1800111,"[['CFTR', '(PA109)']]",belongs to
+rs186045772,"[['ivacaftor', '(PA165950341)']]",activity of
+rs186045772,"[['CFTR', '(PA109)']]",belongs to
+rs9923231,"[['VKORC1', '(PA133787052)']]",belongs to
+rs1057910,"[['CYP2C9', '(PA126)']]",belongs to
+rs1799853,"[['CYP2C9', '(PA126)']]",belongs to
+rs121909047,"[['ivacaftor', '(PA165950341)']]",activity of
+rs121909047,"[['CFTR', '(PA109)']]",belongs to
+"TPMT*1, TPMT*3C","[['mercaptopurine', '(PA450379)']]",increased enzyme activity of
+"TPMT*1, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+rs16947,"[['CYP2D6', '(PA128)']]",belongs to
+rs5758550,"[['WBP2NL', '(PA145147710)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*53","[['n-desmethyltamoxifen', '(PA166127651)']]",increased clearance of
+"CYP2D6*1, CYP2D6*53","[['CYP2D6', '(PA128)']]",belongs to
+CYP2D6*7,"[['bufuralol', '(PA166110256)']]",decreased catalytic activity of
+CYP2D6*7,"[['CYP2D6', '(PA128)']]",belongs to
+rs104893684,"[['BCHE', '(PA25294)']]",belongs to
+rs11568626,"[['SLC22A6', '(PA388)']]",belongs to
+rs2868177,"[['bupropion', '(PA448687)']]",increased activity of
+rs2868177,"[['POR', '(PA33532)']]",belongs to
+rs118192161,"[['RYR1', '(PA34896)']]",belongs to
+rs118192161,"[['RYR1', '(PA34896)']]",belongs to
+rs118192161,"[['RYR1', '(PA34896)']]",belongs to
+rs4803217,"[['IFNL3', '(PA134952671)']]",belongs to
+rs2076828,"[['SLC22A3', '(PA330)']]",belongs to
+rs1800629,"[['TNF', '(PA435)']]",belongs to
+rs1800629,"[['TNF', '(PA435)']]",belongs to
+"CYP2C9*1, CYP2C9*59","[['diclofenac', '(PA449293)'], ['losartan', '(PA450268)'], ['tolbutamide', '(PA451718)']]",decreased enzyme activity of
+"CYP2C9*1, CYP2C9*59","[['CYP2C9', '(PA126)']]",belongs to
+"DPYD*2A, DPYD*7","[['DPYD', '(PA145)']]",belongs to
+DPYD*10,"[['DPYD', '(PA145)']]",belongs to
+DPYD*9A,"[['DPYD', '(PA145)']]",belongs to
+rs1801267,"[['DPYD', '(PA145)']]",belongs to
+DPYD*8,"[['DPYD', '(PA145)']]",belongs to
+rs763625282,"[['voriconazole', '(PA10233)']]",decreased clearance of
+rs763625282,"[['CYP2C19', '(PA124)']]",belongs to
+rs3758581,"[['voriconazole', '(PA10233)']]",decreased clearance of
+rs3758581,"[['CYP2C19', '(PA124)']]",belongs to
+rs193922802,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs193922802,"[['RYR1', '(PA34896)']]",belongs to
+rs118192178,"[['caffeine', '(PA448710)'], ['chlorocresol', '(PA166122627)']]",increased sensitivity to
+rs118192178,"[['RYR1', '(PA34896)']]",belongs to
+rs118192176,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs118192176,"[['RYR1', '(PA34896)']]",belongs to
+"CYP2D6*1, CYP2D6*92","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*92, CYP2D6*96","[['bufuralol', '(PA166110256)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*92, CYP2D6*96","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2, CYP2D6*25, CYP2D6*26, CYP2D6*28, CYP2D6*32, CYP2D6*43, CYP2D6*45, CYP2D6*70, CYP2D6*9","[['n-desmethyltamoxifen', '(PA166127651)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*2, CYP2D6*25, CYP2D6*26, CYP2D6*28, CYP2D6*32, CYP2D6*43, CYP2D6*45, CYP2D6*70, CYP2D6*9","[['CYP2D6', '(PA128)']]",belongs to
+rs28371725,"[['CYP2D6', '(PA128)']]",belongs to
+rs118192167,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs118192167,"[['RYR1', '(PA34896)']]",belongs to
+rs118192167,"[['calcium', '(PA164712582)']]",increased steady-state level of
+rs118192167,"[['RYR1', '(PA34896)']]",belongs to
+CYP2D6 poor metabolizers,"[['doxepin', '(PA449409)']]",decreased metabolism of
+CYP2D6 poor metabolizers,"[['CYP2D6', '(PA128)']]",belongs to
+rs193922818,"[['caffeine', '(PA448710)'], ['chlorocresol', '(PA166122627)']]",increased sensitivity to
+rs193922818,"[['RYR1', '(PA34896)']]",belongs to
+rs118192178,"[['caffeine', '(PA448710)'], ['chlorocresol', '(PA166122627)']]",increased sensitivity to
+rs118192178,"[['RYR1', '(PA34896)']]",belongs to
+rs35599367,"[['CYP3A4', '(PA130)']]",belongs to
+rs12817819,"[['ATP2B1', '(PA25107)']]",belongs to
+rs118204423,"[['caffeine', '(PA448710)'], ['chlorocresol', '(PA166122627)'], ['halothane', '(PA449845)']]",increased sensitivity to
+rs118204423,"[['RYR1', '(PA34896)']]",belongs to
+rs121918594,"[['caffeine', '(PA448710)'], ['chlorocresol', '(PA166122627)'], ['halothane', '(PA449845)']]",increased sensitivity to
+rs121918594,"[['RYR1', '(PA34896)']]",belongs to
+rs193922878,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs193922878,"[['RYR1', '(PA34896)']]",belongs to
+rs118192161,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs118192161,"[['RYR1', '(PA34896)']]",belongs to
+rs368234815,"[['IFNL4', '(PA166049147)']]",belongs to
+CYP2D6 poor metabolizers,"[['atomoxetine', '(PA134688071)']]",decreased clearance of
+CYP2D6 poor metabolizers,"[['CYP2D6', '(PA128)']]",belongs to
+rs4386686,"[['endoxifen', '(PA166124478)']]",increased sensitivity to
+"CYP2D6*1, CYP2D6*89, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*95, CYP2D6*97","[['atomoxetine', '(PA134688071)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*95, CYP2D6*97","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*94","[['atomoxetine', '(PA134688071)']]",increased clearance of
+"CYP2D6*1, CYP2D6*94","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['bufuralol', '(PA166110256)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+rs193922753,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs193922753,"[['RYR1', '(PA34896)']]",belongs to
+rs193922809,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs193922809,"[['RYR1', '(PA34896)']]",belongs to
+rs193922816,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs193922816,"[['RYR1', '(PA34896)']]",belongs to
+rs118192122,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs118192122,"[['RYR1', '(PA34896)']]",belongs to
+rs118192167,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs118192167,"[['RYR1', '(PA34896)']]",belongs to
+rs193922747,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",increased sensitivity to
+rs193922747,"[['RYR1', '(PA34896)']]",belongs to
+rs118192161,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",increased sensitivity to
+rs118192161,"[['RYR1', '(PA34896)']]",belongs to
+rs121918592,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",increased sensitivity to
+rs121918592,"[['RYR1', '(PA34896)']]",belongs to
+rs193922770,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",increased sensitivity to
+rs193922770,"[['RYR1', '(PA34896)']]",belongs to
+rs118192172,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",increased sensitivity to
+rs118192172,"[['RYR1', '(PA34896)']]",belongs to
+rs193922772,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",increased sensitivity to
+rs193922772,"[['RYR1', '(PA34896)']]",belongs to
+rs28933397,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs28933397,"[['RYR1', '(PA34896)']]",belongs to
+rs118192177,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs118192177,"[['RYR1', '(PA34896)']]",belongs to
+rs118192176,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs118192176,"[['RYR1', '(PA34896)']]",belongs to
+rs118192175,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs118192175,"[['RYR1', '(PA34896)']]",belongs to
+rs193922772,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs193922772,"[['RYR1', '(PA34896)']]",belongs to
+rs118192172,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs118192172,"[['RYR1', '(PA34896)']]",belongs to
+rs193922770,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs193922770,"[['RYR1', '(PA34896)']]",belongs to
+rs121918592,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs121918592,"[['RYR1', '(PA34896)']]",belongs to
+rs118192161,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs118192161,"[['RYR1', '(PA34896)']]",belongs to
+rs193922747,"[['caffeine', '(PA448710)'], ['halothane', '(PA449845)']]",sensitivity to
+rs193922747,"[['RYR1', '(PA34896)']]",belongs to
+rs7311358,"[['paclitaxel', '(PA450761)']]",decreased transport of
+rs7311358,"[['SLCO1B3', '(PA35844)']]",belongs to
+ADH1B,"[['ethanol', '(PA448073)']]",increased enzyme activity of
+ADH1B,"[['ADH1B', '(PA24571)']]",belongs to
+"CYP2C19*1, CYP2C19*8","[['mephenytoin', '(PA450373)'], ['tolbutamide', '(PA451718)']]",decreased activity of
+"CYP2C19*1, CYP2C19*8","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2D6*1, CYP2D6*92, CYP2D6*96","[['atomoxetine', '(PA134688071)']]",decreased activity of
+"CYP2D6*1, CYP2D6*92, CYP2D6*96","[['CYP2D6', '(PA128)']]",belongs to
+rs554405994,"[['NUDT15', '(PA134963132)']]",belongs to
+rs186364861,"[['NUDT15', '(PA134963132)']]",belongs to
+rs116855232,"[['NUDT15', '(PA134963132)']]",belongs to
+rs147390019,"[['NUDT15', '(PA134963132)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['omeprazole', '(PA450704)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+rs1800629,"[['adalimumab', '(PA10004)']]",decreased steady-state level of
+rs1800629,"[['TNF', '(PA435)']]",belongs to
+rs114096998,"[['DPYD', '(PA145)']]",belongs to
+rs760663364,"[['DPYD', '(PA145)']]",belongs to
+rs780025995,"[['DPYD', '(PA145)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['tamoxifen', '(PA451581)']]",decreased activity of
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*54","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*54","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*55","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*55","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*57","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*57","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*2, CYP2D6*29","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased catalytic activity of
+"CYP2D6*2, CYP2D6*29","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*49","[['dextromethorphan', '(PA449273)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*49","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*49","[['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*10, CYP2D6*49","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*72","[['dextromethorphan', '(PA449273)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*72","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+rs118192124,"[['chlorocresol', '(PA166122627)']]",increased sensitivity to
+rs118192124,"[['RYR1', '(PA34896)']]",belongs to
+"CYP2C19*1, CYP2C19*5","[['CYP2C19', '(PA124)']]",belongs to
+rs1800629,"[['TNF', '(PA435)']]",belongs to
+"CYP2C19*1, CYP2C19*16","[['CYP2C19', '(PA124)']]",belongs to
+rs748639205,"[['DPYD', '(PA145)']]",belongs to
+rs5744247,"[['IL18', '(PA29802)']]",belongs to
+"CYP2C19*1, CYP2C19*2","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*114","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*114","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*18","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*18","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*36","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*36","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*47","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*47","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*49","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*49","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*50","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*50","[['CYP2D6', '(PA128)']]",belongs to
+rs7089580,"[['CYP2C9', '(PA126)']]",belongs to
+"TPMT*1, TPMT*38","[['TPMT', '(PA356)']]",belongs to
+rs1801131,"[['gemcitabine', '(PA449748)']]",increased sensitivity to
+rs1801131,"[['MTHFR', '(PA245)']]",belongs to
+rs12769205,"[['CYP2C19', '(PA124)']]",belongs to
+rs114096998,"[['fluorouracil', '(PA128406956)']]",increased activity of
+rs114096998,"[['DPYD', '(PA145)']]",belongs to
+rs1801268,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs1801268,"[['DPYD', '(PA145)']]",belongs to
+rs61757362,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs61757362,"[['DPYD', '(PA145)']]",belongs to
+rs72547601,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs72547601,"[['DPYD', '(PA145)']]",belongs to
+rs141044036,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs141044036,"[['DPYD', '(PA145)']]",belongs to
+rs67376798,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs67376798,"[['DPYD', '(PA145)']]",belongs to
+rs188052243,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs188052243,"[['DPYD', '(PA145)']]",belongs to
+rs55674432,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs55674432,"[['DPYD', '(PA145)']]",belongs to
+rs60139309,"[['fluorouracil', '(PA128406956)']]",increased activity of
+rs60139309,"[['DPYD', '(PA145)']]",belongs to
+rs200687447,"[['fluorouracil', '(PA128406956)']]",increased activity of
+rs200687447,"[['DPYD', '(PA145)']]",belongs to
+rs112766203,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs112766203,"[['DPYD', '(PA145)']]",belongs to
+rs137999090,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs137999090,"[['DPYD', '(PA145)']]",belongs to
+rs145773863,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs145773863,"[['DPYD', '(PA145)']]",belongs to
+rs138616379,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs138616379,"[['DPYD', '(PA145)']]",belongs to
+rs59086055,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs59086055,"[['DPYD', '(PA145)']]",belongs to
+rs111858276,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs111858276,"[['DPYD', '(PA145)']]",belongs to
+rs72549304,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs72549304,"[['DPYD', '(PA145)']]",belongs to
+rs186169810,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs186169810,"[['DPYD', '(PA145)']]",belongs to
+rs143154602,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs143154602,"[['DPYD', '(PA145)']]",belongs to
+rs190577302,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs190577302,"[['DPYD', '(PA145)']]",belongs to
+rs183385770,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs183385770,"[['DPYD', '(PA145)']]",belongs to
+rs183105782,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs183105782,"[['DPYD', '(PA145)']]",belongs to
+rs146356975,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs146356975,"[['DPYD', '(PA145)']]",belongs to
+rs1801266,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs1801266,"[['DPYD', '(PA145)']]",belongs to
+rs72549307,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs72549307,"[['DPYD', '(PA145)']]",belongs to
+rs72549308,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs72549308,"[['DPYD', '(PA145)']]",belongs to
+rs115232898,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs115232898,"[['DPYD', '(PA145)']]",belongs to
+rs2297595,"[['fluorouracil', '(PA128406956)']]",increased activity of
+rs2297595,"[['DPYD', '(PA145)']]",belongs to
+rs143986398,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs143986398,"[['DPYD', '(PA145)']]",belongs to
+"CYP2D6*1, CYP2D6*18","[['bufuralol', '(PA166110256)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*18","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*35","[['CYP2D6', '(PA128)']]",belongs to
+rs1063320,"[['HLA-G', '(PA35083)']]",belongs to
+rs1063320,"[['simvastatin', '(PA451363)']]",increased expression of
+rs1063320,"[['HLA-G', '(PA35083)']]",belongs to
+"CYP2D6*1, CYP2D6*92","[['CYP2D6', '(PA128)']]",belongs to
+rs1799983,"[['NOS3', '(PA254)']]",belongs to
+"CYP2D6*1, CYP2D6*51","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*51","[['CYP2D6', '(PA128)']]",belongs to
+CYP2D6*62,"[['propafenone', '(PA451131)']]",decreased catalytic activity of
+CYP2D6*62,"[['CYP2D6', '(PA128)']]",belongs to
+"SLCO1B1*1A, SLCO1B1*5","[['atorvastatin', '(PA448500)'], ['cerivastatin', '(PA448897)'], ['pravastatin', '(PA451089)']]",decreased uptake of
+"SLCO1B1*1A, SLCO1B1*5","[['SLCO1B1', '(PA134865839)']]",belongs to
+"SLCO1B1*15, SLCO1B1*1A","[['atorvastatin', '(PA448500)'], ['cerivastatin', '(PA448897)'], ['pravastatin', '(PA451089)']]",decreased uptake of
+"SLCO1B1*15, SLCO1B1*1A","[['SLCO1B1', '(PA134865839)']]",belongs to
+rs776746,"[['CYP3A5', '(PA131)']]",belongs to
+CYP2D6*19,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+rs34231037,"[['KDR', '(PA30086)']]",belongs to
+rs118192124,"[['chlorocresol', '(PA166122627)']]",increased sensitivity to
+rs118192124,"[['RYR1', '(PA34896)']]",belongs to
+rs1045642,"[['ABCB1', '(PA267)']]",belongs to
+rs2032582,"[['ABCB1', '(PA267)']]",belongs to
+rs1128503,"[['ABCB1', '(PA267)']]",belongs to
+"CYP2C19*1, CYP2C19*16, CYP2C19*22, CYP2C19*24, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9","[['clopidogrel', '(PA449053)'], ['mephenytoin', '(PA450373)']]",decreased catalytic activity of
+"CYP2C19*1, CYP2C19*16, CYP2C19*22, CYP2C19*24, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*27","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*39","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*53","[['bufuralol', '(PA166110256)']]",increased clearance of
+"CYP2D6*1, CYP2D6*53","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*48","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*14","[['bufuralol', '(PA166110256)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*14","[['CYP2D6', '(PA128)']]",belongs to
+rs34671512,"[['SLCO1B1', '(PA134865839)']]",belongs to
+CYP2D6*9,"[['bufuralol', '(PA166110256)'], ['sparteine', '(PA452610)']]",decreased metabolism of
+CYP2D6*9,"[['CYP2D6', '(PA128)']]",belongs to
+rs1045642,"[['ABCB1', '(PA267)']]",belongs to
+rs2032582,"[['ABCB1', '(PA267)']]",belongs to
+rs1128503,"[['ABCB1', '(PA267)']]",belongs to
+CYP2C9*3,"[['diclofenac', '(PA449293)']]",decreased catalytic activity of
+CYP2C9*3,"[['CYP2C9', '(PA126)']]",belongs to
+CYP2D6*31,"[['debrisoquine', '(PA452616)'], ['dextromethorphan', '(PA449273)'], ['metoprolol', '(PA450480)']]",decreased enzyme activity of
+CYP2D6*31,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*29","[['bufuralol', '(PA166110256)'], ['debrisoquine', '(PA452616)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*29","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*29","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*59","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*59","[['propafenone', '(PA451131)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*59","[['CYP2D6', '(PA128)']]",belongs to
+"UGT1A6*1a, UGT1A6*2a","[['acetaminophen', '(PA448015)']]",increased activity of
+"UGT1A6*1a, UGT1A6*2a","[['UGT1A6', '(PA37181)']]",belongs to
+"CYP2D6*1, CYP2D6*17","[['bufuralol', '(PA166110256)'], ['debrisoquine', '(PA452616)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*17","[['CYP2D6', '(PA128)']]",belongs to
+rs6021191,"[['NFATC2', '(PA31583)']]",belongs to
+"CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*56","[['dextromethorphan', '(PA449273)']]",decreased enzyme activity of
+"CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*56","[['CYP2D6', '(PA128)']]",belongs to
+CYP2A6*9,"[['coumarin', '(PA134521193)']]",decreased enzyme activity of
+CYP2A6*9,"[['CYP2A6', '(PA121)']]",belongs to
+rs724710,"[['BCL2L11', '(PA25305)']]",belongs to
+"CYP2D6*20, CYP2D6*4","[['metoprolol', '(PA450480)']]",decreased enzyme activity of
+"CYP2D6*20, CYP2D6*4","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2C19*1, CYP2C19*8","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+"CYP2C19*1, CYP2C19*8","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*9","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+"CYP2C19*1, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10","[['mephenytoin', '(PA450373)']]",decreased activity of
+"CYP2C19*1, CYP2C19*10","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*16","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+"CYP2C19*1, CYP2C19*16","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['mephenytoin', '(PA450373)']]",decreased activity of
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+"TPMT*1, TPMT*2, TPMT*21, TPMT*32, TPMT*33, TPMT*34, TPMT*3A, TPMT*3C, TPMT*9","[['mercaptopurine', '(PA450379)'], ['thioguanine', '(PA451663)']]",decreased activity of
+"TPMT*1, TPMT*2, TPMT*21, TPMT*32, TPMT*33, TPMT*34, TPMT*3A, TPMT*3C, TPMT*9","[['TPMT', '(PA356)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['mephenytoin', '(PA450373)']]",decreased activity of
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*13","[['mephenytoin', '(PA450373)']]",decreased activity of
+"CYP2C19*1, CYP2C19*13","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*19","[['omeprazole', '(PA450704)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*19","[['CYP2C19', '(PA124)']]",belongs to
+rs104893684,"[['BCHE', '(PA25294)']]",belongs to
+"CYP2C19*1, CYP2C19*11, CYP2C19*14, CYP2C19*15","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10, CYP2C19*13, CYP2C19*18, CYP2C19*19, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*10, CYP2C19*16, CYP2C19*9","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*10, CYP2C19*16, CYP2C19*9","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+rs74966855,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*89","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*89","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*92","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*92","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*93","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*93","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*96","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*96","[['CYP2D6', '(PA128)']]",belongs to
+rs16947,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*92, CYP2D6*96","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*98","[['citalopram', '(PA449015)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+rs1801159,"[['DPYD', '(PA145)']]",belongs to
+rs1801158,"[['DPYD', '(PA145)']]",belongs to
+rs56038477,"[['DPYD', '(PA145)']]",belongs to
+rs61622928,"[['DPYD', '(PA145)']]",belongs to
+rs2297595,"[['DPYD', '(PA145)']]",belongs to
+rs141462178,"[['DPYD', '(PA145)']]",belongs to
+rs200562975,"[['DPYD', '(PA145)']]",belongs to
+"CYP2C19*1, CYP2C19*6","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*6","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*18","[['voriconazole', '(PA10233)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*18","[['CYP2C19', '(PA124)']]",belongs to
+rs61750900,"[['olanzapine', '(PA450688)']]",decreased glucuronidation of
+rs61750900,"[['UGT2B10', '(PA37186)']]",belongs to
+"UGT1A4*1a, UGT1A4*3a","[['olanzapine', '(PA450688)']]",increased glucuronidation of
+"UGT1A4*1a, UGT1A4*3a","[['UGT1A4', '(PA37179)']]",belongs to
+"UGT1A4*1a, UGT1A4*2","[['UGT1A4', '(PA37179)']]",belongs to
+rs568132506,"[['DPYD', '(PA145)']]",belongs to
+rs547099198,"[['DPYD', '(PA145)']]",belongs to
+"CYP2C9*1, CYP2C9*2, CYP2C9*3","[['fluconazole', '(PA449653)'], ['voriconazole', '(PA10233)']]",decreased inhibition of
+"CYP2C9*1, CYP2C9*2, CYP2C9*3","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2D6*1, CYP2D6*39, CYP2D6*48","[['n-desmethyltamoxifen', '(PA166127651)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*39, CYP2D6*48","[['CYP2D6', '(PA128)']]",belongs to
+rs77010898,"[['ivacaftor', '(PA165950341)']]",increased activity of
+rs77010898,"[['CFTR', '(PA109)']]",belongs to
+rs1801267,"[['DPYD', '(PA145)']]",belongs to
+rs11191612,"[['NT5C2', '(PA31801)']]",belongs to
+rs1163075,"[['NT5C2', '(PA31801)']]",belongs to
+rs1163075,"[['cytarabine', '(PA449177)']]",decreased sensitivity to
+rs1163075,"[['NT5C2', '(PA31801)']]",belongs to
+rs11191612,"[['cytarabine', '(PA449177)']]",decreased sensitivity to
+rs11191612,"[['NT5C2', '(PA31801)']]",belongs to
+"CYP2D6*1, CYP2D6*89, CYP2D6*90, CYP2D6*94","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+CYP2D6*1,"[['berberine', '(PA165860812)'], ['coptisine', '(PA166153416)']]",increased inhibition of
+CYP2D6*1,"[['CYP2D6', '(PA128)']]",belongs to
+CYP2D6*10,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['berberine', '(PA165860812)'], ['coptisine', '(PA166153416)']]",increased inhibition of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+rs7604115,"[['UGT1A3', '(PA37178)']]",belongs to
+rs704212,"[['ABCC9', '(PA396)']]",belongs to
+"SLCO1B1*1, SLCO1B1*15","[['SLCO1B1', '(PA134865839)']]",belongs to
+"CYP2B6*1, CYP2B6*27","[['CYP2B6', '(PA123)']]",belongs to
+rs2293348,"[['egfr', 'inhibitors', '(PA153561371)']]",increased expression of
+rs2293348,"[['EGFR', '(PA7360)']]",belongs to
+rs17172437,"[['egfr', 'inhibitors', '(PA153561371)']]",increased expression of
+rs17172437,"[['EGFR', '(PA7360)']]",belongs to
+rs699947,"[['bevacizumab', '(PA130232992)']]",affinity to
+rs699947,"[['VEGFA', '(PA37302)']]",belongs to
+rs2010963,"[['bevacizumab', '(PA130232992)']]",affinity to
+rs2010963,"[['VEGFA', '(PA37302)']]",belongs to
+DPYD*6,"[['DPYD', '(PA145)']]",belongs to
+DPYD*5,"[['DPYD', '(PA145)']]",belongs to
+DPYD*4,"[['DPYD', '(PA145)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+DPYD*9A,"[['DPYD', '(PA145)']]",belongs to
+DPYD*13,"[['DPYD', '(PA145)']]",belongs to
+rs2297595,"[['DPYD', '(PA145)']]",belongs to
+rs67376798,"[['DPYD', '(PA145)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['amitriptyline', '(PA448385)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+rs139834141,"[['DPYD', '(PA145)']]",belongs to
+CYP2D6 poor metabolizers,"[['desipramine', '(PA449233)']]",decreased clearance of
+CYP2D6 poor metabolizers,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*114, CYP2D6*12, CYP2D6*36, CYP2D6*47, CYP2D6*51, CYP2D6*57, CYP2D6*62","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased activity of
+"CYP2D6*1, CYP2D6*114, CYP2D6*12, CYP2D6*36, CYP2D6*47, CYP2D6*51, CYP2D6*57, CYP2D6*62","[['CYP2D6', '(PA128)']]",belongs to
+rs118192177,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs118192177,"[['RYR1', '(PA34896)']]",belongs to
+"DPYD*5, DPYD*9A","[['DPYD', '(PA145)']]",belongs to
+rs113993960,"[['corr-4a', '(PA166158935)'], ['ivacaftor', '(PA165950341)'], ['lumacaftor', '(PA166114483)']]",increased activity of
+rs113993960,"[['CFTR', '(PA109)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*89, CYP2D6*90, CYP2D6*93, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['methadone', '(PA450401)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*89, CYP2D6*90, CYP2D6*93, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+rs71647871,"[['sacubitril', '(PA166131580)']]",decreased catalytic activity of
+rs71647871,"[['CES1', '(PA107)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*37, CYP2D6*40, CYP2D6*54, CYP2D6*64, CYP2D6*7, CYP2D6*71, CYP2D6*75","[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased activity of
+"CYP2D6*1, CYP2D6*10, CYP2D6*37, CYP2D6*40, CYP2D6*54, CYP2D6*64, CYP2D6*7, CYP2D6*71, CYP2D6*75","[['CYP2D6', '(PA128)']]",belongs to
+rs11253043,"[['exemestane', '(PA449563)']]",decreased affinity to
+rs11253043,"[['AKR1C4', '(PA24680)']]",belongs to
+rs62621365,"[['exemestane', '(PA449563)']]",decreased affinity to
+rs62621365,"[['AKR1C3', '(PA24679)']]",belongs to
+rs1105879,"[['valproic', 'acid', '(PA451846)']]",increased glucuronidation of
+rs1105879,"[['UGT1A6', '(PA37181)']]",belongs to
+rs17376848,"[['DPYD', '(PA145)']]",belongs to
+DPYD*13,"[['DPYD', '(PA145)']]",belongs to
+DPYD*6,"[['DPYD', '(PA145)']]",belongs to
+DPYD*4,"[['DPYD', '(PA145)']]",belongs to
+DPYD*5,"[['DPYD', '(PA145)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+DPYD*9A,"[['DPYD', '(PA145)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*17, CYP2D6*18, CYP2D6*29, CYP2D6*30, CYP2D6*35, CYP2D6*46, CYP2D6*50, CYP2D6*61","[['n-desmethyltamoxifen', '(PA166127651)']]",decreased activity of
+"CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*17, CYP2D6*18, CYP2D6*29, CYP2D6*30, CYP2D6*35, CYP2D6*46, CYP2D6*50, CYP2D6*61","[['CYP2D6', '(PA128)']]",belongs to
+rs121913512,"[['imatinib', '(PA10804)']]",increased catalytic activity of
+rs121913512,"[['KIT', '(PA30128)']]",belongs to
+rs113488022,"[['dabrafenib', '(PA166114911)']]",increased sensitivity to
+rs113488022,"[['BRAF', '(PA25408)']]",belongs to
+rs113488022,"[['dabrafenib', '(PA166114911)']]",increased sensitivity to
+rs113488022,"[['BRAF', '(PA25408)']]",belongs to
+"CYP3A5*1A, CYP3A5*3A","[['midazolam', '(PA450496)']]",increased metabolism of
+"CYP3A5*1A, CYP3A5*3A","[['CYP3A5', '(PA131)']]",belongs to
+CYP2D6*7,"[['CYP2D6', '(PA128)']]",belongs to
+CYP2D6*114,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*95, CYP2D6*98","[['tamoxifen', '(PA451581)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*95, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+rs1057868,"[['POR', '(PA33532)']]",belongs to
+rs4253728,"[['PPARA', '(PA280)']]",belongs to
+"CYP3A4*1, CYP3A4*22","[['sirolimus', '(PA451365)']]",decreased clearance of
+"CYP3A4*1, CYP3A4*22","[['CYP3A4', '(PA130)']]",belongs to
+rs138417770,"[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+rs138417770,"[['CYP2D6', '(PA128)']]",belongs to
+rs567606867,"[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+rs567606867,"[['CYP2D6', '(PA128)']]",belongs to
+rs371793722,"[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+rs371793722,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2C19*1, CYP2C19*23","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*24","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*24","[['CYP2C19', '(PA124)']]",belongs to
+rs67376798,"[['DPYD', '(PA145)']]",belongs to
+rs3918290,"[['DPYD', '(PA145)']]",belongs to
+rs55886062,"[['DPYD', '(PA145)']]",belongs to
+rs75017182,"[['DPYD', '(PA145)']]",belongs to
+rs75017182,"[['DPYD', '(PA145)']]",belongs to
+rs112563513,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs112563513,"[['RYR1', '(PA34896)']]",belongs to
+rs3785161,"[['CES1P1', '(PA134906523)']]",belongs to
+rs3785161,"[['CES1P1', '(PA134906523)']]",belongs to
+rs4880,"[['methotrexate', '(PA450428)']]",decreased sensitivity to
+rs4880,"[['SOD2', '(PA36017)']]",belongs to
+rs72549310,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs72549310,"[['DPYD', '(PA145)']]",belongs to
+rs78060119,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs78060119,"[['DPYD', '(PA145)']]",belongs to
+rs72549309,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs72549309,"[['DPYD', '(PA145)']]",belongs to
+rs72549303,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs72549303,"[['DPYD', '(PA145)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['risperidone', '(PA451257)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+DPYD*9B,"[['DPYD', '(PA145)']]",belongs to
+DPYD*5,"[['DPYD', '(PA145)']]",belongs to
+DPYD*4,"[['DPYD', '(PA145)']]",belongs to
+DPYD*9A,"[['DPYD', '(PA145)']]",belongs to
+DPYD*5,"[['DPYD', '(PA145)']]",belongs to
+DPYD*13,"[['DPYD', '(PA145)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+rs115232898,"[['DPYD', '(PA145)']]",belongs to
+rs17376848,"[['DPYD', '(PA145)']]",belongs to
+rs61622928,"[['DPYD', '(PA145)']]",belongs to
+rs72549306,"[['DPYD', '(PA145)']]",belongs to
+rs45589337,"[['DPYD', '(PA145)']]",belongs to
+rs147601618,"[['DPYD', '(PA145)']]",belongs to
+rs150437414,"[['DPYD', '(PA145)']]",belongs to
+rs145112791,"[['DPYD', '(PA145)']]",belongs to
+rs201018345,"[['DPYD', '(PA145)']]",belongs to
+rs72549305,"[['DPYD', '(PA145)']]",belongs to
+rs143815742,"[['DPYD', '(PA145)']]",belongs to
+rs140602333,"[['DPYD', '(PA145)']]",belongs to
+rs200064537,"[['DPYD', '(PA145)']]",belongs to
+rs142512579,"[['DPYD', '(PA145)']]",belongs to
+rs72975710,"[['DPYD', '(PA145)']]",belongs to
+rs144395748,"[['DPYD', '(PA145)']]",belongs to
+rs199549923,"[['DPYD', '(PA145)']]",belongs to
+rs138391898,"[['DPYD', '(PA145)']]",belongs to
+rs148994843,"[['DPYD', '(PA145)']]",belongs to
+rs190951787,"[['DPYD', '(PA145)']]",belongs to
+rs142619737,"[['DPYD', '(PA145)']]",belongs to
+rs113993960,"[['latonduine', 'a', '(PA166153449)']]",increased activity of
+rs113993960,"[['CFTR', '(PA109)']]",belongs to
+rs116855232,"[['NUDT15', '(PA134963132)']]",belongs to
+rs76088846,"[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+rs76088846,"[['CYP2D6', '(PA128)']]",belongs to
+rs1801159,"[['DPYD', '(PA145)']]",belongs to
+rs1801158,"[['fluorouracil', '(PA128406956)']]",increased activity of
+rs1801158,"[['DPYD', '(PA145)']]",belongs to
+rs1801160,"[['DPYD', '(PA145)']]",belongs to
+rs1801265,"[['fluorouracil', '(PA128406956)']]",increased activity of
+rs1801265,"[['DPYD', '(PA145)']]",belongs to
+rs3918290,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs3918290,"[['DPYD', '(PA145)']]",belongs to
+rs55886062,"[['fluorouracil', '(PA128406956)']]",decreased activity of
+rs55886062,"[['DPYD', '(PA145)']]",belongs to
+rs2297595,"[['DPYD', '(PA145)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+DPYD*13,"[['DPYD', '(PA145)']]",belongs to
+DPYD*9A,"[['DPYD', '(PA145)']]",belongs to
+rs61622928,"[['DPYD', '(PA145)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['dextromethorphan', '(PA449273)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2A6*1A, CYP2A6*4A","[['coumarin', '(PA134521193)']]",decreased clearance of
+"CYP2A6*1A, CYP2A6*4A","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2A6*1A, CYP2A6*9","[['coumarin', '(PA134521193)']]",decreased clearance of
+"CYP2A6*1A, CYP2A6*9","[['CYP2A6', '(PA121)']]",belongs to
+"CYP2C9*1, CYP2C9*3","[['tolbutamide', '(PA451718)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*3","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2D6*1, CYP2D6*75","[['debrisoquine', '(PA452616)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*75","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['debrisoquine', '(PA452616)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+"CYP1A1*1, CYP1A1*4","[['dacarbazine', '(PA449197)']]",decreased clearance of
+"CYP1A1*1, CYP1A1*4","[['CYP1A1', '(PA27092)']]",belongs to
+"CYP1A1*1, CYP1A1*2C","[['dacarbazine', '(PA449197)']]",decreased clearance of
+"CYP1A1*1, CYP1A1*2C","[['CYP1A1', '(PA27092)']]",belongs to
+"CYP1A2*11, CYP1A2*1A","[['dacarbazine', '(PA449197)']]",decreased clearance of
+"CYP1A2*11, CYP1A2*1A","[['CYP1A2', '(PA27093)']]",belongs to
+"CYP1A2*1A, CYP1A2*3","[['dacarbazine', '(PA449197)']]",decreased clearance of
+"CYP1A2*1A, CYP1A2*3","[['CYP1A2', '(PA27093)']]",belongs to
+rs397508139,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508139,"[['CFTR', '(PA109)']]",belongs to
+rs77409459,"[['ivacaftor', '(PA165950341)']]",activity of
+rs77409459,"[['CFTR', '(PA109)']]",belongs to
+rs397508144,"[['CFTR', '(PA109)']]",belongs to
+rs77932196,"[['ivacaftor', '(PA165950341)']]",activity of
+rs77932196,"[['CFTR', '(PA109)']]",belongs to
+rs77932196,"[['CFTR', '(PA109)']]",belongs to
+rs74551128,"[['ivacaftor', '(PA165950341)']]",activity of
+rs74551128,"[['CFTR', '(PA109)']]",belongs to
+rs139573311,"[['CFTR', '(PA109)']]",belongs to
+rs121909017,"[['CFTR', '(PA109)']]",belongs to
+rs113993960,"[['ivacaftor', '(PA165950341)']]",activity of
+rs113993960,"[['CFTR', '(PA109)']]",belongs to
+rs77646904,"[['CFTR', '(PA109)']]",belongs to
+rs75549581,"[['CFTR', '(PA109)']]",belongs to
+rs80055610,"[['CFTR', '(PA109)']]",belongs to
+rs397508267,"[['CFTR', '(PA109)']]",belongs to
+rs121909047,"[['CFTR', '(PA109)']]",belongs to
+rs397508276,"[['CFTR', '(PA109)']]",belongs to
+rs397508288,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508288,"[['CFTR', '(PA109)']]",belongs to
+rs1800100,"[['ivacaftor', '(PA165950341)']]",activity of
+rs1800100,"[['CFTR', '(PA109)']]",belongs to
+rs397508435,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508435,"[['CFTR', '(PA109)']]",belongs to
+rs397508442,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508442,"[['CFTR', '(PA109)']]",belongs to
+rs150212784,"[['ivacaftor', '(PA165950341)']]",activity of
+rs150212784,"[['CFTR', '(PA109)']]",belongs to
+rs397508510,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508510,"[['CFTR', '(PA109)']]",belongs to
+rs397508513,"[['ivacaftor', '(PA165950341)']]",activity of
+rs397508513,"[['CFTR', '(PA109)']]",belongs to
+rs121909036,"[['CFTR', '(PA109)']]",belongs to
+rs78194216,"[['CFTR', '(PA109)']]",belongs to
+rs121909019,"[['ivacaftor', '(PA165950341)']]",activity of
+rs121909019,"[['CFTR', '(PA109)']]",belongs to
+rs121909020,"[['ivacaftor', '(PA165950341)']]",activity of
+rs121909020,"[['CFTR', '(PA109)']]",belongs to
+rs202179988,"[['ivacaftor', '(PA165950341)']]",activity of
+rs202179988,"[['CFTR', '(PA109)']]",belongs to
+rs139304906,"[['CFTR', '(PA109)']]",belongs to
+rs79635528,"[['CFTR', '(PA109)']]",belongs to
+rs36210737,"[['CFTR', '(PA109)']]",belongs to
+rs80034486,"[['CFTR', '(PA109)']]",belongs to
+rs75541969,"[['ivacaftor', '(PA165950341)']]",activity of
+rs75541969,"[['CFTR', '(PA109)']]",belongs to
+rs34911792,"[['ivacaftor', '(PA165950341)']]",activity of
+rs34911792,"[['CFTR', '(PA109)']]",belongs to
+rs11971167,"[['ivacaftor', '(PA165950341)']]",activity of
+rs11971167,"[['CFTR', '(PA109)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+rs1801253,"[['carvedilol', '(PA448817)'], ['isoproterenol', '(PA450121)']]",decreased affinity to
+rs1801253,"[['ADRB1', '(PA38)']]",belongs to
+rs201045130,"[['cladribine', '(PA449027)'], ['fluorouracil', '(PA128406956)'], ['gemcitabine', '(PA449748)']]",decreased sensitivity to
+rs201045130,"[['NT5C1A', '(PA31799)']]",belongs to
+rs370457585,"[['cladribine', '(PA449027)'], ['fluorouracil', '(PA128406956)'], ['gemcitabine', '(PA449748)']]",decreased sensitivity to
+rs370457585,"[['NT5C1A', '(PA31799)']]",belongs to
+rs374150125,"[['NT5C1A', '(PA31799)']]",belongs to
+rs374150125,"[['cladribine', '(PA449027)'], ['fluorouracil', '(PA128406956)'], ['gemcitabine', '(PA449748)']]",decreased sensitivity to
+rs374150125,"[['NT5C1A', '(PA31799)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+"TPMT*1, TPMT*3A, TPMT*3C","[['TPMT', '(PA356)']]",belongs to
+"CYP2D6*1, CYP2D6*114, CYP2D6*12, CYP2D6*31, CYP2D6*36, CYP2D6*37, CYP2D6*40, CYP2D6*47, CYP2D6*51, CYP2D6*52, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*62, CYP2D6*63, CYP2D6*64, CYP2D6*65, CYP2D6*7, CYP2D6*71, CYP2D6*72, CYP2D6*75","[['n-desmethyltamoxifen', '(PA166127651)']]",decreased activity of
+"CYP2D6*1, CYP2D6*114, CYP2D6*12, CYP2D6*31, CYP2D6*36, CYP2D6*37, CYP2D6*40, CYP2D6*47, CYP2D6*51, CYP2D6*52, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*62, CYP2D6*63, CYP2D6*64, CYP2D6*65, CYP2D6*7, CYP2D6*71, CYP2D6*72, CYP2D6*75","[['CYP2D6', '(PA128)']]",belongs to
+rs770829708,"[['voriconazole', '(PA10233)']]",decreased clearance of
+rs770829708,"[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*23","[['omeprazole', '(PA450704)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*23","[['CYP2C19', '(PA124)']]",belongs to
+rs550527959,"[['voriconazole', '(PA10233)']]",decreased clearance of
+rs550527959,"[['CYP2C19', '(PA124)']]",belongs to
+rs181297724,"[['voriconazole', '(PA10233)']]",decreased clearance of
+rs181297724,"[['CYP2C19', '(PA124)']]",belongs to
+rs181297724,"[['fluvoxamine', '(PA449690)'], ['omeprazole', '(PA450704)']]",increased sensitivity to
+rs181297724,"[['CYP2C19', '(PA124)']]",belongs to
+rs181297724,"[['fluoxetine', '(PA449673)'], ['ketoconazole', '(PA450146)'], ['sertraline', '(PA451333)'], ['ticlopidine', '(PA451686)']]",decreased sensitivity to
+rs181297724,"[['CYP2C19', '(PA124)']]",belongs to
+rs181297724,"[['CYP2C19', '(PA124)']]",belongs to
+rs78655421,"[['ivacaftor', '/', 'lumacaftor', '(PA166152935)']]",increased activity of
+rs78655421,"[['CFTR', '(PA109)']]",belongs to
+rs777560972,"[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+rs777560972,"[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['venlafaxine', '(PA451866)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+"DPYD*3, DPYD*8","[['DPYD', '(PA145)']]",belongs to
+rs895819,"[['MIR27A', '(PA164722621)']]",belongs to
+rs11568820,"[['VDR', '(PA37301)']]",belongs to
+DPYD*3,"[['DPYD', '(PA145)']]",belongs to
+DPYD*8,"[['DPYD', '(PA145)']]",belongs to
+DPYD*9B,"[['DPYD', '(PA145)']]",belongs to
+"CYP2C19*1, CYP2C19*29, CYP2C19*3, CYP2C19*30, CYP2C19*33","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*3","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+"CYP2C19*1, CYP2C19*3","[['CYP2C19', '(PA124)']]",belongs to
+"CYP2C19*1, CYP2C19*29, CYP2C19*30, CYP2C19*31, CYP2C19*32, CYP2C19*33","[['methadone', '(PA450401)']]",decreased clearance of
+"CYP2C19*1, CYP2C19*29, CYP2C19*30, CYP2C19*31, CYP2C19*32, CYP2C19*33","[['CYP2C19', '(PA124)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+rs895819,"[['fluorouracil', '(PA128406956)']]",decreased enzyme activity of
+rs895819,"[['MIR27A', '(PA164722621)']]",belongs to
+DPYD*5,"[['DPYD', '(PA145)']]",belongs to
+rs745746329,"[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+rs745746329,"[['CYP2D6', '(PA128)']]",belongs to
+rs750996195,"[['bufuralol', '(PA166110256)'], ['dextromethorphan', '(PA449273)']]",decreased clearance of
+rs750996195,"[['CYP2D6', '(PA128)']]",belongs to
+rs28371704,"[['CYP2D6', '(PA128)']]",belongs to
+rs28371703,"[['CYP2D6', '(PA128)']]",belongs to
+rs150385342,"[['DPYD', '(PA145)']]",belongs to
+rs67376798,"[['DPYD', '(PA145)']]",belongs to
+rs3918290,"[['DPYD', '(PA145)']]",belongs to
+rs2811178,"[['DPYD', '(PA145)']]",belongs to
+rs2786783,"[['DPYD', '(PA145)']]",belongs to
+rs55886062,"[['DPYD', '(PA145)']]",belongs to
+rs1801159,"[['DPYD', '(PA145)']]",belongs to
+rs1801158,"[['DPYD', '(PA145)']]",belongs to
+rs56293913,"[['DPYD', '(PA145)']]",belongs to
+rs368600943,"[['DPYD', '(PA145)']]",belongs to
+rs75017182,"[['DPYD', '(PA145)']]",belongs to
+rs138924556,"[['DPYD', '(PA145)']]",belongs to
+rs45589337,"[['DPYD', '(PA145)']]",belongs to
+rs3790387,"[['DPYD', '(PA145)']]",belongs to
+rs2297595,"[['DPYD', '(PA145)']]",belongs to
+rs41309171,"[['DPYD', '(PA145)']]",belongs to
+rs1801265,"[['DPYD', '(PA145)']]",belongs to
+rs115232898,"[['DPYD', '(PA145)']]",belongs to
+"DPYD*3, DPYD*8","[['DPYD', '(PA145)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*91, CYP2D6*93, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['dapoxetine', '(PA166151992)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*91, CYP2D6*93, CYP2D6*95, CYP2D6*97, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2","[['bufuralol', '(PA166110256)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*2","[['CYP2D6', '(PA128)']]",belongs to
+"DPYD*2B, DPYD*4","[['DPYD', '(PA145)']]",belongs to
+"DPYD*2A, DPYD*5","[['DPYD', '(PA145)']]",belongs to
+rs2274407,"[['ABCC4', '(PA397)']]",belongs to
+rs2274407,"[['ABCC4', '(PA397)']]",belongs to
+rs2189784,"[['CYP4F2', '(PA27121)']]",belongs to
+rs2189784,"[['CYP4F2', '(PA27121)']]",belongs to
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs2108622,"[['CYP4F2', '(PA27121)']]",belongs to
+rs1060467,"[['CYP4F11', '(PA27120)']]",belongs to
+rs1060467,"[['CYP4F11', '(PA27120)']]",belongs to
+TPMT haplotype,"[['mercaptopurine', '(PA450379)']]",increased concentrations of
+TPMT haplotype,"[['TPMT', '(PA356)']]",belongs to
+ABCC4 deficiency,"[['mercaptopurine', '(PA450379)']]",increased concentrations of
+ABCC4 deficiency,"[['ABCC4', '(PA397)']]",belongs to
+rs193922803,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs193922803,"[['RYR1', '(PA34896)']]",belongs to
+rs193922832,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs193922832,"[['RYR1', '(PA34896)']]",belongs to
+rs193922842,"[['RYR1', '(PA34896)']]",belongs to
+rs193922843,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs193922843,"[['RYR1', '(PA34896)']]",belongs to
+rs193922843,"[['RYR1', '(PA34896)']]",belongs to
+rs118192168,"[['caffeine', '(PA448710)']]",increased sensitivity to
+rs118192168,"[['RYR1', '(PA34896)']]",belongs to
+"CYP2C9*1, CYP2C9*3","[['diclofenac', '(PA449293)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*3","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2C9*1, CYP2C9*13","[['diclofenac', '(PA449293)']]",decreased clearance of
+"CYP2C9*1, CYP2C9*13","[['CYP2C9', '(PA126)']]",belongs to
+"CYP2D6*1, CYP2D6*22, CYP2D6*23, CYP2D6*24, CYP2D6*27, CYP2D6*33, CYP2D6*49","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*87, CYP2D6*90, CYP2D6*93, CYP2D6*95, CYP2D6*98","[['gefitinib', '(PA131301952)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*87, CYP2D6*90, CYP2D6*93, CYP2D6*95, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*92, CYP2D6*96","[['gefitinib', '(PA131301952)']]",decreased catalytic activity of
+"CYP2D6*92, CYP2D6*96","[['CYP2D6', '(PA128)']]",belongs to
+rs6493497,"[['anastrozole', '(PA448432)'], ['exemestane', '(PA449563)'], ['letrozole', '(PA450196)']]",activity of
+rs6493497,"[['CYP19A1', '(PA27091)']]",belongs to
+rs7176005,"[['anastrozole', '(PA448432)'], ['exemestane', '(PA449563)'], ['letrozole', '(PA450196)']]",activity of
+rs7176005,"[['CYP19A1', '(PA27091)']]",belongs to
+DPYD*2A,"[['DPYD', '(PA145)']]",belongs to
+rs201065375,"[['clopidogrel', '(PA449053)'], ['enalapril', '(PA449456)'], ['sacubitril', '(PA166131580)']]",decreased metabolism of
+rs201065375,"[['CES1', '(PA107)']]",belongs to
+rs143718310,"[['clopidogrel', '(PA449053)'], ['enalapril', '(PA449456)'], ['sacubitril', '(PA166131580)']]",decreased metabolism of
+rs143718310,"[['CES1', '(PA107)']]",belongs to
+rs146456965,"[['clopidogrel', '(PA449053)'], ['enalapril', '(PA449456)'], ['sacubitril', '(PA166131580)']]",decreased metabolism of
+rs146456965,"[['CES1', '(PA107)']]",belongs to
+rs151291296,"[['clopidogrel', '(PA449053)'], ['enalapril', '(PA449456)'], ['sacubitril', '(PA166131580)']]",decreased enzyme activity of
+rs151291296,"[['CES1', '(PA107)']]",belongs to
+rs151291296,"[['CES1', '(PA107)']]",belongs to
+rs201065375,"[['CES1', '(PA107)']]",belongs to
+"CYP2C19*1, CYP2C19*29, CYP2C19*30, CYP2C19*31, CYP2C19*33","[['mephenytoin', '(PA450373)'], ['omeprazole', '(PA450704)']]",decreased activity of
+"CYP2C19*1, CYP2C19*29, CYP2C19*30, CYP2C19*31, CYP2C19*33","[['CYP2C19', '(PA124)']]",belongs to
+DPYD*9A,"[['DPYD', '(PA145)']]",belongs to
+rs75527207,"[['ivacaftor', '(PA165950341)'], ['nppb', '(PA166159659)']]",increased activity of
+rs75527207,"[['CFTR', '(PA109)']]",belongs to
+rs61622928,"[['DPYD', '(PA145)']]",belongs to
+DPYD*11,"[['DPYD', '(PA145)']]",belongs to
+"DPYD*11, DPYD*12","[['DPYD', '(PA145)']]",belongs to
+"CYP2C19*1, CYP2C19*32","[['mephenytoin', '(PA450373)']]",decreased activity of
+"CYP2C19*1, CYP2C19*32","[['CYP2C19', '(PA124)']]",belongs to
+"CFTRF508del(CTT), CFTRS1251N","[['ivacaftor', '(PA165950341)']]",increased activity of
+"CFTRF508del(CTT), CFTRS1251N","[['CFTR', '(PA109)']]",belongs to
+"CYP2D6*1, CYP2D6*92","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*96","[['CYP2D6', '(PA128)']]",belongs to
+rs3765534,"[['mercaptopurine', '(PA450379)']]",increased sensitivity to
+rs3765534,"[['ABCC4', '(PA397)']]",belongs to
+"SLC22A1*1, SLC22A1*4","[['proguanil', '(PA451124)']]",decreased uptake of
+"SLC22A1*1, SLC22A1*4","[['SLC22A1', '(PA329)']]",belongs to
+"SLC22A1*1, SLC22A1*5","[['proguanil', '(PA451124)']]",decreased uptake of
+"SLC22A1*1, SLC22A1*5","[['SLC22A1', '(PA329)']]",belongs to
+"SLC22A1*1, SLC22A1*6","[['proguanil', '(PA451124)']]",decreased uptake of
+"SLC22A1*1, SLC22A1*6","[['SLC22A1', '(PA329)']]",belongs to
+rs56038477,"[['DPYD', '(PA145)']]",belongs to
+DPYD*9A,"[['DPYD', '(PA145)']]",belongs to
+DPYD*5,"[['DPYD', '(PA145)']]",belongs to
+DPYD*6,"[['DPYD', '(PA145)']]",belongs to
+rs568132506,"[['DPYD', '(PA145)']]",belongs to
+"CYP2D6*1, CYP2D6*36","[['bufuralol', '(PA166110256)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*36","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10","[['bufuralol', '(PA166110256)']]",decreased catalytic activity of
+"CYP2D6*1, CYP2D6*10","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*2, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*97, CYP2D6*98","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*92, CYP2D6*96","[['tolterodine', '(PA164746757)']]",decreased activity of
+"CYP2D6*92, CYP2D6*96","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*93, CYP2D6*94, CYP2D6*95","[['tolterodine', '(PA164746757)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*93, CYP2D6*94, CYP2D6*95","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*87, CYP2D6*88, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*95, CYP2D6*97","[['olanzapine', '(PA450688)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*10, CYP2D6*87, CYP2D6*88, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*95, CYP2D6*97","[['CYP2D6', '(PA128)']]",belongs to
+"CYP2D6*1, CYP2D6*92, CYP2D6*96","[['olanzapine', '(PA450688)']]",decreased clearance of
+"CYP2D6*1, CYP2D6*92, CYP2D6*96","[['CYP2D6', '(PA128)']]",belongs to
+rs778258371,"[['methadone', '(PA450401)']]",decreased clearance of
+rs778258371,"[['CYP2C19', '(PA124)']]",belongs to
+rs770829708,"[['methadone', '(PA450401)']]",decreased clearance of
+rs770829708,"[['CYP2C19', '(PA124)']]",belongs to
+rs550527959,"[['methadone', '(PA450401)']]",decreased clearance of
+rs550527959,"[['CYP2C19', '(PA124)']]",belongs to
+rs200346442,"[['methadone', '(PA450401)']]",decreased clearance of
+rs200346442,"[['CYP2C19', '(PA124)']]",belongs to
+rs200150287,"[['methadone', '(PA450401)']]",decreased clearance of
+rs200150287,"[['CYP2C19', '(PA124)']]",belongs to
+rs749678783,"[['methadone', '(PA450401)']]",decreased clearance of
+rs749678783,"[['CYP2C19', '(PA124)']]",belongs to
+rs764137538,"[['methadone', '(PA450401)']]",decreased clearance of
+rs764137538,"[['CYP2C19', '(PA124)']]",belongs to
+rs1349931378,"[['methadone', '(PA450401)']]",decreased clearance of
+rs1349931378,"[['CYP2C19', '(PA124)']]",belongs to
+rs1267723490,"[['methadone', '(PA450401)']]",decreased clearance of
+rs1267723490,"[['CYP2C19', '(PA124)']]",belongs to
+rs1463550071,"[['methadone', '(PA450401)']]",decreased clearance of
+rs1463550071,"[['CYP2C19', '(PA124)']]",belongs to
+rs72552267,"[['methadone', '(PA450401)']]",decreased clearance of
+rs72552267,"[['CYP2C19', '(PA124)']]",belongs to
+rs118203756,"[['methadone', '(PA450401)']]",decreased clearance of
+rs118203756,"[['CYP2C19', '(PA124)']]",belongs to
+rs181297724,"[['methadone', '(PA450401)']]",decreased clearance of
+rs181297724,"[['CYP2C19', '(PA124)']]",belongs to
+rs138142612,"[['methadone', '(PA450401)']]",decreased clearance of
+rs138142612,"[['CYP2C19', '(PA124)']]",belongs to
+rs147255955,"[['CYP2C19', '(PA124)']]",belongs to
+rs559628884,"[['CYP2C19', '(PA124)']]",belongs to
+rs201615754,"[['DPYD', '(PA145)']]",belongs to
+rs55971861,"[['DPYD', '(PA145)']]",belongs to
+rs138545885,"[['DPYD', '(PA145)']]",belongs to
+rs145548112,"[['DPYD', '(PA145)']]",belongs to
+rs146529561,"[['DPYD', '(PA145)']]",belongs to
+rs60511679,"[['DPYD', '(PA145)']]",belongs to
+rs199634007,"[['DPYD', '(PA145)']]",belongs to
+rs201035051,"[['DPYD', '(PA145)']]",belongs to
+rs147545709,"[['DPYD', '(PA145)']]",belongs to
+rs145529148,"[['DPYD', '(PA145)']]",belongs to
+rs72547602,"[['DPYD', '(PA145)']]",belongs to
+rs139459586,"[['DPYD', '(PA145)']]",belongs to
+rs202144771,"[['DPYD', '(PA145)']]",belongs to
+rs140114515,"[['DPYD', '(PA145)']]",belongs to
+rs148799944,"[['DPYD', '(PA145)']]",belongs to
+rs56293913,"[['DPYD', '(PA145)']]",belongs to
+rs150036960,"[['DPYD', '(PA145)']]",belongs to
+rs1946518,"[['IL18', '(PA29802)']]",belongs to
+rs67376798,"[['DPYD', '(PA145)']]",belongs to
+rs61622928,"[['DPYD', '(PA145)']]",belongs to
+rs2297595,"[['DPYD', '(PA145)']]",belongs to
+DPYD*9A,"[['DPYD', '(PA145)']]",belongs to
+DPYD*4,"[['DPYD', '(PA145)']]",belongs to
+DPYD*6,"[['DPYD', '(PA145)']]",belongs to
+rs116855232,"[['NUDT15', '(PA134963132)']]",belongs to
+rs80081766,"[['DPYD', '(PA145)']]",belongs to
+"TPMT*1, TPMT*3A","[['cisplatin', '(PA449014)']]",increased sensitivity to
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+rs193922843,"[['RYR1', '(PA34896)']]",belongs to
+"TPMT*1, TPMT*3A","[['cisplatin', '(PA449014)']]",increased expression of
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"TPMT*1, TPMT*3A","[['cisplatin', '(PA449014)']]",increased sensitivity to
+"TPMT*1, TPMT*3A","[['TPMT', '(PA356)']]",belongs to
+"NAT2*14B, NAT2*4, NAT2*5B, NAT2*6A, NAT2*7B","[['solithromycin', '(PA166165147)']]",increased metabolism of
+"NAT2*14B, NAT2*4, NAT2*5B, NAT2*6A, NAT2*7B","[['NAT2', '(PA18)']]",belongs to
+"CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*18, CYP2D6*21, CYP2D6*41, CYP2D6*5","[['tamoxifen', '(PA451581)']]",increased expression of
+"CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*18, CYP2D6*21, CYP2D6*41, CYP2D6*5","[['CYP2D6', '(PA128)']]",belongs to
+rs9495425,"[['TXLNB', '(PA134878600)']]",belongs to
+rs17535305,"[['DISP1', '(PA134938043)']]",belongs to
+rs61840266,"[['DISP1', '(PA134938043)']]",belongs to
+rs35945601,"[['SPAG16', '(PA134887898)']]",belongs to
+rs17571991,"[['NAF1', '(PA162396775)']]",belongs to
+rs6569487,"[['ECHDC1', '(PA134871524)']]",belongs to
+rs62442010,"[['ZNF890P', '(PA166165172)']]",belongs to
+rs12701634,"[['AMPH', '(PA24779)']]",belongs to
+rs7818112,"[['KCNQ3', '(PA30075)']]",belongs to
+rs10840501,"[['ZBED5', '(PA147357120)']]",belongs to
+rs10147475,"[['DHRS4L1', '(PA134878665)']]",belongs to
+rs28458425,"[['CHD2', '(PA26453)']]",belongs to
+rs7165938,"[['RGMA', '(PA128394693)']]",belongs to
+rs304400,"[['ADCYAP1', '(PA24564)']]",belongs to
+rs3827963,"[['RALGAPA2', '(PA25784)']]",belongs to
+rs9303363,"[['STXBP4', '(PA134962267)']]",belongs to
+"CYP3A5*1A, CYP3A5*3A","[['CYP3A5', '(PA131)']]",belongs to
+"CYP3A4*1, CYP3A4*22","[['CYP3A4', '(PA130)']]",belongs to
